@@ -1,0 +1,41 @@
+[project]
+name = "price-scan"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "fastapi>=0.141.1",
+    "uvicorn>=0.52.3",
+    "playwright>=1.62.0",
+    "jinja2>=3.1.6",
+    "openpyxl>=3.1.5",
+    "pyyaml>=6.0.3",
+    "aiohttp>=3.14.3",
+]
+
+[tool.ruff]
+target-version = "py312"
+exclude = [
+    ".venv",
+]
+line-length = 150
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "I",
+    "UP",
+]
+ignore = [
+    "EM102",
+    "F401",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9",
+]

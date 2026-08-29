@@ -1,0 +1,17 @@
+services:
+  price-scan:
+    build: .
+    image: price-scan
+    container_name: price-scan
+    ports:
+      - "7080:8000"
+    environment:
+      RESOURCE_DIR: /data
+      TZ: Europe/Rome
+      IGNAV_API_KEY: ${IGNAV_API_KEY}
+    volumes:
+      - price-scan-data:/data
+    restart: unless-stopped
+
+volumes:
+  price-scan-data:

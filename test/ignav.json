@@ -1,0 +1,512 @@
+{
+  "origin": "FCO",
+  "destination": "AMS",
+  "departure_date": "2026-09-22",
+  "itineraries": [
+    {
+      "price": {
+        "amount": 96,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Vueling",
+        "duration_minutes": 735,
+        "segments": [
+          {
+            "marketing_carrier_code": "VY",
+            "flight_number": "6103",
+            "operating_carrier_name": "Vueling",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T21:25:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T19:25:00Z",
+            "arrival_airport": "BCN",
+            "arrival_time_local": "2026-09-22T23:25:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2026-09-22T21:25:00Z",
+            "duration_minutes": 120,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "VY",
+            "flight_number": "8300",
+            "operating_carrier_name": "Vueling",
+            "departure_airport": "BCN",
+            "departure_time_local": "2026-09-23T07:10:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2026-09-23T05:10:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-23T09:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-23T07:40:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "bags": {
+        "checked": 2
+      },
+      "requires_self_transfer": false,
+      "ignav_id": "fdb9c5c39cbf0000004dc716c6925cf3"
+    },
+    {
+      "price": {
+        "amount": 101,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Iberia",
+        "duration_minutes": 495,
+        "segments": [
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "706",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T10:20:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T08:20:00Z",
+            "arrival_airport": "MAD",
+            "arrival_time_local": "2026-09-22T12:55:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2026-09-22T10:55:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320"
+          },
+          {
+            "marketing_carrier_code": "IB",
+            "flight_number": "733",
+            "operating_carrier_name": "Iberia",
+            "departure_airport": "MAD",
+            "departure_time_local": "2026-09-22T15:55:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2026-09-22T13:55:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T18:35:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T16:35:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Airbus A320"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2b2aaf373254000000e6a19a97963b35"
+    },
+    {
+      "price": {
+        "amount": 123,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Air Europa",
+        "duration_minutes": 1025,
+        "segments": [
+          {
+            "marketing_carrier_code": "UX",
+            "flight_number": "1042",
+            "operating_carrier_name": "Air Europa",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T16:35:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T14:35:00Z",
+            "arrival_airport": "MAD",
+            "arrival_time_local": "2026-09-22T19:10:00",
+            "arrival_timezone": "Europe/Madrid",
+            "arrival_time_utc": "2026-09-22T17:10:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Boeing 737"
+          },
+          {
+            "marketing_carrier_code": "UX",
+            "flight_number": "1091",
+            "operating_carrier_name": "Air Europa",
+            "departure_airport": "MAD",
+            "departure_time_local": "2026-09-23T07:00:00",
+            "departure_timezone": "Europe/Madrid",
+            "departure_time_utc": "2026-09-23T05:00:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-23T09:40:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-23T07:40:00Z",
+            "duration_minutes": 160,
+            "aircraft": "Boeing 787"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "bags": {
+        "carry_on": 1
+      },
+      "requires_self_transfer": false,
+      "ignav_id": "d82bfbc1c87200000024b117defc4b11"
+    },
+    {
+      "price": {
+        "amount": 127,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Scandinavian Airlines",
+        "duration_minutes": 300,
+        "segments": [
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "682",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T11:55:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T09:55:00Z",
+            "arrival_airport": "CPH",
+            "arrival_time_local": "2026-09-22T14:30:00",
+            "arrival_timezone": "Europe/Copenhagen",
+            "arrival_time_utc": "2026-09-22T12:30:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A320neo"
+          },
+          {
+            "marketing_carrier_code": "SK",
+            "flight_number": "1549",
+            "operating_carrier_name": "Scandinavian Airlines",
+            "departure_airport": "CPH",
+            "departure_time_local": "2026-09-22T15:25:00",
+            "departure_timezone": "Europe/Copenhagen",
+            "departure_time_utc": "2026-09-22T13:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T16:55:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T14:55:00Z",
+            "duration_minutes": 90,
+            "aircraft": "Airbus A319"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "12d89c7a498800000008db6c041accb0"
+    },
+    {
+      "price": {
+        "amount": 174,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "108",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T08:30:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T06:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T11:00:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T09:00:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "bags": {
+        "checked": 2
+      },
+      "requires_self_transfer": false,
+      "ignav_id": "f20ba2add6bb0000000b19084bce9810"
+    },
+    {
+      "price": {
+        "amount": 174,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "ITA",
+        "duration_minutes": 150,
+        "segments": [
+          {
+            "marketing_carrier_code": "AZ",
+            "flight_number": "110",
+            "operating_carrier_name": "ITA",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T14:35:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T12:35:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T17:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T15:05:00Z",
+            "duration_minutes": 150,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "bags": {
+        "checked": 2
+      },
+      "requires_self_transfer": false,
+      "ignav_id": "ae74aae02201000000a313e0dd1b8efa"
+    },
+    {
+      "price": {
+        "amount": 175,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "SWISS",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "1737",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T15:05:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T13:05:00Z",
+            "arrival_airport": "ZRH",
+            "arrival_time_local": "2026-09-22T16:45:00",
+            "arrival_timezone": "Europe/Zurich",
+            "arrival_time_utc": "2026-09-22T14:45:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A220-300 Passenger"
+          },
+          {
+            "marketing_carrier_code": "LX",
+            "flight_number": "734",
+            "operating_carrier_name": "SWISS",
+            "departure_airport": "ZRH",
+            "departure_time_local": "2026-09-22T17:35:00",
+            "departure_timezone": "Europe/Zurich",
+            "departure_time_utc": "2026-09-22T15:35:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T19:15:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T17:15:00Z",
+            "duration_minutes": 100,
+            "aircraft": "Airbus A220-300 Passenger"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "2e031a799cd6000000f68180b312d3b4"
+    },
+    {
+      "price": {
+        "amount": 179,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 140,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1600",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T06:30:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T04:30:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T08:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T06:50:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "9a06e762fbdc000000b6808991a67615"
+    },
+    {
+      "price": {
+        "amount": 188,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 155,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1602",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T10:35:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T08:35:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T13:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T11:10:00Z",
+            "duration_minutes": 155,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "b39f804c414a00000080d2a185dab625"
+    },
+    {
+      "price": {
+        "amount": 191,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 140,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1608",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T19:45:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T17:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T22:05:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T20:05:00Z",
+            "duration_minutes": 140,
+            "aircraft": "Boeing 737"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "683fda24511e0000002bd5148fc3b44f"
+    },
+    {
+      "price": {
+        "amount": 191,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1606",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T17:25:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T15:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T19:50:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T17:50:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "fdd77f48a9ce000000eef7cfc13e5067"
+    },
+    {
+      "price": {
+        "amount": 202,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "KLM",
+        "duration_minutes": 145,
+        "segments": [
+          {
+            "marketing_carrier_code": "KL",
+            "flight_number": "1604",
+            "operating_carrier_name": "KLM",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T12:45:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T10:45:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T15:10:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T13:10:00Z",
+            "duration_minutes": 145,
+            "aircraft": "Airbus A321neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "aed6f75d11af0000005bac6f39d9a838"
+    },
+    {
+      "price": {
+        "amount": 235,
+        "currency": "EUR",
+        "status": "verified"
+      },
+      "outbound": {
+        "carrier": "Lufthansa",
+        "duration_minutes": 250,
+        "segments": [
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "1867",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "FCO",
+            "departure_time_local": "2026-09-22T10:50:00",
+            "departure_timezone": "Europe/Rome",
+            "departure_time_utc": "2026-09-22T08:50:00Z",
+            "arrival_airport": "MUC",
+            "arrival_time_local": "2026-09-22T12:25:00",
+            "arrival_timezone": "Europe/Berlin",
+            "arrival_time_utc": "2026-09-22T10:25:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A321"
+          },
+          {
+            "marketing_carrier_code": "LH",
+            "flight_number": "2304",
+            "operating_carrier_name": "Lufthansa",
+            "departure_airport": "MUC",
+            "departure_time_local": "2026-09-22T13:25:00",
+            "departure_timezone": "Europe/Berlin",
+            "departure_time_utc": "2026-09-22T11:25:00Z",
+            "arrival_airport": "AMS",
+            "arrival_time_local": "2026-09-22T15:00:00",
+            "arrival_timezone": "Europe/Amsterdam",
+            "arrival_time_utc": "2026-09-22T13:00:00Z",
+            "duration_minutes": 95,
+            "aircraft": "Airbus A320neo"
+          }
+        ]
+      },
+      "cabin_class": "economy",
+      "requires_self_transfer": false,
+      "ignav_id": "54e86c4e4b1e00000091110b02744fbb"
+    }
+  ]
+}

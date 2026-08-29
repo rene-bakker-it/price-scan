@@ -1,0 +1,8198 @@
+AAC:
+  country: EG
+  elevation: 35.9664
+  latitude: 31.055324
+  longitude: 33.827964
+  name: El Arish International Airport
+  region: EG-SIN
+AAE:
+  country: DZ
+  elevation: 4.8768
+  latitude: 36.826781
+  longitude: 7.81334
+  name: Annaba Rabah Bitat Airport
+  region: DZ-23
+AAL:
+  country: DK
+  elevation: 3.048
+  latitude: 57.094763
+  longitude: 9.84993
+  name: Aalborg Airport
+  region: DK-81
+AAN:
+  country: AE
+  elevation: 264.8712
+  latitude: 24.2617
+  longitude: 55.6092
+  name: Al Ain International Airport
+  region: AE-AZ
+AAR:
+  country: DK
+  elevation: 24.9936
+  latitude: 56.303331
+  longitude: 10.618286
+  name: Aarhus Airport
+  region: DK-82
+ABA:
+  country: RU
+  elevation: 253.2888
+  latitude: 53.740002
+  longitude: 91.385002
+  name: Abakan International Airport
+  region: RU-KK
+ABB:
+  country: NG
+  elevation: 92.964
+  latitude: 6.204167
+  longitude: 6.665278
+  name: Asaba International Airport
+  region: NG-DE
+ABD:
+  country: IR
+  elevation: 3.048
+  latitude: 30.367887
+  longitude: 48.230075
+  name: Abadan Ayatollah Jami International Airport
+  region: IR-06
+ABJ:
+  country: CI
+  elevation: 6.4008
+  latitude: 5.26139
+  longitude: -3.92629
+  name: Félix-Houphouët-Boigny International Airport
+  region: CI-AB
+ABQ:
+  country: US
+  elevation: 1632.2040000000002
+  latitude: 35.039976
+  longitude: -106.608925
+  name: Albuquerque International Sunport
+  region: US-NM
+ABV:
+  country: NG
+  elevation: 342.29040000000003
+  latitude: 9.00679
+  longitude: 7.26317
+  name: Nnamdi Azikiwe International Airport
+  region: NG-FC
+ABZ:
+  country: GB
+  elevation: 65.532
+  latitude: 57.2019
+  longitude: -2.19778
+  name: Aberdeen International Airport
+  region: GB-SCT
+ACA:
+  country: MX
+  elevation: 4.8768
+  latitude: 16.757126
+  longitude: -99.753113
+  name: General Juan N. Álvarez International Airport
+  region: MX-GRO
+ACC:
+  country: GH
+  elevation: 62.484
+  latitude: 5.60518980026245
+  longitude: -0.166786000132561
+  name: Kotoka International Airport
+  region: GH-AA
+ACE:
+  country: ES
+  elevation: 14.020800000000001
+  latitude: 28.945499
+  longitude: -13.6052
+  name: César Manrique-Lanzarote Airport
+  region: ES-CN
+ADB:
+  country: TR
+  elevation: 125.5776
+  latitude: 38.2924
+  longitude: 27.157
+  name: Adnan Menderes International Airport
+  region: TR-35
+ADD:
+  country: ET
+  elevation: 2325.6240000000003
+  latitude: 8.97789
+  longitude: 38.799301
+  name: Addis Ababa Bole International Airport
+  region: ET-AA
+ADE:
+  country: YE
+  elevation: 2.1336
+  latitude: 12.829564
+  longitude: 45.029976
+  name: Aden International Airport
+  region: YE-AD
+ADJ:
+  country: JO
+  elevation: 778.764
+  latitude: 31.9727
+  longitude: 35.9916
+  name: Marka International (Amman Civil) Airport
+  region: JO-AM
+ADL:
+  country: AU
+  elevation: 6.096
+  latitude: -34.947512
+  longitude: 138.533393
+  name: Adelaide International Airport
+  region: AU-SA
+ADZ:
+  country: CO
+  elevation: 5.7912
+  latitude: 12.5836
+  longitude: -81.7112
+  name: Gustavo Rojas Pinilla International Airport
+  region: CO-SAP
+AEP:
+  country: AR
+  elevation: 5.486400000000001
+  latitude: -34.559419
+  longitude: -58.415536
+  name: Aeroparque Jorge Newbery
+  region: AR-C
+AER:
+  country: RU
+  elevation: 27.127200000000002
+  latitude: 43.449902
+  longitude: 39.9566
+  name: Sochi International Airport
+  region: RU-KDA
+AES:
+  country: 'NO'
+  elevation: 21.031200000000002
+  latitude: 62.560443
+  longitude: 6.110845
+  name: Ålesund Airport
+  region: NO-15
+AEY:
+  country: IS
+  elevation: 1.8288000000000002
+  latitude: 65.656573
+  longitude: -18.072018
+  name: Akureyri International Airport
+  region: IS-6
+AGA:
+  country: MA
+  elevation: 76.2
+  latitude: 30.322478
+  longitude: -9.412003
+  name: Al Massira Airport
+  region: MA-09
+AGP:
+  country: ES
+  elevation: 16.154400000000003
+  latitude: 36.6749
+  longitude: -4.49911
+  name: Málaga-Costa del Sol Airport
+  region: ES-AN
+AGT:
+  country: PY
+  elevation: 257.86080000000004
+  latitude: -25.457186
+  longitude: -54.839544
+  name: Guaraní International Airport
+  region: PY-10
+AGU:
+  country: MX
+  elevation: 1862.9376000000002
+  latitude: 21.699589
+  longitude: -102.318372
+  name: Aguascalientes International Airport
+  region: MX-AGU
+AHB:
+  country: SA
+  elevation: 2090.3184
+  latitude: 18.2404
+  longitude: 42.656601
+  name: Abha International Airport
+  region: SA-14
+AJF:
+  country: SA
+  elevation: 689.1528000000001
+  latitude: 29.783301
+  longitude: 40.100905
+  name: Al-Jawf International Airport
+  region: SA-12
+AKL:
+  country: NZ
+  elevation: 7.010400000000001
+  latitude: -37.01199
+  longitude: 174.786331
+  name: Auckland International Airport
+  region: NZ-AUK
+AKX:
+  country: KZ
+  elevation: 224.94240000000002
+  latitude: 50.248116
+  longitude: 57.204144
+  name: Aktobe International Airport
+  region: KZ-AKT
+ALA:
+  country: KZ
+  elevation: 680.9232000000001
+  latitude: 43.354267
+  longitude: 77.042828
+  name: Almaty International Airport
+  region: KZ-ALA
+ALB:
+  country: US
+  elevation: 86.86800000000001
+  latitude: 42.748299
+  longitude: -73.801697
+  name: Albany International Airport
+  region: US-NY
+ALC:
+  country: ES
+  elevation: 43.281600000000005
+  latitude: 38.2822
+  longitude: -0.558156
+  name: Alicante-Elche Miguel Hernández Airport
+  region: ES-VC
+ALG:
+  country: DZ
+  elevation: 24.9936
+  latitude: 36.693886
+  longitude: 3.214531
+  name: Houari Boumediene Airport
+  region: DZ-16
+ALP:
+  country: SY
+  elevation: 388.9248
+  latitude: 36.181262
+  longitude: 37.226869
+  name: Aleppo International Airport
+  region: SY-HL
+AMD:
+  country: IN
+  elevation: 57.607200000000006
+  latitude: 23.0772
+  longitude: 72.634697
+  name: Sardar Vallabh Patel International Airport
+  region: IN-GJ
+AMM:
+  country: JO
+  elevation: 729.996
+  latitude: 31.7226009369
+  longitude: 35.9931983948
+  name: Queen Alia International Airport
+  region: JO-AM
+AMQ:
+  country: ID
+  elevation: 10.0584
+  latitude: -3.71026
+  longitude: 128.089005
+  name: Pattimura International Airport
+  region: ID-MA
+AMS:
+  country: NL
+  elevation: -3.3528000000000002
+  latitude: 52.308601
+  longitude: 4.76389
+  name: Amsterdam Airport Schiphol
+  region: NL-NH
+ANC:
+  country: US
+  elevation: 46.3296
+  latitude: 61.179004
+  longitude: -149.992561
+  name: Ted Stevens Anchorage International Airport
+  region: US-AK
+ANF:
+  country: CL
+  elevation: 138.684
+  latitude: -23.445274
+  longitude: -70.445232
+  name: Andrés Sabella Gálvez International Airport
+  region: CL-AN
+ANU:
+  country: AG
+  elevation: 18.8976
+  latitude: 17.1367
+  longitude: -61.792702
+  name: V. C. Bird International Airport
+  region: AG-03
+AOE:
+  country: TR
+  elevation: 788.8224
+  latitude: 39.811644
+  longitude: 30.519268
+  name: Hasan Polatkan Airport
+  region: TR-26
+AOJ:
+  country: JP
+  elevation: 202.3872
+  latitude: 40.733777
+  longitude: 140.689477
+  name: Aomori Airport
+  region: JP-02
+APL:
+  country: MZ
+  elevation: 440.13120000000004
+  latitude: -15.1056
+  longitude: 39.281799
+  name: Nampula Airport
+  region: MZ-N
+APW:
+  country: WS
+  elevation: 17.6784
+  latitude: -13.83
+  longitude: -172.007996
+  name: Faleolo International Airport
+  region: WS-AA
+AQI:
+  country: SA
+  elevation: 357.83520000000004
+  latitude: 28.335726
+  longitude: 46.127108
+  name: Qaisumah–Hafar Al-Batin International Airport
+  region: SA-04
+AQJ:
+  country: JO
+  elevation: 53.34
+  latitude: 29.611601
+  longitude: 35.018101
+  name: King Hussein International Airport
+  region: JO-AQ
+AQP:
+  country: PE
+  elevation: 2561.844
+  latitude: -16.340786
+  longitude: -71.569485
+  name: Rodríguez Ballón International Airport
+  region: PE-ARE
+ARN:
+  country: SE
+  elevation: 41.757600000000004
+  latitude: 59.64849
+  longitude: 17.928829
+  name: Stockholm-Arlanda Airport
+  region: SE-AB
+ASB:
+  country: TM
+  elevation: 210.9216
+  latitude: 37.986801
+  longitude: 58.361
+  name: Ashgabat International Airport
+  region: TM-S
+ASF:
+  country: RU
+  elevation: -19.812
+  latitude: 46.282843
+  longitude: 48.010511
+  name: Astrakhan Narimanovo Boris M. Kustodiev International Airport
+  region: RU-AST
+ASK:
+  country: CI
+  elevation: 213.0552
+  latitude: 6.90317
+  longitude: -5.36558
+  name: Yamoussoukro International Airport
+  region: CI-YM
+ASR:
+  country: TR
+  elevation: 1055.5224
+  latitude: 38.770401
+  longitude: 35.495399
+  name: Kayseri Erkilet International Airport
+  region: TR-38
+ASU:
+  country: PY
+  elevation: 89.00160000000001
+  latitude: -25.240156
+  longitude: -57.519227
+  name: Silvio Pettirossi International Airport
+  region: PY-11
+ASW:
+  country: EG
+  elevation: 198.12
+  latitude: 23.961075
+  longitude: 32.820382
+  name: Aswan International Airport
+  region: EG-ASN
+ATH:
+  country: GR
+  elevation: 93.8784
+  latitude: 37.936401
+  longitude: 23.9445
+  name: Athens Eleftherios Venizelos International Airport
+  region: GR-I
+ATL:
+  country: US
+  elevation: 312.7248
+  latitude: 33.6367
+  longitude: -84.428101
+  name: Hartsfield Jackson Atlanta International Airport
+  region: US-GA
+ATQ:
+  country: IN
+  elevation: 230.42880000000002
+  latitude: 31.7096
+  longitude: 74.797302
+  name: Sri Guru Ram Das Ji International Airport
+  region: IN-PB
+ATZ:
+  country: EG
+  elevation: 227.99040000000002
+  latitude: 27.045962
+  longitude: 31.01276
+  name: Asyut International Airport
+  region: EG-AST
+AUA:
+  country: AW
+  elevation: 18.288
+  latitude: 12.501056
+  longitude: -70.014281
+  name: Queen Beatrix International Airport
+  region: AW-U-A
+AUH:
+  country: AE
+  elevation: 26.822400000000002
+  latitude: 24.440966
+  longitude: 54.649237
+  name: Zayed International Airport
+  region: AE-AZ
+AUS:
+  country: US
+  elevation: 165.2016
+  latitude: 30.197535
+  longitude: -97.662015
+  name: Austin Bergstrom International Airport
+  region: US-TX
+AVV:
+  country: AU
+  elevation: 10.668000000000001
+  latitude: -38.040269
+  longitude: 144.467196
+  name: Melbourne Avalon International Airport
+  region: AU-VIC
+AWA:
+  country: ET
+  elevation: 1661.16
+  latitude: 7.100611
+  longitude: 38.396455
+  name: Hawassa International Airport
+  region: ET-XSD
+AWZ:
+  country: IR
+  elevation: 20.1168
+  latitude: 31.3364
+  longitude: 48.763789
+  name: Qasem Soleimani International Airport
+  region: IR-06
+AYT:
+  country: TR
+  elevation: 53.949600000000004
+  latitude: 36.898701
+  longitude: 30.800501
+  name: Antalya International Airport
+  region: TR-07
+AZI:
+  country: AE
+  elevation: 4.8768
+  latitude: 24.427062
+  longitude: 54.459866
+  name: Al Bateen Executive Airport
+  region: AE-AZ
+BAH:
+  country: BH
+  elevation: 1.8288000000000002
+  latitude: 26.267295
+  longitude: 50.63764
+  name: Bahrain International Airport
+  region: BH-15
+BAQ:
+  country: CO
+  elevation: 29.8704
+  latitude: 10.8896
+  longitude: -74.7808
+  name: Ernesto Cortissoz International Airport
+  region: CO-ATL
+BAV:
+  country: CN
+  elevation: 1012.2408
+  latitude: 40.560001
+  longitude: 109.997002
+  name: Baotou Donghe International Airport
+  region: CN-15
+BAX:
+  country: RU
+  elevation: 255.1176
+  latitude: 53.361285
+  longitude: 83.539701
+  name: Barnaul Gherman Titov International Airport
+  region: RU-ALT
+BBI:
+  country: IN
+  elevation: 42.062400000000004
+  latitude: 20.251021
+  longitude: 85.814747
+  name: Biju Patnaik International Airport
+  region: IN-OR
+BBK:
+  country: BW
+  elevation: 1002.4872
+  latitude: -17.831653
+  longitude: 25.166195
+  name: Kasane International Airport
+  region: BW-CH
+BBU:
+  country: RO
+  elevation: 90.52560000000001
+  latitude: 44.503133
+  longitude: 26.102944
+  name: Bucharest Băneasa Aurel Vlaicu International Airport
+  region: RO-B
+BCD:
+  country: PH
+  elevation: 24.9936
+  latitude: 10.776237
+  longitude: 123.018879
+  name: Bacolod-Silay International Airport
+  region: PH-NEC
+BCM:
+  country: RO
+  elevation: 185.0136
+  latitude: 46.5219
+  longitude: 26.910299
+  name: Bacău George Enescu International  Airport
+  region: RO-BC
+BCN:
+  country: ES
+  elevation: 3.6576000000000004
+  latitude: 41.2971
+  longitude: 2.07846
+  name: Josep Tarradellas Barcelona-El Prat Airport
+  region: ES-CT
+BCU:
+  country: NG
+  elevation: 598.932
+  latitude: 10.482833
+  longitude: 9.744
+  name: Sir Abubakar Tafawa Balewa Bauchi State International Airport
+  region: NG-BA
+BDA:
+  country: BM
+  elevation: 3.6576000000000004
+  latitude: 32.363802
+  longitude: -64.67824
+  name: L.F. Wade International Airport
+  region: BM-U-A
+BDJ:
+  country: ID
+  elevation: 20.1168
+  latitude: -3.440112
+  longitude: 114.761209
+  name: Syamsudin Noor International Airport
+  region: ID-KS
+BDL:
+  country: US
+  elevation: 52.7304
+  latitude: 41.938555
+  longitude: -72.688016
+  name: Bradley International Airport
+  region: US-CT
+BDQ:
+  country: IN
+  elevation: 39.3192
+  latitude: 22.336201
+  longitude: 73.226303
+  name: Vadodara International Airport
+  region: IN-GJ
+BDS:
+  country: IT
+  elevation: 14.325600000000001
+  latitude: 40.6576
+  longitude: 17.947001
+  name: Brindisi Airport
+  region: IT-75
+BEG:
+  country: RS
+  elevation: 102.108
+  latitude: 44.818401
+  longitude: 20.309099
+  name: Belgrade Nikola Tesla Airport
+  region: RS-00
+BEL:
+  country: BR
+  elevation: 16.4592
+  latitude: -1.379279
+  longitude: -48.476207
+  name: Val de Cans/Júlio Cezar Ribeiro International Airport
+  region: BR-PA
+BEM:
+  country: MA
+  elevation: 516.3312000000001
+  latitude: 32.401895
+  longitude: -6.315905
+  name: Beni Mellal Airport
+  region: MA-05
+BEN:
+  country: LY
+  elevation: 131.9784
+  latitude: 32.096802
+  longitude: 20.269501
+  name: Benina International Airport
+  region: LY-BA
+BER:
+  country: DE
+  elevation: 47.8536
+  latitude: 52.361738
+  longitude: 13.502341
+  name: Berlin Brandenburg Airport
+  region: DE-BR
+BES:
+  country: FR
+  elevation: 99.06
+  latitude: 48.447899
+  longitude: -4.41854
+  name: Brest Bretagne airport
+  region: FR-BRE
+BEW:
+  country: MZ
+  elevation: 10.0584
+  latitude: -19.7964
+  longitude: 34.9076
+  name: Beira International Airport
+  region: MZ-S
+BEY:
+  country: LB
+  elevation: 26.5176
+  latitude: 33.819833
+  longitude: 35.487443
+  name: Beirut Rafic Hariri International Airport
+  region: LB-JL
+BFN:
+  country: ZA
+  elevation: 1358.4936
+  latitude: -29.092699
+  longitude: 26.302401
+  name: Bram Fischer International Airport
+  region: ZA-FS
+BFS:
+  country: GB
+  elevation: 81.6864
+  latitude: 54.6575012207
+  longitude: -6.21582984924
+  name: Belfast International Airport
+  region: GB-NIR
+BGF:
+  country: CF
+  elevation: 368.1984
+  latitude: 4.39848
+  longitude: 18.518801
+  name: Bangui M'Poko International Airport
+  region: CF-MP
+BGI:
+  country: BB
+  elevation: 51.5112
+  latitude: 13.074667
+  longitude: -59.491034
+  name: Grantley Adams International Airport
+  region: BB-01
+BGO:
+  country: 'NO'
+  elevation: 51.816
+  latitude: 60.2934
+  longitude: 5.21814
+  name: Bergen Airport, Flesland
+  region: NO-46
+BGW:
+  country: IQ
+  elevation: 34.7472
+  latitude: 33.262501
+  longitude: 44.2346
+  name: Baghdad International Airport / New Al Muthana Air Base
+  region: IQ-BG
+BGY:
+  country: IT
+  elevation: 238.3536
+  latitude: 45.669362
+  longitude: 9.708851
+  name: Il Caravaggio International Airport
+  region: IT-25
+BHK:
+  country: UZ
+  elevation: 228.90480000000002
+  latitude: 39.775319
+  longitude: 64.482279
+  name: Bukhara International Airport
+  region: UZ-BU
+BHM:
+  country: US
+  elevation: 198.12
+  latitude: 33.562877
+  longitude: -86.750712
+  name: Birmingham-Shuttlesworth International Airport
+  region: US-AL
+BHO:
+  country: IN
+  elevation: 521.5128
+  latitude: 23.2875
+  longitude: 77.337402
+  name: Raja Bhoj International Airport
+  region: IN-MP
+BHX:
+  country: GB
+  elevation: 99.6696
+  latitude: 52.453899
+  longitude: -1.74803
+  name: Birmingham Airport
+  region: GB-ENG
+BIA:
+  country: FR
+  elevation: 7.9248
+  latitude: 42.5527
+  longitude: 9.48373
+  name: Bastia-Poretta International airport
+  region: FR-COR
+BIO:
+  country: ES
+  elevation: 42.062400000000004
+  latitude: 43.301102
+  longitude: -2.91061
+  name: Bilbao Airport
+  region: ES-PV
+BJA:
+  country: DZ
+  elevation: 6.096
+  latitude: 36.712547
+  longitude: 5.069909
+  name: Soummam–Abane Ramdane Airport
+  region: DZ-06
+BJL:
+  country: GM
+  elevation: 28.956000000000003
+  latitude: 13.338
+  longitude: -16.652201
+  name: Banjul International Airport
+  region: GM-W
+BJM:
+  country: BI
+  elevation: 786.9936
+  latitude: -3.32402
+  longitude: 29.318501
+  name: Bujumbura Melchior Ndadaye International Airport
+  region: BI-BM
+BJV:
+  country: TR
+  elevation: 6.4008
+  latitude: 37.249314
+  longitude: 27.66401
+  name: Milas Bodrum International Airport
+  region: TR-48
+BJX:
+  country: MX
+  elevation: 1815.3888000000002
+  latitude: 20.992695
+  longitude: -101.480284
+  name: Guanajuato International Airport
+  region: MX-GUA
+BKI:
+  country: MY
+  elevation: 3.048
+  latitude: 5.932743
+  longitude: 116.049324
+  name: Kota Kinabalu International Airport
+  region: MY-12
+BKK:
+  country: TH
+  elevation: 1.524
+  latitude: 13.6811
+  longitude: 100.747002
+  name: Suvarnabhumi Airport
+  region: TH-10
+BKO:
+  country: ML
+  elevation: 380.0856
+  latitude: 12.5335
+  longitude: -7.94994
+  name: Modibo Keita International Airport
+  region: ML-2
+BLA:
+  country: VE
+  elevation: 9.144
+  latitude: 10.111111
+  longitude: -64.692222
+  name: General José Antonio Anzoategui International Airport
+  region: VE-B
+BLJ:
+  country: DZ
+  elevation: 822.0456
+  latitude: 35.752102
+  longitude: 6.30859
+  name: Batna Mostefa Ben Boulaid Airport
+  region: DZ-05
+BLL:
+  country: DK
+  elevation: 75.2856
+  latitude: 55.740335
+  longitude: 9.157019
+  name: Billund Airport
+  region: DK-83
+BLQ:
+  country: IT
+  elevation: 37.4904
+  latitude: 44.5354
+  longitude: 11.2887
+  name: Bologna Guglielmo Marconi Airport
+  region: IT-45
+BLR:
+  country: IN
+  elevation: 914.4000000000001
+  latitude: 13.1979
+  longitude: 77.706299
+  name: Kempegowda International Airport Bengaluru
+  region: IN-KA
+BLZ:
+  country: MW
+  elevation: 778.764
+  latitude: -15.677189
+  longitude: 34.972319
+  name: Chileka International Airport
+  region: MW-BL
+BME:
+  country: AU
+  elevation: 17.0688
+  latitude: -17.949194
+  longitude: 122.2283
+  name: Broome International Airport
+  region: AU-WA
+BNA:
+  country: US
+  elevation: 182.5752
+  latitude: 36.1245
+  longitude: -86.6782
+  name: Nashville International Airport
+  region: US-TN
+BND:
+  country: IR
+  elevation: 6.7056000000000004
+  latitude: 27.2183
+  longitude: 56.3778
+  name: Bandar Abbas International Airport
+  region: IR-22
+BNE:
+  country: AU
+  elevation: 3.9624
+  latitude: -27.3841991424561
+  longitude: 153.117004394531
+  name: Brisbane International Airport
+  region: AU-QLD
+BNX:
+  country: BA
+  elevation: 121.92
+  latitude: 44.941399
+  longitude: 17.297501
+  name: Banja Luka International Airport
+  region: BA-SRP
+BOD:
+  country: FR
+  elevation: 49.3776
+  latitude: 44.82865
+  longitude: -0.715356
+  name: Bordeaux–Mérignac Airport
+  region: FR-NAQ
+BOG:
+  country: CO
+  elevation: 2548.4328
+  latitude: 4.70159
+  longitude: -74.1469
+  name: El Dorado International Airport
+  region: CO-DC
+BOI:
+  country: US
+  elevation: 875.0808000000001
+  latitude: 43.5644
+  longitude: -116.223
+  name: Boise Air Terminal/Gowen Field
+  region: US-ID
+BOJ:
+  country: BG
+  elevation: 41.148
+  latitude: 42.569917
+  longitude: 27.515173
+  name: Burgas Airport
+  region: BG-02
+BOM:
+  country: IN
+  elevation: 11.8872
+  latitude: 19.088699
+  longitude: 72.867897
+  name: Chhatrapati Shivaji Maharaj International Airport
+  region: IN-MM
+BON:
+  country: BQ
+  elevation: 6.096
+  latitude: 12.131
+  longitude: -68.268501
+  name: Flamingo International Airport
+  region: BQ-BO
+BOO:
+  country: 'NO'
+  elevation: 12.8016
+  latitude: 67.269203
+  longitude: 14.3653
+  name: Bodø Airport
+  region: NO-18
+BOS:
+  country: US
+  elevation: 6.096
+  latitude: 42.36197
+  longitude: -71.0079
+  name: Boston Logan International Airport
+  region: US-MA
+BOY:
+  country: BF
+  elevation: 460.55280000000005
+  latitude: 11.1601
+  longitude: -4.33097
+  name: Bobo Dioulasso Airport
+  region: BF-HOU
+BPN:
+  country: ID
+  elevation: 3.6576000000000004
+  latitude: -1.268342
+  longitude: 116.89452
+  name: Sultan Aji Muhammad Sulaiman Sepinggan International Airport
+  region: ID-KI
+BPS:
+  country: BR
+  elevation: 51.5112
+  latitude: -16.438426
+  longitude: -39.080584
+  name: Porto Seguro International Airport
+  region: BR-BA
+BQT:
+  country: BY
+  elevation: 142.6464
+  latitude: 52.108138
+  longitude: 23.89676
+  name: Brest International Airport
+  region: BY-BR
+BRC:
+  country: AR
+  elevation: 845.5152
+  latitude: -41.151199
+  longitude: -71.157501
+  name: Teniente Luis Candelaria International Airport
+  region: AR-R
+BRE:
+  country: DE
+  elevation: 4.2672
+  latitude: 53.046786
+  longitude: 8.78932
+  name: Bremen Airport
+  region: DE-HB
+BRI:
+  country: IT
+  elevation: 58.8264
+  latitude: 41.138901
+  longitude: 16.760599
+  name: Bari Karol Wojtyła International Airport
+  region: IT-75
+BRM:
+  country: VE
+  elevation: 622.4016
+  latitude: 10.042747
+  longitude: -69.35862
+  name: Jacinto Lara International Airport
+  region: VE-K
+BRS:
+  country: GB
+  elevation: 189.5856
+  latitude: 51.382326
+  longitude: -2.716453
+  name: Bristol Airport
+  region: GB-ENG
+BRU:
+  country: BE
+  elevation: 53.34
+  latitude: 50.901402
+  longitude: 4.48444
+  name: Brussels Airport
+  region: BE-VBR
+BSA:
+  country: SO
+  elevation: 0.9144000000000001
+  latitude: 11.275235
+  longitude: 49.139231
+  name: Bender Qassim International Airport
+  region: SO-BR
+BSB:
+  country: BR
+  elevation: 1065.8856
+  latitude: -15.869167
+  longitude: -47.920834
+  name: Presidente Juscelino Kubitschek International Airport
+  region: BR-DF
+BSG:
+  country: GQ
+  elevation: 3.9624
+  latitude: 1.90547
+  longitude: 9.80568
+  name: Bata International Airport
+  region: GQ-LI
+BSK:
+  country: DZ
+  elevation: 88.08720000000001
+  latitude: 34.79318
+  longitude: 5.738899
+  name: Biskra - Mohamed Khider Airport
+  region: DZ-07
+BSL:
+  country: FR
+  elevation: 269.748
+  latitude: 47.60068
+  longitude: 7.521117
+  name: EuroAirport Basel–Mulhouse–Freiburg
+  region: FR-GES
+BSR:
+  country: IQ
+  elevation: 3.3528000000000002
+  latitude: 30.549101
+  longitude: 47.662102
+  name: Basra International Airport
+  region: IQ-BA
+BSZ:
+  country: KG
+  elevation: 627.2784
+  latitude: 43.061298
+  longitude: 74.4776
+  name: Manas International Airport
+  region: KG-C
+BTH:
+  country: ID
+  elevation: 38.4048
+  latitude: 1.12103
+  longitude: 104.119003
+  name: Hang Nadim International Airport
+  region: ID-KR
+BTJ:
+  country: ID
+  elevation: 19.812
+  latitude: 5.525087
+  longitude: 95.41997
+  name: Sultan Iskandar Muda International Airport
+  region: ID-AC
+BTS:
+  country: SK
+  elevation: 132.8928
+  latitude: 48.1702
+  longitude: 17.2127
+  name: M. R. Štefánik Airport
+  region: SK-BL
+BUD:
+  country: HU
+  elevation: 150.876
+  latitude: 47.43018
+  longitude: 19.262393
+  name: Budapest Liszt Ferenc International Airport
+  region: HU-BU
+BUF:
+  country: US
+  elevation: 221.89440000000002
+  latitude: 42.940498
+  longitude: -78.732201
+  name: Buffalo Niagara International Airport
+  region: US-NY
+BUQ:
+  country: ZW
+  elevation: 1328.6232
+  latitude: -20.016284
+  longitude: 28.622897
+  name: Joshua Mqabuko Nkomo International Airport
+  region: ZW-BU
+BUR:
+  country: US
+  elevation: 237.1344
+  latitude: 34.202834
+  longitude: -118.35805
+  name: Hollywood Burbank/Bob Hope Airport
+  region: US-CA
+BUS:
+  country: GE
+  elevation: 32.004000000000005
+  latitude: 41.60939
+  longitude: 41.600315
+  name: Alexander Kartveli Batumi International Airport
+  region: GE-AJ
+BVA:
+  country: FR
+  elevation: 109.42320000000001
+  latitude: 49.454399
+  longitude: 2.11278
+  name: Beauvais-Tillé airport
+  region: FR-HDF
+BVB:
+  country: BR
+  elevation: 84.12480000000001
+  latitude: 2.84615
+  longitude: -60.690648
+  name: Atlas Brasil Cantanhede International Airport
+  region: BR-RR
+BVC:
+  country: CV
+  elevation: 21.031200000000002
+  latitude: 16.136499
+  longitude: -22.888901
+  name: Aristides Pereira International Airport
+  region: CV-B
+BWA:
+  country: NP
+  elevation: 109.11840000000001
+  latitude: 27.504636
+  longitude: 83.410381
+  name: Gautam Buddha International Airport
+  region: NP-P5
+BWI:
+  country: US
+  elevation: 44.500800000000005
+  latitude: 39.1754
+  longitude: -76.668297
+  name: Baltimore/Washington International Thurgood Marshall Airport
+  region: US-MD
+BWN:
+  country: BN
+  elevation: 22.250400000000003
+  latitude: 4.9442
+  longitude: 114.928001
+  name: Brunei International Airport
+  region: BN-BM
+BXY:
+  country: KZ
+  elevation: 96.6216
+  latitude: 45.621994
+  longitude: 63.210773
+  name: Baikonur Krayniy International Airport
+  region: KZ-BAY
+BZE:
+  country: BZ
+  elevation: 4.572
+  latitude: 17.539951
+  longitude: -88.303556
+  name: Philip S. W. Goldson International Airport
+  region: BZ-BZ
+BZV:
+  country: CG
+  elevation: 319.4304
+  latitude: -4.2517
+  longitude: 15.253
+  name: Maya-Maya International Airport
+  region: CG-12
+CAG:
+  country: IT
+  elevation: 3.9624
+  latitude: 39.251499
+  longitude: 9.05428
+  name: Cagliari Elmas Airport
+  region: IT-88
+CAI:
+  country: EG
+  elevation: 98.1456
+  latitude: 30.111534
+  longitude: 31.396694
+  name: Cairo International Airport
+  region: EG-C
+CAN:
+  country: CN
+  elevation: 15.24
+  latitude: 23.392401
+  longitude: 113.299004
+  name: Guangzhou Baiyun International Airport
+  region: CN-44
+CAP:
+  country: HT
+  elevation: 3.048
+  latitude: 19.725547
+  longitude: -72.20071
+  name: Cap Haitien International Airport
+  region: HT-ND
+CAY:
+  country: GF
+  elevation: 7.9248
+  latitude: 4.819964
+  longitude: -52.361326
+  name: Cayenne – Félix Eboué Airport
+  region: GF-CY
+CBB:
+  country: BO
+  elevation: 2548.128
+  latitude: -17.421105
+  longitude: -66.177102
+  name: Jorge Wilsterman International Airport
+  region: BO-C
+CCJ:
+  country: IN
+  elevation: 104.2416
+  latitude: 11.135996
+  longitude: 75.955152
+  name: Calicut International Airport
+  region: IN-KL
+CCK:
+  country: CC
+  elevation: 3.048
+  latitude: -12.192218
+  longitude: 96.834103
+  name: Cocos (Keeling) Islands Airport
+  region: CC-U-A
+CCP:
+  country: CL
+  elevation: 7.9248
+  latitude: -36.77235
+  longitude: -73.062828
+  name: Carriel Sur International Airport
+  region: CL-BI
+CCS:
+  country: VE
+  elevation: 71.3232
+  latitude: 10.602214
+  longitude: -66.991174
+  name: Maiquetía Simón Bolívar International Airport
+  region: VE-X
+CCU:
+  country: IN
+  elevation: 4.8768
+  latitude: 22.654012
+  longitude: 88.44765
+  name: Netaji Subhash Chandra Bose International Airport
+  region: IN-WB
+CDG:
+  country: FR
+  elevation: 119.4816
+  latitude: 49.00896
+  longitude: 2.554117
+  name: Charles de Gaulle International Airport
+  region: FR-IDF
+CEB:
+  country: PH
+  elevation: 9.4488
+  latitude: 10.309261
+  longitude: 123.97974
+  name: Mactan Cebu International Airport
+  region: PH-CEB
+CEI:
+  country: TH
+  elevation: 390.144
+  latitude: 19.952299
+  longitude: 99.882896
+  name: Mae Fah Luang - Chiang Rai International Airport
+  region: TH-57
+CEK:
+  country: RU
+  elevation: 234.3912
+  latitude: 55.303141
+  longitude: 61.504927
+  name: Kurchatov Chelyabinsk International Airport
+  region: RU-CHE
+CFE:
+  country: FR
+  elevation: 332.232
+  latitude: 45.786701
+  longitude: 3.16917
+  name: Clermont-Ferrand Auvergne airport
+  region: FR-ARA
+CFK:
+  country: DZ
+  elevation: 141.1224
+  latitude: 36.216614
+  longitude: 1.341114
+  name: Chlef Aboubakr Belkaid International Airport
+  region: DZ-02
+CFU:
+  country: GR
+  elevation: 1.8288000000000002
+  latitude: 39.60145
+  longitude: 19.912179
+  name: Corfu Ioannis Kapodistrias International Airport
+  region: GR-F
+CGB:
+  country: BR
+  elevation: 188.0616
+  latitude: -15.6529
+  longitude: -56.116699
+  name: Várzea Grande–Marechal Rondon International Airport
+  region: BR-MT
+CGH:
+  country: BR
+  elevation: 801.9288
+  latitude: -23.627657
+  longitude: -46.654601
+  name: Congonhas–Deputado Freitas Nobre Airport
+  region: BR-SP
+CGK:
+  country: ID
+  elevation: 10.3632
+  latitude: -6.12557
+  longitude: 106.655998
+  name: Soekarno-Hatta International Airport
+  region: ID-BT
+CGN:
+  country: DE
+  elevation: 92.0496
+  latitude: 50.865898
+  longitude: 7.14274
+  name: Cologne Bonn Airport
+  region: DE-NW
+CGO:
+  country: CN
+  elevation: 150.876
+  latitude: 34.526497
+  longitude: 113.849165
+  name: Zhengzhou Xinzheng International Airport
+  region: CN-41
+CGP:
+  country: BD
+  elevation: 3.6576000000000004
+  latitude: 22.249599
+  longitude: 91.813301
+  name: Shah Amanat International Airport
+  region: BD-B
+CGQ:
+  country: CN
+  elevation: 215.18880000000001
+  latitude: 43.996201
+  longitude: 125.684998
+  name: Changchun Longjia International Airport
+  region: CN-22
+CGY:
+  country: PH
+  elevation: 57.912000000000006
+  latitude: 8.612203
+  longitude: 124.456496
+  name: Laguindingan International Airport
+  region: PH-MSR
+CHC:
+  country: NZ
+  elevation: 37.4904
+  latitude: -43.489029
+  longitude: 172.532065
+  name: Christchurch International Airport
+  region: NZ-CAN
+CHQ:
+  country: GR
+  elevation: 149.352
+  latitude: 35.531207
+  longitude: 24.150673
+  name: Chania International Airport
+  region: GR-M
+CHS:
+  country: US
+  elevation: 14.020800000000001
+  latitude: 32.896159
+  longitude: -80.038151
+  name: Charleston International Airport
+  region: US-SC
+CIA:
+  country: IT
+  elevation: 130.1496
+  latitude: 41.798769
+  longitude: 12.595331
+  name: Ciampino–G. B. Pastine International Airport
+  region: IT-62
+CIT:
+  country: KZ
+  elevation: 422.148
+  latitude: 42.365021
+  longitude: 69.47564
+  name: Shymkent International Airport
+  region: KZ-YUZ
+CIX:
+  country: PE
+  elevation: 29.5656
+  latitude: -6.789223
+  longitude: -79.828254
+  name: Capitán FAP José A. Quiñones González International Airport
+  region: PE-LAM
+CJB:
+  country: IN
+  elevation: 403.5552
+  latitude: 11.03
+  longitude: 77.043404
+  name: Coimbatore International Airport
+  region: IN-TN
+CJJ:
+  country: KR
+  elevation: 58.216800000000006
+  latitude: 36.71556
+  longitude: 127.500289
+  name: Cheongju International Airport/Cheongju Air Base (K-59/G-513)
+  region: KR-43
+CJS:
+  country: MX
+  elevation: 1189.9392
+  latitude: 31.636673
+  longitude: -106.428533
+  name: Abraham González International Airport
+  region: MX-CHH
+CJU:
+  country: KR
+  elevation: 35.9664
+  latitude: 33.512058
+  longitude: 126.492548
+  name: Jeju International Airport
+  region: KR-49
+CKG:
+  country: CN
+  elevation: 416.052
+  latitude: 29.712254
+  longitude: 106.651895
+  name: Chongqing Jiangbei International Airport
+  region: CN-50
+CKY:
+  country: GN
+  elevation: 21.945600000000002
+  latitude: 9.57689
+  longitude: -13.612
+  name: Ahmed Sékou Touré International Airport
+  region: GN-C
+CLE:
+  country: US
+  elevation: 241.0968
+  latitude: 41.411701
+  longitude: -81.8498
+  name: Cleveland Hopkins International Airport
+  region: US-OH
+CLJ:
+  country: RO
+  elevation: 316.6872
+  latitude: 46.786042
+  longitude: 23.685733
+  name: Avram Iancu Cluj International Airport
+  region: RO-CJ
+CLO:
+  country: CO
+  elevation: 963.7776
+  latitude: 3.542717
+  longitude: -76.381898
+  name: Alfonso Bonilla Aragon International Airport
+  region: CO-VAC
+CLT:
+  country: US
+  elevation: 227.99040000000002
+  latitude: 35.2140007019043
+  longitude: -80.9430999755859
+  name: Charlotte Douglas International Airport
+  region: US-NC
+CMB:
+  country: LK
+  elevation: 9.144
+  latitude: 7.1807599067688
+  longitude: 79.8841018676758
+  name: Bandaranaike International Colombo Airport
+  region: LK-1
+CMH:
+  country: US
+  elevation: 248.412
+  latitude: 39.998001
+  longitude: -82.891899
+  name: John Glenn Columbus International Airport
+  region: US-OH
+CMN:
+  country: MA
+  elevation: 199.9488
+  latitude: 33.3675
+  longitude: -7.58997
+  name: Mohammed V International Airport
+  region: MA-06
+CMW:
+  country: CU
+  elevation: 125.8824
+  latitude: 21.419909
+  longitude: -77.848039
+  name: Ignacio Agramonte International Airport
+  region: CU-09
+CND:
+  country: RO
+  elevation: 107.59440000000001
+  latitude: 44.362202
+  longitude: 28.4883
+  name: Mihail Kogălniceanu International Airport
+  region: RO-CT
+CNF:
+  country: BR
+  elevation: 829.3608
+  latitude: -19.63571
+  longitude: -43.966928
+  name: Tancredo Neves International Airport
+  region: BR-MG
+CNN:
+  country: IN
+  elevation: 100.584
+  latitude: 11.916343
+  longitude: 75.544979
+  name: Kannur International Airport
+  region: IN-KL
+CNS:
+  country: AU
+  elevation: 3.048
+  latitude: -16.878921
+  longitude: 145.74948
+  name: Cairns International Airport
+  region: AU-QLD
+CNX:
+  country: TH
+  elevation: 315.7728
+  latitude: 18.7667999268
+  longitude: 98.962600708
+  name: Chiang Mai International Airport
+  region: TH-50
+COK:
+  country: IN
+  elevation: 9.144
+  latitude: 10.151047
+  longitude: 76.400838
+  name: Cochin International Airport
+  region: IN-KL
+COO:
+  country: BJ
+  elevation: 5.7912
+  latitude: 6.35723
+  longitude: 2.38435
+  name: Cotonou Cadjehoun International Airport
+  region: BJ-AQ
+COR:
+  country: AR
+  elevation: 488.8992
+  latitude: -31.312346
+  longitude: -64.208329
+  name: Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport
+  region: AR-X
+COS:
+  country: US
+  elevation: 1885.7976
+  latitude: 38.805801
+  longitude: -104.700996
+  name: City of Colorado Springs Municipal Airport
+  region: US-CO
+COV:
+  country: TR
+  elevation: 10.668000000000001
+  latitude: 36.891478
+  longitude: 35.071235
+  name: Çukurova International Airport
+  region: TR-33
+CPH:
+  country: DK
+  elevation: 5.1816
+  latitude: 55.617900848389
+  longitude: 12.656000137329
+  name: Copenhagen Kastrup Airport
+  region: DK-84
+CPT:
+  country: ZA
+  elevation: 46.0248
+  latitude: -33.97403
+  longitude: 18.604333
+  name: Cape Town International Airport
+  region: ZA-WC
+CRA:
+  country: RO
+  elevation: 190.8048
+  latitude: 44.3181
+  longitude: 23.888599
+  name: Craiova International Airport
+  region: RO-DJ
+CRD:
+  country: AR
+  elevation: 57.607200000000006
+  latitude: -45.786941
+  longitude: -67.463355
+  name: General Enrique Mosconi International Airport
+  region: AR-U
+CRK:
+  country: PH
+  elevation: 147.5232
+  latitude: 15.186
+  longitude: 120.559998
+  name: Clark International Airport / Clark Air Base
+  region: PH-PAM
+CRL:
+  country: BE
+  elevation: 187.1472
+  latitude: 50.461963
+  longitude: 4.459562
+  name: Brussels South Charleroi Airport
+  region: BE-WHT
+CRZ:
+  country: TM
+  elevation: 197.8152
+  latitude: 38.930662
+  longitude: 63.563982
+  name: Türkmenabat International Airport
+  region: TM-L
+CSX:
+  country: CN
+  elevation: 66.1416
+  latitude: 28.189199
+  longitude: 113.220001
+  name: Changsha Huanghua International Airport
+  region: CN-43
+CTA:
+  country: IT
+  elevation: 11.8872
+  latitude: 37.466801
+  longitude: 15.0664
+  name: Catania-Fontanarossa Airport
+  region: IT-82
+CTG:
+  country: CO
+  elevation: 1.2192
+  latitude: 10.4424
+  longitude: -75.513
+  name: Rafael Nuñez International Airport
+  region: CO-BOL
+CTS:
+  country: JP
+  elevation: 24.9936
+  latitude: 42.774753
+  longitude: 141.690414
+  name: New Chitose Airport
+  region: JP-01
+CTU:
+  country: CN
+  elevation: 495.3
+  latitude: 30.558257
+  longitude: 103.945966
+  name: Chengdu Shuangliu International Airport
+  region: CN-51
+CUL:
+  country: MX
+  elevation: 32.9184
+  latitude: 24.76504
+  longitude: -107.475228
+  name: Bachigualato Federal International Airport
+  region: MX-SIN
+CUN:
+  country: MX
+  elevation: 6.7056000000000004
+  latitude: 21.040817
+  longitude: -86.87347
+  name: Cancún International Airport
+  region: MX-ROO
+CUR:
+  country: CW
+  elevation: 8.8392
+  latitude: 12.1889
+  longitude: -68.959801
+  name: Hato International Airport
+  region: CW-U-A
+CUU:
+  country: MX
+  elevation: 1360.0176000000001
+  latitude: 28.702649
+  longitude: -105.963764
+  name: General Roberto Fierro Villalobos International Airport
+  region: MX-CHH
+CUZ:
+  country: PE
+  elevation: 3310.128
+  latitude: -13.5356998444
+  longitude: -71.9387969971
+  name: Alejandro Velasco Astete International Airport
+  region: PE-CUS
+CVG:
+  country: US
+  elevation: 273.1008
+  latitude: 39.048801
+  longitude: -84.667801
+  name: Cincinnati Northern Kentucky International Airport
+  region: US-KY
+CWB:
+  country: BR
+  elevation: 910.7424000000001
+  latitude: -25.5285
+  longitude: -49.1758
+  name: Curitiba-Afonso Pena International Airport
+  region: BR-PR
+CWL:
+  country: GB
+  elevation: 67.056
+  latitude: 51.396702
+  longitude: -3.34333
+  name: Cardiff International Airport
+  region: GB-WLS
+CXI:
+  country: KI
+  elevation: 1.524
+  latitude: 1.986278
+  longitude: -157.350011
+  name: Cassidy International Airport
+  region: KI-L
+CXR:
+  country: VN
+  elevation: 12.192
+  latitude: 11.9982
+  longitude: 109.219002
+  name: Cam Ranh International Airport / Cam Ranh Air Base
+  region: VN-SCC
+CZL:
+  country: DZ
+  elevation: 690.3720000000001
+  latitude: 36.276001
+  longitude: 6.62039
+  name: Mohamed Boudiaf International Airport
+  region: DZ-25
+CZM:
+  country: MX
+  elevation: 4.572
+  latitude: 20.514922
+  longitude: -86.928538
+  name: Cozumel International Airport
+  region: MX-ROO
+DAC:
+  country: BD
+  elevation: 9.144
+  latitude: 23.843347
+  longitude: 90.397783
+  name: Hazrat Shahjalal International Airport
+  region: BD-C
+DAD:
+  country: VN
+  elevation: 10.0584
+  latitude: 16.0439
+  longitude: 108.198997
+  name: Da Nang International Airport
+  region: VN-SCC
+DAL:
+  country: US
+  elevation: 148.4376
+  latitude: 32.844776
+  longitude: -96.847653
+  name: Dallas Love Field
+  region: US-TX
+DAM:
+  country: SY
+  elevation: 615.696
+  latitude: 33.4114990234375
+  longitude: 36.5155982971191
+  name: Damascus International Airport
+  region: SY-DI
+DAR:
+  country: TZ
+  elevation: 55.473600000000005
+  latitude: -6.873499
+  longitude: 39.207288
+  name: Julius Nyerere International Airport
+  region: TZ-02
+DAT:
+  country: CN
+  elevation: 1049.1216
+  latitude: 40.06139
+  longitude: 113.480509
+  name: Datong Yungang International Airport
+  region: CN-14
+DBB:
+  country: EG
+  elevation: 46.9392
+  latitude: 30.924324
+  longitude: 28.46161
+  name: El Alamein International Airport
+  region: EG-MT
+DBV:
+  country: HR
+  elevation: 160.6296
+  latitude: 42.562247
+  longitude: 18.265543
+  name: Dubrovnik Ruđer Bošković Airport
+  region: HR-19
+DCA:
+  country: US
+  elevation: 4.572
+  latitude: 38.8521
+  longitude: -77.037697
+  name: Ronald Reagan Washington National Airport
+  region: US-DC
+DEB:
+  country: HU
+  elevation: 109.42320000000001
+  latitude: 47.489469
+  longitude: 21.616278
+  name: Debrecen International Airport
+  region: HU-HB
+DEL:
+  country: IN
+  elevation: 236.8296
+  latitude: 28.55563
+  longitude: 77.09519
+  name: Indira Gandhi International Airport
+  region: IN-DL
+DEN:
+  country: US
+  elevation: 1655.3688000000002
+  latitude: 39.860027
+  longitude: -104.673792
+  name: Denver International Airport
+  region: US-CO
+DFW:
+  country: US
+  elevation: 185.0136
+  latitude: 32.896801
+  longitude: -97.038002
+  name: Dallas Fort Worth International Airport
+  region: US-TX
+DHA:
+  country: SA
+  elevation: 25.6032
+  latitude: 26.2654
+  longitude: 50.152
+  name: King Abdulaziz Air Base
+  region: SA-04
+DIA:
+  country: QA
+  elevation: 10.668000000000001
+  latitude: 25.259431
+  longitude: 51.565528
+  name: Doha International Airport
+  region: QA-DA
+DIL:
+  country: TL
+  elevation: 46.9392
+  latitude: -8.546562
+  longitude: 125.524507
+  name: Presidente Nicolau Lobato International Airport
+  region: TL-DI
+DIR:
+  country: ET
+  elevation: 1166.4696000000001
+  latitude: 9.623549
+  longitude: 41.855027
+  name: Aba Tenna Dejazmach Yilma International Airport
+  region: ET-DD
+DJE:
+  country: TN
+  elevation: 5.7912
+  latitude: 33.873719
+  longitude: 10.7773
+  name: Djerba Zarzis International Airport
+  region: TN-82
+DJG:
+  country: DZ
+  elevation: 968.0448
+  latitude: 24.285448
+  longitude: 9.463652
+  name: Tiska Djanet Airport
+  region: DZ-56
+DJJ:
+  country: ID
+  elevation: 88.08720000000001
+  latitude: -2.579627
+  longitude: 140.519857
+  name: Dortheys Hiyo Eluay International Airport
+  region: ID-PA
+DJT:
+  country: US
+  elevation: 5.7912
+  latitude: 26.683201
+  longitude: -80.095596
+  name: President Donald J. Trump International Airport
+  region: US-FL
+DKR:
+  country: SN
+  elevation: 25.908
+  latitude: 14.742337
+  longitude: -17.479222
+  name: Léopold Sédar Senghor International Airport
+  region: SN-DK
+DLA:
+  country: CM
+  elevation: 10.0584
+  latitude: 4.00608
+  longitude: 9.71948
+  name: Douala International Airport
+  region: CM-LT
+DLC:
+  country: CN
+  elevation: 32.6136
+  latitude: 38.965719
+  longitude: 121.538477
+  name: Dalian Zhoushuizi International Airport
+  region: CN-21
+DLM:
+  country: TR
+  elevation: 6.096
+  latitude: 36.7131
+  longitude: 28.7925
+  name: Dalaman International Airport
+  region: TR-48
+DMB:
+  country: KZ
+  elevation: 665.6832
+  latitude: 42.8536
+  longitude: 71.303596
+  name: Taraz International Airport
+  region: KZ-ZHA
+DME:
+  country: RU
+  elevation: 179.22240000000002
+  latitude: 55.408798
+  longitude: 37.9063
+  name: Domodedovo International Airport
+  region: RU-MOS
+DMK:
+  country: TH
+  elevation: 2.7432000000000003
+  latitude: 13.9126
+  longitude: 100.607002
+  name: Don Mueang International Airport
+  region: TH-10
+DMM:
+  country: SA
+  elevation: 21.945600000000002
+  latitude: 26.4691
+  longitude: 49.798209
+  name: King Fahd International Airport
+  region: SA-04
+DNA:
+  country: JP
+  elevation: 43.586400000000005
+  latitude: 26.351667
+  longitude: 127.769444
+  name: Kadena Air Base
+  region: JP-47
+DNBK:
+  country: NG
+  elevation: 236.22
+  latitude: 12.479048
+  longitude: 4.369132
+  name: Sir Ahmadu Bello International Airport
+  region: NG-KE
+DOH:
+  country: QA
+  elevation: 3.9624
+  latitude: 25.273056
+  longitude: 51.608056
+  name: Hamad International Airport
+  region: QA-DA
+DPS:
+  country: ID
+  elevation: 4.2672
+  latitude: -8.748409
+  longitude: 115.167123
+  name: Denpasar I Gusti Ngurah Rai International Airport
+  region: ID-BA
+DQM:
+  country: OM
+  elevation: 110.94720000000001
+  latitude: 19.501944
+  longitude: 57.634167
+  name: Duqm International Airport
+  region: OM-WU
+DRP:
+  country: PH
+  elevation: 97.2312
+  latitude: 13.111915
+  longitude: 123.676829
+  name: Bicol International Airport
+  region: PH-ALB
+DRS:
+  country: DE
+  elevation: 230.12400000000002
+  latitude: 51.134123
+  longitude: 13.767831
+  name: Dresden Airport
+  region: DE-SN
+DRW:
+  country: AU
+  elevation: 31.3944
+  latitude: -12.41497
+  longitude: 130.88185
+  name: Darwin International Airport / RAAF Darwin
+  region: AU-NT
+DSM:
+  country: US
+  elevation: 291.9984
+  latitude: 41.534027
+  longitude: -93.656719
+  name: Des Moines International Airport
+  region: US-IA
+DSN:
+  country: CN
+  elevation: 1388.9736
+  latitude: 39.493514
+  longitude: 109.8599
+  name: Ordos Ejin Horo International Airport
+  region: CN-15
+DSS:
+  country: SN
+  elevation: 88.39200000000001
+  latitude: 14.670878
+  longitude: -17.072829
+  name: Blaise Diagne International Airport
+  region: SN-DK
+DSY:
+  country: KH
+  elevation: 18.288
+  latitude: 10.914244
+  longitude: 103.226652
+  name: Dara Sakor International Airport
+  region: KH-9
+DTM:
+  country: DE
+  elevation: 129.54000000000002
+  latitude: 51.518299
+  longitude: 7.61224
+  name: Dortmund Airport
+  region: DE-NW
+DTW:
+  country: US
+  elevation: 196.596
+  latitude: 42.21377
+  longitude: -83.353786
+  name: Detroit Metropolitan Wayne County Airport
+  region: US-MI
+DUB:
+  country: IE
+  elevation: 73.7616
+  latitude: 53.428713
+  longitude: -6.262121
+  name: Dublin Airport
+  region: IE-D
+DUR:
+  country: ZA
+  elevation: 89.91600000000001
+  latitude: -29.6144444444
+  longitude: 31.1197222222
+  name: King Shaka International Airport
+  region: ZA-NL
+DUS:
+  country: DE
+  elevation: 44.805600000000005
+  latitude: 51.289501
+  longitude: 6.76678
+  name: Düsseldorf Airport
+  region: DE-NW
+DVO:
+  country: PH
+  elevation: 29.260800000000003
+  latitude: 7.12552
+  longitude: 125.646004
+  name: Francisco Bangoy International Airport
+  region: PH-DVO
+DWC:
+  country: AE
+  elevation: 34.7472
+  latitude: 24.896171
+  longitude: 55.16235
+  name: Al Maktoum International Airport
+  region: AE-DU
+DXB:
+  country: AE
+  elevation: 18.8976
+  latitude: 25.24979
+  longitude: 55.370992
+  name: Dubai International Airport
+  region: AE-DU
+DXN:
+  country: IN
+  elevation: 196.2912
+  latitude: 28.179868
+  longitude: 77.611843
+  name: Noida International Airport
+  region: IN-UP
+DYG:
+  country: CN
+  elevation: 2599.944
+  latitude: 29.104749
+  longitude: 110.442786
+  name: Zhangjiajie Hehua International Airport
+  region: CN-43
+DYU:
+  country: TJ
+  elevation: 784.86
+  latitude: 38.543746
+  longitude: 68.822977
+  name: Dushanbe International Airport
+  region: TJ-DU
+DZA:
+  country: YT
+  elevation: 7.010400000000001
+  latitude: -12.809319
+  longitude: 45.281815
+  name: Dzaoudzi Pamandzi International Airport
+  region: YT-U-A
+DZN:
+  country: KZ
+  elevation: 381.0
+  latitude: 47.708953
+  longitude: 67.738094
+  name: Zhezkazgan National Airport
+  region: KZ-ULY
+EBB:
+  country: UG
+  elevation: 1152.7536
+  latitude: 0.042386
+  longitude: 32.443501
+  name: Entebbe International Airport
+  region: UG-C
+EBL:
+  country: IQ
+  elevation: 408.7368
+  latitude: 36.236047
+  longitude: 43.946615
+  name: Erbil International Airport
+  region: IQ-AR
+ECN:
+  country: CY
+  elevation: 123.1392
+  latitude: 35.153064
+  longitude: 33.507352
+  name: Ercan International Airport
+  region: CY-02
+EDI:
+  country: GB
+  elevation: 41.148
+  latitude: 55.950145
+  longitude: -3.372288
+  name: Edinburgh Airport
+  region: GB-SCT
+EDL:
+  country: KE
+  elevation: 2115.6168000000002
+  latitude: 0.404458
+  longitude: 35.238899
+  name: Eldoret International Airport
+  region: KE-27
+EDO:
+  country: TR
+  elevation: 15.24
+  latitude: 39.552533
+  longitude: 27.010192
+  name: Balıkesir Koca Seyit Airport
+  region: TR-10
+EES:
+  country: EG
+  elevation: 32.9184
+  latitude: 23.980437
+  longitude: 35.460277
+  name: Berenice International Airport / Banas Cape Air Base
+  region: EG-BA
+EHU:
+  country: CN
+  elevation: 26.2128
+  latitude: 30.341178
+  longitude: 115.03926
+  name: Ezhou Huahu International Airport
+  region: CN-42
+EIN:
+  country: NL
+  elevation: 22.555200000000003
+  latitude: 51.4500999451
+  longitude: 5.37452983856
+  name: Eindhoven Airport
+  region: NL-NB
+EIS:
+  country: VG
+  elevation: 4.572
+  latitude: 18.445492
+  longitude: -64.541707
+  name: Terrance B. Lettsome International Airport
+  region: VG-U-A
+ELP:
+  country: US
+  elevation: 1206.7032000000002
+  latitude: 31.809908
+  longitude: -106.375607
+  name: El Paso International Airport
+  region: US-TX
+ELQ:
+  country: SA
+  elevation: 648.0048
+  latitude: 26.302799
+  longitude: 43.774399
+  name: Prince Naif bin Abdulaziz International Airport
+  region: SA-05
+ELS:
+  country: ZA
+  elevation: 132.588
+  latitude: -33.035599
+  longitude: 27.825899
+  name: King Phalo Airport
+  region: ZA-EC
+EMA:
+  country: GB
+  elevation: 93.2688
+  latitude: 52.8311
+  longitude: -1.32806
+  name: East Midlands Airport
+  region: GB-ENG
+ENO:
+  country: PY
+  elevation: 200.8632
+  latitude: -27.227537
+  longitude: -55.837584
+  name: Teniente Ramon A. Ayub Gonzalez International Airport
+  region: PY-7
+ENU:
+  country: NG
+  elevation: 142.0368
+  latitude: 6.473718
+  longitude: 7.560463
+  name: Akanu Ibiam International Airport
+  region: NG-EN
+ERF:
+  country: DE
+  elevation: 315.7728
+  latitude: 50.978281
+  longitude: 10.960713
+  name: Erfurt-Weimar Airport
+  region: DE-TH
+ESB:
+  country: TR
+  elevation: 952.5
+  latitude: 40.128101
+  longitude: 32.995098
+  name: Esenboğa International Airport
+  region: TR-06
+ESM:
+  country: EC
+  elevation: 9.7536
+  latitude: 0.978519
+  longitude: -79.626602
+  name: Carlos Concha Torres International Airport
+  region: EC-E
+ETM:
+  country: IL
+  elevation: 87.78240000000001
+  latitude: 29.727009
+  longitude: 35.014116
+  name: Ramon International Airport
+  region: IL-D
+EUN:
+  country: EH
+  elevation: 63.0936
+  latitude: 27.142467
+  longitude: -13.224947
+  name: Laayoune Hassan I International Airport
+  region: EH-U-A
+EVE:
+  country: 'NO'
+  elevation: 25.6032
+  latitude: 68.491302
+  longitude: 16.678101
+  name: Harstad/Narvik Airport
+  region: NO-18
+EVN:
+  country: AM
+  elevation: 865.0224000000001
+  latitude: 40.148941
+  longitude: 44.397887
+  name: Zvartnots International Airport
+  region: AM-ER
+EWR:
+  country: US
+  elevation: 5.486400000000001
+  latitude: 40.6894
+  longitude: -74.170545
+  name: Newark Liberty International Airport
+  region: US-NJ
+EZE:
+  country: AR
+  elevation: 20.4216
+  latitude: -34.8222
+  longitude: -58.5358
+  name: Ezeiza International Airport - Ministro Pistarini
+  region: AR-B
+FAE:
+  country: FO
+  elevation: 85.34400000000001
+  latitude: 62.063256
+  longitude: -7.275782
+  name: Vágar Airport
+  region: FO-U-A
+FAO:
+  country: PT
+  elevation: 7.315200000000001
+  latitude: 37.015909
+  longitude: -7.970939
+  name: Faro - Gago Coutinho International Airport
+  region: PT-08
+FAT:
+  country: US
+  elevation: 102.4128
+  latitude: 36.775767
+  longitude: -119.718018
+  name: Fresno Yosemite International Airport
+  region: US-CA
+FBM:
+  country: CD
+  elevation: 1309.116
+  latitude: -11.591494
+  longitude: 27.530753
+  name: Lubumbashi International Airport
+  region: CD-HK
+FCO:
+  country: IT
+  elevation: 3.9624
+  latitude: 41.804532
+  longitude: 12.251998
+  name: Rome–Fiumicino Leonardo da Vinci International Airport
+  region: IT-62
+FDF:
+  country: MQ
+  elevation: 4.8768
+  latitude: 14.591
+  longitude: -61.003201
+  name: Martinique Aimé Césaire International Airport
+  region: MQ-U-A
+FDH:
+  country: DE
+  elevation: 416.6616
+  latitude: 47.671299
+  longitude: 9.51149
+  name: Bodensee Airport Friedrichshafen
+  region: DE-BW
+FEZ:
+  country: MA
+  elevation: 579.12
+  latitude: 33.927299
+  longitude: -4.97796
+  name: Fes Saïss International Airport
+  region: MA-03
+FIH:
+  country: CD
+  elevation: 313.0296
+  latitude: -4.38575
+  longitude: 15.4446
+  name: Ndjili International Airport
+  region: CD-KN
+FJR:
+  country: AE
+  elevation: 46.3296
+  latitude: 25.108411
+  longitude: 56.328061
+  name: Fujairah International Airport
+  region: AE-FU
+FKB:
+  country: DE
+  elevation: 124.3584
+  latitude: 48.7794
+  longitude: 8.0805
+  name: Karlsruhe Baden-Baden Airport
+  region: DE-BW
+FKI:
+  country: CD
+  elevation: 431.90160000000003
+  latitude: 0.481639
+  longitude: 25.337999
+  name: Bangoka International Airport
+  region: CD-TO
+FLL:
+  country: US
+  elevation: 2.7432000000000003
+  latitude: 26.072599
+  longitude: -80.152702
+  name: Fort Lauderdale Hollywood International Airport
+  region: US-FL
+FLN:
+  country: BR
+  elevation: 4.8768
+  latitude: -27.670279
+  longitude: -48.552502
+  name: Hercílio Luz International Airport
+  region: BR-SC
+FLR:
+  country: IT
+  elevation: 43.281600000000005
+  latitude: 43.808558
+  longitude: 11.202822
+  name: Florence Airport, Peretola
+  region: IT-52
+FMM:
+  country: DE
+  elevation: 633.0696
+  latitude: 47.988092
+  longitude: 10.238248
+  name: Memmingen Allgau Airport
+  region: DE-BY
+FMO:
+  country: DE
+  elevation: 48.768
+  latitude: 52.133816
+  longitude: 7.688482
+  name: Münster Osnabrück Airport
+  region: DE-NW
+FNA:
+  country: SL
+  elevation: 25.6032
+  latitude: 8.61644
+  longitude: -13.1955
+  name: Lungi International Airport
+  region: SL-N
+FNC:
+  country: PT
+  elevation: 58.52160000000001
+  latitude: 32.697812
+  longitude: -16.774613
+  name: Cristiano Ronaldo International Airport
+  region: PT-30
+FNJ:
+  country: KP
+  elevation: 35.6616
+  latitude: 39.224098
+  longitude: 125.669998
+  name: Pyongyang Sunan International Airport
+  region: KP-01
+FOC:
+  country: CN
+  elevation: 14.020800000000001
+  latitude: 25.929254
+  longitude: 119.672524
+  name: Fuzhou Changle International Airport
+  region: CN-35
+FOR:
+  country: BR
+  elevation: 25.2984
+  latitude: -3.775833
+  longitude: -38.532222
+  name: Pinto Martins International Airport
+  region: BR-CE
+FPO:
+  country: BS
+  elevation: 2.1336
+  latitude: 26.557996
+  longitude: -78.695583
+  name: Grand Bahama International Airport
+  region: BS-FP
+FRA:
+  country: DE
+  elevation: 110.94720000000001
+  latitude: 50.026706
+  longitude: 8.55835
+  name: Frankfurt Main Airport
+  region: DE-HE
+FRW:
+  country: BW
+  elevation: 1000.6584
+  latitude: -21.159183
+  longitude: 27.468826
+  name: Phillip Gaonwe Matante International Airport
+  region: BW-FR
+FSC:
+  country: FR
+  elevation: 25.908
+  latitude: 41.50185
+  longitude: 9.097092
+  name: Figari Sud-Corse Airport
+  region: FR-COR
+FSZ:
+  country: JP
+  elevation: 131.9784
+  latitude: 34.795022
+  longitude: 138.190976
+  name: Mount Fuji Shizuoka Airport
+  region: JP-22
+FUE:
+  country: ES
+  elevation: 25.908
+  latitude: 28.4527
+  longitude: -13.8638
+  name: Fuerteventura Airport
+  region: ES-CN
+FUK:
+  country: JP
+  elevation: 9.7536
+  latitude: 33.5858993530273
+  longitude: 130.45100402832
+  name: Fukuoka Airport
+  region: JP-40
+GAN:
+  country: MV
+  elevation: 1.8288000000000002
+  latitude: -0.692975
+  longitude: 73.152627
+  name: Gan International Airport
+  region: MV-01
+GAU:
+  country: IN
+  elevation: 49.3776
+  latitude: 26.106654
+  longitude: 91.585226
+  name: Lokpriya Gopinath Bordoloi International Airport
+  region: IN-AS
+GBE:
+  country: BW
+  elevation: 1005.5352
+  latitude: -24.555201
+  longitude: 25.9182
+  name: Sir Seretse Khama International Airport
+  region: BW-GA
+GCM:
+  country: KY
+  elevation: 2.4384
+  latitude: 19.292801
+  longitude: -81.357697
+  name: Owen Roberts International Airport
+  region: KY-GC
+GDL:
+  country: MX
+  elevation: 1528.8768
+  latitude: 20.523342
+  longitude: -103.310108
+  name: Guadalajara International Airport
+  region: MX-JAL
+GDN:
+  country: PL
+  elevation: 149.0472
+  latitude: 54.377602
+  longitude: 18.4662
+  name: Gdańsk Lech Wałęsa Airport
+  region: PL-PM
+GEG:
+  country: US
+  elevation: 724.2048000000001
+  latitude: 47.6199
+  longitude: -117.533997
+  name: Spokane International Airport
+  region: US-WA
+GEO:
+  country: GY
+  elevation: 28.956000000000003
+  latitude: 6.49855
+  longitude: -58.254101
+  name: Cheddi Jagan International Airport
+  region: GY-DE
+GES:
+  country: PH
+  elevation: 153.924
+  latitude: 6.057208
+  longitude: 125.096243
+  name: General Santos International Airport
+  region: PH-SCO
+GHV:
+  country: RO
+  elevation: 530.352
+  latitude: 45.70558
+  longitude: 25.522871
+  name: Brașov-Ghimbav International Airport
+  region: RO-BV
+GIB:
+  country: GI
+  elevation: 3.6576000000000004
+  latitude: 36.151679
+  longitude: -5.34978
+  name: Gibraltar Airport
+  region: GI-U-A
+GIG:
+  country: BR
+  elevation: 8.5344
+  latitude: -22.809999
+  longitude: -43.250557
+  name: Rio de Janeiro Galeão – Tom Jobim International Airport
+  region: BR-RJ
+GJL:
+  country: DZ
+  elevation: 10.972800000000001
+  latitude: 36.794125
+  longitude: 5.873652
+  name: Jijel Ferhat Abbas Airport
+  region: DZ-18
+GLA:
+  country: GB
+  elevation: 7.9248
+  latitude: 55.871899
+  longitude: -4.43306
+  name: Glasgow Airport
+  region: GB-SCT
+GMP:
+  country: KR
+  elevation: 17.9832
+  latitude: 37.5583
+  longitude: 126.791
+  name: Seoul Gimpo International Airport
+  region: KR-11
+GND:
+  country: GD
+  elevation: 12.4968
+  latitude: 12.003996
+  longitude: -61.785302
+  name: Maurice Bishop International Airport
+  region: GD-GE
+GNJ:
+  country: AZ
+  elevation: 330.0984
+  latitude: 40.738692
+  longitude: 46.320383
+  name: Ganja International Airport
+  region: AZ-GA
+GNY:
+  country: TR
+  elevation: 825.3984
+  latitude: 37.445663
+  longitude: 38.895592
+  name: Şanlıurfa GAP Airport
+  region: TR-63
+GOA:
+  country: IT
+  elevation: 3.9624
+  latitude: 44.412039
+  longitude: 8.840732
+  name: Genoa Cristoforo Colombo Airport
+  region: IT-42
+GOH:
+  country: GL
+  elevation: 86.25840000000001
+  latitude: 64.191066
+  longitude: -51.67914
+  name: Nuuk International Airport
+  region: GL-SE
+GOI:
+  country: IN
+  elevation: 45.72
+  latitude: 15.380062
+  longitude: 73.833328
+  name: Goa Dabolim International Airport
+  region: IN-GA
+GOJ:
+  country: RU
+  elevation: 78.0288
+  latitude: 56.227351
+  longitude: 43.785152
+  name: Nizhny Novgorod / Strigino International Airport
+  region: RU-NIZ
+GOM:
+  country: CD
+  elevation: 1551.1272000000001
+  latitude: -1.666758
+  longitude: 29.238037
+  name: Goma International Airport
+  region: CD-NK
+GOT:
+  country: SE
+  elevation: 154.2288
+  latitude: 57.6628
+  longitude: 12.2798
+  name: Göteborg Landvetter Airport
+  region: SE-Q
+GOU:
+  country: CM
+  elevation: 242.0112
+  latitude: 9.334785
+  longitude: 13.372129
+  name: Garoua International Airport
+  region: CM-NO
+GOX:
+  country: IN
+  elevation: 168.24960000000002
+  latitude: 15.744257
+  longitude: 73.860625
+  name: Manohar International Airport
+  region: IN-GA
+GRJ:
+  country: ZA
+  elevation: 197.5104
+  latitude: -34.0056
+  longitude: 22.378902
+  name: George Airport
+  region: ZA-WC
+GRO:
+  country: ES
+  elevation: 142.6464
+  latitude: 41.904639
+  longitude: 2.761774
+  name: Girona-Costa Brava Airport
+  region: ES-CT
+GRQ:
+  country: NL
+  elevation: 5.1816
+  latitude: 53.119107
+  longitude: 6.577652
+  name: Groningen Airport Eelde
+  region: NL-DR
+GRR:
+  country: US
+  elevation: 242.0112
+  latitude: 42.880798
+  longitude: -85.522797
+  name: Gerald R. Ford International Airport
+  region: US-MI
+GRU:
+  country: BR
+  elevation: 750.1128
+  latitude: -23.431274
+  longitude: -46.469954
+  name: São Paulo/Guarulhos–Governor André Franco Montoro International Airport
+  region: BR-SP
+GRV:
+  country: RU
+  elevation: 167.03040000000001
+  latitude: 43.388106
+  longitude: 45.699772
+  name: Akhmat Kadyrov Grozny International Airport
+  region: RU-CE
+GRZ:
+  country: AT
+  elevation: 339.85200000000003
+  latitude: 46.9911
+  longitude: 15.4396
+  name: Graz Airport
+  region: AT-6
+GSM:
+  country: IR
+  elevation: 13.716000000000001
+  latitude: 26.754639
+  longitude: 55.902353
+  name: Qeshm International Airport
+  region: IR-22
+GSO:
+  country: US
+  elevation: 281.94
+  latitude: 36.09937
+  longitude: -79.937262
+  name: Piedmont Triad International Airport
+  region: US-NC
+GSV:
+  country: RU
+  elevation: 31.3944
+  latitude: 51.712778
+  longitude: 46.171111
+  name: Gagarin International Airport
+  region: RU-SAR
+GUA:
+  country: GT
+  elevation: 1509.3696
+  latitude: 14.582896
+  longitude: -90.527515
+  name: La Aurora International Airport
+  region: GT-GU
+GUM:
+  country: GU
+  elevation: 90.83040000000001
+  latitude: 13.485
+  longitude: 144.797282
+  name: Antonio B. Won Pat International Airport
+  region: GU-U-A
+GUW:
+  country: KZ
+  elevation: -21.945600000000002
+  latitude: 47.121318
+  longitude: 51.820343
+  name: Atyrau International Airport
+  region: KZ-ATY
+GVA:
+  country: CH
+  elevation: 430.07280000000003
+  latitude: 46.238098
+  longitude: 6.10895
+  name: Geneva International Airport
+  region: CH-GE
+GWD:
+  country: PK
+  elevation: 18.5928
+  latitude: 25.296733
+  longitude: 62.498822
+  name: New Gwadar International Airport
+  region: PK-BA
+GXF:
+  country: YE
+  elevation: 639.1656
+  latitude: 15.965887
+  longitude: 48.788146
+  name: Seiyun Hadhramaut International Airport
+  region: YE-HD
+GYD:
+  country: AZ
+  elevation: 3.048
+  latitude: 40.47278
+  longitude: 50.050931
+  name: Heydar Aliyev International Airport
+  region: AZ-BA
+GYE:
+  country: EC
+  elevation: 5.7912
+  latitude: -2.15742
+  longitude: -79.883598
+  name: José Joaquín de Olmedo International Airport
+  region: EC-G
+GYN:
+  country: BR
+  elevation: 746.76
+  latitude: -16.632
+  longitude: -49.220699
+  name: Santa Genoveva International Airport
+  region: BR-GO
+GZT:
+  country: TR
+  elevation: 705.6120000000001
+  latitude: 36.947201
+  longitude: 37.478699
+  name: Gaziantep Oğuzeli International Airport
+  region: TR-27
+HAH:
+  country: KM
+  elevation: 28.346400000000003
+  latitude: -11.5337
+  longitude: 43.2719
+  name: Prince Said Ibrahim International Airport
+  region: KM-G
+HAJ:
+  country: DE
+  elevation: 55.778400000000005
+  latitude: 52.461102
+  longitude: 9.68508
+  name: Hannover Airport
+  region: DE-NI
+HAK:
+  country: CN
+  elevation: 22.86
+  latitude: 19.9349
+  longitude: 110.459
+  name: Haikou Meilan International Airport
+  region: CN-46
+HAM:
+  country: DE
+  elevation: 16.154400000000003
+  latitude: 53.630402
+  longitude: 9.98823
+  name: Hamburg Helmut Schmidt Airport
+  region: DE-HH
+HAN:
+  country: VN
+  elevation: 11.8872
+  latitude: 21.221201
+  longitude: 105.806999
+  name: Noi Bai International Airport
+  region: VN-RRD
+HAQ:
+  country: MV
+  elevation: 1.2192
+  latitude: 6.743235
+  longitude: 73.167072
+  name: Hanimaadhoo International Airport
+  region: MV-23
+HAS:
+  country: SA
+  elevation: 1015.2888
+  latitude: 27.437901
+  longitude: 41.686298
+  name: Hail International Airport
+  region: SA-06
+HAV:
+  country: CU
+  elevation: 64.00800000000001
+  latitude: 22.989200592041
+  longitude: -82.4091033935547
+  name: José Martí International Airport
+  region: CU-03
+HBA:
+  country: AU
+  elevation: 3.9624
+  latitude: -42.837032
+  longitude: 147.513022
+  name: Hobart International Airport
+  region: AU-TAS
+HBE:
+  country: EG
+  elevation: 52.1208
+  latitude: 30.93249
+  longitude: 29.696437
+  name: Alexandria International Airport
+  region: EG-ALX
+HDY:
+  country: TH
+  elevation: 27.432000000000002
+  latitude: 6.93321
+  longitude: 100.392998
+  name: Hat Yai International Airport
+  region: TH-90
+HEA:
+  country: AF
+  elevation: 977.1888
+  latitude: 34.209999
+  longitude: 62.228298
+  name: Herat - Khwaja Abdullah Ansari International Airport
+  region: AF-HER
+HEL:
+  country: FI
+  elevation: 54.559200000000004
+  latitude: 60.318363
+  longitude: 24.963341
+  name: Helsinki Vantaa Airport
+  region: FI-18
+HER:
+  country: GR
+  elevation: 35.052
+  latitude: 35.339699
+  longitude: 25.1803
+  name: Heraklion International Nikos Kazantzakis Airport
+  region: GR-M
+HET:
+  country: CN
+  elevation: 1083.8688
+  latitude: 40.849658
+  longitude: 111.824598
+  name: Hohhot Baita International Airport
+  region: CN-15
+HFE:
+  country: CN
+  elevation: 63.0936
+  latitude: 31.98779
+  longitude: 116.9769
+  name: Hefei Xinqiao International Airport
+  region: CN-34
+HGA:
+  country: SO
+  elevation: 1362.7608
+  latitude: 9.514082
+  longitude: 44.083469
+  name: Egal International Airport
+  region: SO-WO
+HGH:
+  country: CN
+  elevation: 7.010400000000001
+  latitude: 30.23609
+  longitude: 120.428865
+  name: Hangzhou Xiaoshan International Airport
+  region: CN-33
+HHN:
+  country: DE
+  elevation: 502.6152
+  latitude: 49.946353
+  longitude: 7.261734
+  name: Frankfurt-Hahn Airport
+  region: DE-RP
+HIA:
+  country: CN
+  elevation: 8.5344
+  latitude: 33.792712
+  longitude: 119.126657
+  name: Huai'an Lianshui Airport
+  region: CN-32
+HIJ:
+  country: JP
+  elevation: 331.6224
+  latitude: 34.4361
+  longitude: 132.919006
+  name: Hiroshima Airport
+  region: JP-34
+HIR:
+  country: SB
+  elevation: 8.5344
+  latitude: -9.428
+  longitude: 160.054993
+  name: Honiara International Airport
+  region: SB-GU
+HKD:
+  country: JP
+  elevation: 46.0248
+  latitude: 41.77
+  longitude: 140.822006
+  name: Hakodate Airport
+  region: JP-01
+HKG:
+  country: HK
+  elevation: 8.5344
+  latitude: 22.31184
+  longitude: 113.914862
+  name: Hong Kong International Airport
+  region: HK-NT
+HKT:
+  country: TH
+  elevation: 24.9936
+  latitude: 8.113257
+  longitude: 98.3174
+  name: Phuket International Airport
+  region: TH-83
+HLA:
+  country: ZA
+  elevation: 1376.7816
+  latitude: -25.938964
+  longitude: 27.926642
+  name: Lanseria International Airport
+  region: ZA-GT
+HLD:
+  country: CN
+  elevation: 661.1112
+  latitude: 49.208616
+  longitude: 119.822301
+  name: Hulunbuir Hailar Airport
+  region: CN-15
+HLP:
+  country: ID
+  elevation: 25.6032
+  latitude: -6.266989
+  longitude: 106.890318
+  name: Halim Perdanakusuma International Airport
+  region: ID-JK
+HMB:
+  country: EG
+  elevation: 98.1456
+  latitude: 26.342515
+  longitude: 31.743017
+  name: Suhaj International Airport
+  region: EG-SHG
+HMO:
+  country: MX
+  elevation: 191.1096
+  latitude: 29.092811
+  longitude: -111.053015
+  name: General Ignacio L. Pesqueira International Airport
+  region: MX-SON
+HND:
+  country: JP
+  elevation: 10.668000000000001
+  latitude: 35.549678
+  longitude: 139.786958
+  name: Tokyo Haneda International Airport
+  region: JP-13
+HNL:
+  country: US
+  elevation: 3.9624
+  latitude: 21.318387
+  longitude: -157.92567
+  name: Daniel K. Inouye International Airport
+  region: US-HI
+HOF:
+  country: SA
+  elevation: 179.22240000000002
+  latitude: 25.285299
+  longitude: 49.485199
+  name: Al-Ahsa International Airport
+  region: SA-04
+HOG:
+  country: CU
+  elevation: 110.03280000000001
+  latitude: 20.785148
+  longitude: -76.315526
+  name: Frank Pais International Airport
+  region: CU-11
+HOU:
+  country: US
+  elevation: 14.020800000000001
+  latitude: 29.645336
+  longitude: -95.276812
+  name: William P. Hobby Airport
+  region: US-TX
+HPH:
+  country: VN
+  elevation: 1.8288000000000002
+  latitude: 20.817428
+  longitude: 106.724315
+  name: Cat Bi International Airport
+  region: VN-RRD
+HRB:
+  country: CN
+  elevation: 139.2936
+  latitude: 45.623402
+  longitude: 126.25
+  name: Harbin Taiping International Airport
+  region: CN-23
+HRE:
+  country: ZW
+  elevation: 1489.5576
+  latitude: -17.931801
+  longitude: 31.0928
+  name: Robert Gabriel Mugabe International Airport
+  region: ZW-HA
+HRG:
+  country: EG
+  elevation: 9.7536
+  latitude: 27.176776
+  longitude: 33.796692
+  name: Hurghada International Airport
+  region: EG-BA
+HSA:
+  country: KZ
+  elevation: 289.8648
+  latitude: 43.311087
+  longitude: 68.550352
+  name: Hazrat Sultan International Airport
+  region: KZ-YUZ
+HSG:
+  country: JP
+  elevation: 1.8288000000000002
+  latitude: 33.1497
+  longitude: 130.302002
+  name: Kyushu Saga International Airport
+  region: JP-41
+HSN:
+  country: CN
+  elevation: 1.8288000000000002
+  latitude: 29.933874
+  longitude: 122.362307
+  name: Zhoushan Putuoshan International Airport
+  region: CN-33
+HSR:
+  country: IN
+  elevation: 197.2056
+  latitude: 22.378824
+  longitude: 71.039391
+  name: Rajkot International Airport
+  region: IN-GJ
+HSS:
+  country: IN
+  elevation: 213.36
+  latitude: 29.186065
+  longitude: 75.74142
+  name: Maharaja Agrasen International Airport
+  region: IN-HR
+HTA:
+  country: RU
+  elevation: 692.5056000000001
+  latitude: 52.024841
+  longitude: 113.305839
+  name: Chita-Kadala International Airport
+  region: RU-ZAB
+HUN:
+  country: TW
+  elevation: 15.8496
+  latitude: 24.023163
+  longitude: 121.617991
+  name: Hualien Chiashan Airport
+  region: TW-HUA
+HUX:
+  country: MX
+  elevation: 141.4272
+  latitude: 15.775437
+  longitude: -96.260456
+  name: Bahías de Huatulco International Airport
+  region: MX-OAX
+HWR:
+  country: IN
+  elevation: 240.792
+  latitude: 30.748501
+  longitude: 75.629799
+  name: Halwara International Airport
+  region: IN-PB
+HYD:
+  country: IN
+  elevation: 616.9152
+  latitude: 17.231318
+  longitude: 78.429855
+  name: Rajiv Gandhi International Airport
+  region: IN-TG
+IAD:
+  country: US
+  elevation: 95.0976
+  latitude: 38.9445
+  longitude: -77.455803
+  name: Washington Dulles International Airport
+  region: US-VA
+IAH:
+  country: US
+  elevation: 29.5656
+  latitude: 29.9844
+  longitude: -95.3414
+  name: George Bush Intercontinental Airport
+  region: US-TX
+IAR:
+  country: RU
+  elevation: 87.47760000000001
+  latitude: 57.560699
+  longitude: 40.157398
+  name: Golden Ring Yaroslavl International Airport
+  region: RU-YAR
+IAS:
+  country: RO
+  elevation: 125.2728
+  latitude: 47.179633
+  longitude: 27.621431
+  name: Iaşi International Airport
+  region: RO-IS
+IBR:
+  country: JP
+  elevation: 32.004000000000005
+  latitude: 36.181456
+  longitude: 140.414434
+  name: Ibaraki Airport
+  region: JP-08
+IBZ:
+  country: ES
+  elevation: 7.315200000000001
+  latitude: 38.872898
+  longitude: 1.37312
+  name: Ibiza Airport
+  region: ES-IB
+ICN:
+  country: KR
+  elevation: 7.010400000000001
+  latitude: 37.469101
+  longitude: 126.450996
+  name: Incheon International Airport
+  region: KR-28
+IDR:
+  country: IN
+  elevation: 563.88
+  latitude: 22.721404
+  longitude: 75.80051
+  name: Devi Ahilya Bai Holkar International Airport
+  region: IN-MP
+IFN:
+  country: IR
+  elevation: 1541.9832000000001
+  latitude: 32.755142
+  longitude: 51.883877
+  name: Isfahan Shahid Beheshti International Airport
+  region: IR-10
+IGU:
+  country: BR
+  elevation: 239.5728
+  latitude: -25.594167
+  longitude: -54.489444
+  name: Cataratas International Airport
+  region: BR-PR
+IKA:
+  country: IR
+  elevation: 1007.364
+  latitude: 35.4160995483398
+  longitude: 51.1521987915039
+  name: Imam Khomeini International Airport
+  region: IR-23
+IKT:
+  country: RU
+  elevation: 510.54
+  latitude: 52.266707
+  longitude: 104.395563
+  name: Irkutsk International Airport
+  region: RU-IRK
+IKU:
+  country: KG
+  elevation: 1653.5400000000002
+  latitude: 42.585584
+  longitude: 76.701181
+  name: Issyk-Kul International Airport
+  region: KG-Y
+ILO:
+  country: PH
+  elevation: 8.2296
+  latitude: 10.833017
+  longitude: 122.493358
+  name: Iloilo International Airport
+  region: PH-ILI
+ILR:
+  country: NG
+  elevation: 343.20480000000003
+  latitude: 8.44021
+  longitude: 4.49392
+  name: General Tunde Idiagbon International Airport
+  region: NG-KW
+IMF:
+  country: IN
+  elevation: 774.192
+  latitude: 24.76
+  longitude: 93.896698
+  name: Bir Tikendrajit International Airport
+  region: IN-MN
+INC:
+  country: CN
+  elevation: 1140.8664
+  latitude: 38.322758
+  longitude: 106.393214
+  name: Yinchuan Hedong International Airport
+  region: CN-64
+IND:
+  country: US
+  elevation: 242.9256
+  latitude: 39.7173
+  longitude: -86.294403
+  name: Indianapolis International Airport
+  region: US-IN
+INI:
+  country: RS
+  elevation: 197.5104
+  latitude: 43.336538
+  longitude: 21.856242
+  name: Niš Constantine the Great Airport
+  region: RS-20
+INN:
+  country: AT
+  elevation: 581.2536
+  latitude: 47.260201
+  longitude: 11.344
+  name: Innsbruck Airport
+  region: AT-7
+IOM:
+  country: IM
+  elevation: 15.8496
+  latitude: 54.083081
+  longitude: -4.623871
+  name: Isle of Man Airport
+  region: IM-U-A
+IPC:
+  country: CL
+  elevation: 69.1896
+  latitude: -27.165411
+  longitude: -109.421027
+  name: Mataveri International Airport
+  region: CL-VS
+IPH:
+  country: MY
+  elevation: 39.624
+  latitude: 4.56733
+  longitude: 101.091643
+  name: Sultan Azlan Shah Airport
+  region: MY-08
+IQQ:
+  country: CL
+  elevation: 47.244
+  latitude: -20.536273
+  longitude: -70.181373
+  name: Diego Aracena International Airport
+  region: CL-TA
+IQT:
+  country: PE
+  elevation: 93.2688
+  latitude: -3.78474
+  longitude: -73.3088
+  name: Coronel FAP Francisco Secada Vignetta International Airport
+  region: PE-LOR
+ISB:
+  country: PK
+  elevation: 536.7528
+  latitude: 33.549
+  longitude: 72.82566
+  name: Islamabad International Airport
+  region: PK-PB
+ISK:
+  country: IN
+  elevation: 579.12
+  latitude: 20.119101
+  longitude: 73.912903
+  name: Nashik International Airport
+  region: IN-MM
+ISL:
+  country: TR
+  elevation: 49.6824
+  latitude: 40.971913
+  longitude: 28.823714
+  name: İstanbul Atatürk Airport
+  region: TR-34
+IST:
+  country: TR
+  elevation: 99.06
+  latitude: 41.274874
+  longitude: 28.732136
+  name: İstanbul Airport
+  region: TR-34
+ITM:
+  country: JP
+  elevation: 15.24
+  latitude: 34.780853
+  longitude: 135.440829
+  name: Osaka Itami International Airport
+  region: JP-27
+IVL:
+  country: FI
+  elevation: 146.6088
+  latitude: 68.6073
+  longitude: 27.4053
+  name: Ivalo Airport
+  region: FI-10
+IXB:
+  country: IN
+  elevation: 125.5776
+  latitude: 26.6812
+  longitude: 88.328598
+  name: Bagdogra Airport
+  region: IN-WB
+IXC:
+  country: IN
+  elevation: 308.4576
+  latitude: 30.6735
+  longitude: 76.788498
+  name: Shaheed Bhagat Singh International Airport
+  region: IN-CH
+IXE:
+  country: IN
+  elevation: 102.7176
+  latitude: 12.95471
+  longitude: 74.886812
+  name: Mangaluru International Airport
+  region: IN-KA
+IXZ:
+  country: IN
+  elevation: 3.9624
+  latitude: 11.640194
+  longitude: 92.72902
+  name: Veer Savarkar International Airport / INS Utkrosh
+  region: IN-AN
+JAF:
+  country: LK
+  elevation: 10.0584
+  latitude: 9.79233
+  longitude: 80.070099
+  name: Jaffna International Airport
+  region: LK-4
+JAI:
+  country: IN
+  elevation: 384.9624
+  latitude: 26.8242
+  longitude: 75.812202
+  name: Jaipur International Airport
+  region: IN-RJ
+JAX:
+  country: US
+  elevation: 9.144
+  latitude: 30.492469
+  longitude: -81.687813
+  name: Jacksonville International Airport
+  region: US-FL
+JCL:
+  country: CZ
+  elevation: 431.90160000000003
+  latitude: 48.948171
+  longitude: 14.42832
+  name: České Budějovice South Bohemian Airport
+  region: CZ-JC
+JED:
+  country: SA
+  elevation: 14.630400000000002
+  latitude: 21.680241
+  longitude: 39.157436
+  name: King Abdulaziz International Airport
+  region: SA-02
+JFK:
+  country: US
+  elevation: 3.9624
+  latitude: 40.639447
+  longitude: -73.779317
+  name: John F. Kennedy International Airport
+  region: US-NY
+JGN:
+  country: CN
+  elevation: 1558.1376
+  latitude: 39.859052
+  longitude: 98.339344
+  name: Jiayuguan International Airport
+  region: CN-62
+JHB:
+  country: MY
+  elevation: 41.148
+  latitude: 1.64131
+  longitude: 103.669998
+  name: Senai International Airport
+  region: MY-01
+JHG:
+  country: CN
+  elevation: 553.212
+  latitude: 21.974648
+  longitude: 100.762224
+  name: Xishuangbanna Gasa International Airport
+  region: CN-53
+JIB:
+  country: DJ
+  elevation: 14.9352
+  latitude: 11.5473
+  longitude: 43.1595
+  name: Djibouti-Ambouli Airport
+  region: DJ-DJ
+JIJ:
+  country: ET
+  elevation: 1814.7792000000002
+  latitude: 9.331907
+  longitude: 42.911811
+  name: Gerad Wilwal International Airport
+  region: ET-SO
+JJN:
+  country: CN
+  elevation: 11.8872
+  latitude: 24.795855
+  longitude: 118.588599
+  name: Quanzhou Jinjiang International Airport
+  region: CN-35
+JNB:
+  country: ZA
+  elevation: 1694.0784
+  latitude: -26.140081
+  longitude: 28.246801
+  name: O.R. Tambo International Airport
+  region: ZA-GT
+JPA:
+  country: BR
+  elevation: 66.1416
+  latitude: -7.148691
+  longitude: -34.950554
+  name: Presidente Castro Pinto International Airport
+  region: BR-PB
+JRO:
+  country: TZ
+  elevation: 893.6736000000001
+  latitude: -3.427049
+  longitude: 37.07353
+  name: Kilimanjaro International Airport
+  region: TZ-01
+JTR:
+  country: GR
+  elevation: 38.7096
+  latitude: 36.400045
+  longitude: 25.478638
+  name: Santorini International Airport
+  region: GR-L
+JUB:
+  country: SS
+  elevation: 461.16240000000005
+  latitude: 4.87201
+  longitude: 31.601101
+  name: Juba International Airport
+  region: SS-EC
+JUJ:
+  country: AR
+  elevation: 920.1912000000001
+  latitude: -24.392799
+  longitude: -65.097801
+  name: Gobernador Horacio Guzman International Airport
+  region: AR-Y
+JUL:
+  country: PE
+  elevation: 3825.8496
+  latitude: -15.467689
+  longitude: -70.15653
+  name: Inca Manco Capac International Airport
+  region: PE-PUN
+KAD:
+  country: NG
+  elevation: 631.8504
+  latitude: 10.696
+  longitude: 7.32011
+  name: Kaduna International Airport
+  region: NG-KD
+KAN:
+  country: NG
+  elevation: 476.0976
+  latitude: 12.045613
+  longitude: 8.523566
+  name: Mallam Aminu Kano International Airport
+  region: NG-KN
+KBL:
+  country: AF
+  elevation: 1791.3096
+  latitude: 34.565899
+  longitude: 69.212303
+  name: Kabul International Airport
+  region: AF-KAB
+KBP:
+  country: UA
+  elevation: 130.1496
+  latitude: 50.345001
+  longitude: 30.894699
+  name: Boryspil International Airport
+  region: UA-32
+KBV:
+  country: TH
+  elevation: 24.9936
+  latitude: 8.095591
+  longitude: 98.988955
+  name: Krabi International Airport
+  region: TH-81
+KCH:
+  country: MY
+  elevation: 27.127200000000002
+  latitude: 1.487364
+  longitude: 110.352859
+  name: Kuching International Airport
+  region: MY-13
+KCZ:
+  country: JP
+  elevation: 12.8016
+  latitude: 33.545217
+  longitude: 133.670166
+  name: Kochi Ryoma Airport
+  region: JP-39
+KDH:
+  country: AF
+  elevation: 1017.1176
+  latitude: 31.505769
+  longitude: 65.847963
+  name: Ahmad Shah Baba International Airport
+  region: AF-KAN
+KDU:
+  country: PK
+  elevation: 2229.9168
+  latitude: 35.33866
+  longitude: 75.538648
+  name: Skardu International Airport
+  region: PK-GB
+KEF:
+  country: IS
+  elevation: 52.1208
+  latitude: 63.985001
+  longitude: -22.6056
+  name: Keflavik International Airport
+  region: IS-2
+KEJ:
+  country: RU
+  elevation: 263.0424
+  latitude: 55.2701
+  longitude: 86.107201
+  name: Alexei Leonov Kemerovo International Airport
+  region: RU-KEM
+KER:
+  country: IR
+  elevation: 1749.8568
+  latitude: 30.271276
+  longitude: 56.949692
+  name: Ayatollah Hashemi Rafsanjani International Airport
+  region: IR-08
+KGD:
+  country: RU
+  elevation: 12.8016
+  latitude: 54.89161
+  longitude: 20.598559
+  name: Khrabrovo Airport
+  region: RU-KGD
+KGF:
+  country: KZ
+  elevation: 537.972
+  latitude: 49.670799
+  longitude: 73.334396
+  name: Sary-Arka Airport
+  region: KZ-KAR
+KGL:
+  country: RW
+  elevation: 1481.0232
+  latitude: -1.96863
+  longitude: 30.1395
+  name: Kigali International Airport
+  region: RW-01
+KGS:
+  country: GR
+  elevation: 125.5776
+  latitude: 36.794523
+  longitude: 27.09115
+  name: Kos International Airport "Ippokratis"
+  region: GR-L
+KHG:
+  country: CN
+  elevation: 1380.4392
+  latitude: 39.542273
+  longitude: 76.02023
+  name: Kashgar Laining International Airport
+  region: CN-65
+KHH:
+  country: TW
+  elevation: 9.4488
+  latitude: 22.577101
+  longitude: 120.349998
+  name: Kaohsiung International Airport
+  region: TW-KHH
+KHI:
+  country: PK
+  elevation: 30.48
+  latitude: 24.9065
+  longitude: 67.160797
+  name: Jinnah International Airport
+  region: PK-SD
+KHN:
+  country: CN
+  elevation: 43.586400000000005
+  latitude: 28.864815
+  longitude: 115.90271
+  name: Nanchang Changbei International Airport
+  region: CN-36
+KIH:
+  country: IR
+  elevation: 30.7848
+  latitude: 26.525427
+  longitude: 53.980462
+  name: Kish International Airport
+  region: IR-22
+KIJ:
+  country: JP
+  elevation: 8.8392
+  latitude: 37.954166
+  longitude: 139.112189
+  name: Niigata Airport
+  region: JP-15
+KIK:
+  country: IQ
+  elevation: 323.3928
+  latitude: 35.469501
+  longitude: 44.3489
+  name: Kirkuk International Airport
+  region: IQ-TS
+KIM:
+  country: ZA
+  elevation: 1203.96
+  latitude: -28.805401
+  longitude: 24.764872
+  name: Kimberley Airport
+  region: ZA-NC
+KIN:
+  country: JM
+  elevation: 3.048
+  latitude: 17.9356994628906
+  longitude: -76.7874984741211
+  name: Norman Manley International Airport
+  region: JM-01
+KIS:
+  country: KE
+  elevation: 1138.1232
+  latitude: -0.086139
+  longitude: 34.728901
+  name: Kisumu International Airport
+  region: KE-42
+KIX:
+  country: JP
+  elevation: 7.9248
+  latitude: 34.427299
+  longitude: 135.244003
+  name: Kansai International Airport
+  region: JP-27
+KJA:
+  country: RU
+  elevation: 287.1216
+  latitude: 56.175743
+  longitude: 92.485788
+  name: Krasnoyarsk International Airport
+  region: RU-KYA
+KKJ:
+  country: JP
+  elevation: 6.4008
+  latitude: 33.845901
+  longitude: 131.035004
+  name: Kitakyushu Airport
+  region: JP-40
+KLO:
+  country: PH
+  elevation: 4.2672
+  latitude: 11.6794
+  longitude: 122.375999
+  name: Kalibo International Airport
+  region: PH-AKL
+KLU:
+  country: AT
+  elevation: 448.66560000000004
+  latitude: 46.642502
+  longitude: 14.3377
+  name: Klagenfurt Airport
+  region: AT-2
+KLV:
+  country: CZ
+  elevation: 606.2472
+  latitude: 50.202999
+  longitude: 12.915
+  name: Karlovy Vary Airport
+  region: CZ-KA
+KMG:
+  country: CN
+  elevation: 2104.0344
+  latitude: 25.110313
+  longitude: 102.936743
+  name: Kunming Changshui International Airport
+  region: CN-53
+KMI:
+  country: JP
+  elevation: 6.096
+  latitude: 31.877199
+  longitude: 131.449005
+  name: Miyazaki Airport
+  region: JP-45
+KMJ:
+  country: JP
+  elevation: 195.6816
+  latitude: 32.837299
+  longitude: 130.854996
+  name: Kumamoto Airport
+  region: JP-43
+KMQ:
+  country: JP
+  elevation: 10.972800000000001
+  latitude: 36.393407
+  longitude: 136.406895
+  name: Komatsu Airport / JASDF Komatsu Air Base
+  region: JP-17
+KMS:
+  country: GH
+  elevation: 287.1216
+  latitude: 6.71456
+  longitude: -1.59082
+  name: Prempeh I International Airport
+  region: GH-AH
+KNO:
+  country: ID
+  elevation: 7.010400000000001
+  latitude: 3.637847
+  longitude: 98.870566
+  name: Kualanamu International Airport
+  region: ID-SU
+KOA:
+  country: US
+  elevation: 14.325600000000001
+  latitude: 19.738783
+  longitude: -156.045603
+  name: Ellison Onizuka Kona International Airport at Keāhole
+  region: US-HI
+KOJ:
+  country: JP
+  elevation: 276.1488
+  latitude: 31.8034
+  longitude: 130.718994
+  name: Kagoshima Airport
+  region: JP-46
+KOS:
+  country: KH
+  elevation: 10.0584
+  latitude: 10.570557
+  longitude: 103.632067
+  name: Sihanouk International Airport
+  region: KH-18
+KOV:
+  country: KZ
+  elevation: 274.32
+  latitude: 53.329102
+  longitude: 69.594597
+  name: Kokshetau International Airport
+  region: KZ-AKM
+KQT:
+  country: TJ
+  elevation: 448.97040000000004
+  latitude: 37.866315
+  longitude: 68.864475
+  name: Bokhtar International Airport
+  region: TJ-KT
+KRK:
+  country: PL
+  elevation: 241.0968
+  latitude: 50.077702
+  longitude: 19.7848
+  name: Kraków John Paul II International Airport
+  region: PL-MA
+KRN:
+  country: SE
+  elevation: 459.63840000000005
+  latitude: 67.821999
+  longitude: 20.3368
+  name: Kiruna Airport
+  region: SE-BD
+KRR:
+  country: RU
+  elevation: 35.9664
+  latitude: 45.034465
+  longitude: 39.174215
+  name: Krasnodar Pashkovsky International Airport
+  region: RU-KDA
+KRS:
+  country: 'NO'
+  elevation: 17.3736
+  latitude: 58.204201
+  longitude: 8.08537
+  name: Kristiansand Airport
+  region: NO-42
+KRT:
+  country: SD
+  elevation: 385.572
+  latitude: 15.5895
+  longitude: 32.5532
+  name: Khartoum International Airport
+  region: SD-03
+KSA:
+  country: FM
+  elevation: 3.3528000000000002
+  latitude: 5.35698
+  longitude: 162.957993
+  name: Kosrae International Airport
+  region: FM-KSA
+KSF:
+  country: DE
+  elevation: 249.936
+  latitude: 51.418395
+  longitude: 9.391638
+  name: Kassel Airport
+  region: DE-HE
+KSN:
+  country: KZ
+  elevation: 181.35600000000002
+  latitude: 53.206902
+  longitude: 63.550301
+  name: Kostanay International Airport
+  region: KZ-KUS
+KTI:
+  country: KH
+  elevation: 6.096
+  latitude: 11.359987
+  longitude: 104.921272
+  name: Techo International Airport
+  region: KH-8
+KTM:
+  country: NP
+  elevation: 1338.0720000000001
+  latitude: 27.6966
+  longitude: 85.3591
+  name: Tribhuvan International Airport
+  region: NP-P3
+KTT:
+  country: FI
+  elevation: 196.2912
+  latitude: 67.700996
+  longitude: 24.8468
+  name: Kittilä International Airport
+  region: FI-10
+KTW:
+  country: PL
+  elevation: 303.276
+  latitude: 50.476015
+  longitude: 19.080705
+  name: Katowice Wojciech Korfanty International Airport
+  region: PL-SL
+KUF:
+  country: RU
+  elevation: 145.3896
+  latitude: 53.504902
+  longitude: 50.164299
+  name: Kurumoch International Airport
+  region: RU-SAM
+KUL:
+  country: MY
+  elevation: 21.031200000000002
+  latitude: 2.74558
+  longitude: 101.709999
+  name: Kuala Lumpur International Airport
+  region: MY-10
+KUN:
+  country: LT
+  elevation: 78.0288
+  latitude: 54.963965
+  longitude: 24.08582
+  name: Kaunas International Airport
+  region: LT-KU
+KUO:
+  country: FI
+  elevation: 98.4504
+  latitude: 63.007099
+  longitude: 27.7978
+  name: Kuopio Airport
+  region: FI-15
+KUT:
+  country: GE
+  elevation: 67.9704
+  latitude: 42.177448
+  longitude: 42.485353
+  name: David the Builder Kutaisi International Airport
+  region: GE-IM
+KVA:
+  country: GR
+  elevation: 5.486400000000001
+  latitude: 40.9133
+  longitude: 24.6192
+  name: Kavala Alexander the Great International Airport
+  region: GR-A
+KWE:
+  country: CN
+  elevation: 1138.7328
+  latitude: 26.541805
+  longitude: 106.80402
+  name: Guiyang Longdongbao International Airport
+  region: CN-52
+KWI:
+  country: KW
+  elevation: 62.7888
+  latitude: 29.224487
+  longitude: 47.969813
+  name: Kuwait International Airport
+  region: KW-FA
+KWL:
+  country: CN
+  elevation: 173.73600000000002
+  latitude: 25.219828
+  longitude: 110.039553
+  name: Guilin Liangjiang International Airport
+  region: CN-45
+KYA:
+  country: TR
+  elevation: 1033.8816000000002
+  latitude: 37.979
+  longitude: 32.561901
+  name: Konya Airport
+  region: TR-42
+KZN:
+  country: RU
+  elevation: 125.2728
+  latitude: 55.606201
+  longitude: 49.278702
+  name: Kazan International Airport
+  region: RU-TA
+KZO:
+  country: KZ
+  elevation: 131.9784
+  latitude: 44.706902
+  longitude: 65.592499
+  name: Korkyt Ata International Airport
+  region: KZ-KZY
+LAD:
+  country: AO
+  elevation: 74.0664
+  latitude: -8.85837
+  longitude: 13.2312
+  name: Quatro de Fevereiro International Airport
+  region: AO-LUA
+LAE:
+  country: PG
+  elevation: 72.8472
+  latitude: -6.567995
+  longitude: 146.726544
+  name: Nadzab Tomodachi International Airport
+  region: PG-MPL
+LAO:
+  country: PH
+  elevation: 7.62
+  latitude: 18.175089
+  longitude: 120.531006
+  name: Laoag International Airport
+  region: PH-ILN
+LAQ:
+  country: LY
+  elevation: 657.4536
+  latitude: 32.789036
+  longitude: 21.954864
+  name: Al Abraq International Airport
+  region: LY-JA
+LAS:
+  country: US
+  elevation: 664.7688
+  latitude: 36.083361
+  longitude: -115.151817
+  name: Harry Reid International Airport
+  region: US-NV
+LAX:
+  country: US
+  elevation: 38.1
+  latitude: 33.942501
+  longitude: -118.407997
+  name: Los Angeles International Airport
+  region: US-CA
+LBA:
+  country: GB
+  elevation: 207.5688
+  latitude: 53.865898
+  longitude: -1.66057
+  name: Leeds Bradford Airport
+  region: GB-ENG
+LBD:
+  country: TJ
+  elevation: 441.96000000000004
+  latitude: 40.215401
+  longitude: 69.694702
+  name: Khujand International Airport
+  region: TJ-SU
+LBG:
+  country: FR
+  elevation: 66.4464
+  latitude: 48.962276
+  longitude: 2.436539
+  name: Paris-Le Bourget International Airport
+  region: FR-IDF
+LBV:
+  country: GA
+  elevation: 11.8872
+  latitude: 0.458951
+  longitude: 9.41214
+  name: Libreville Leon M'ba International Airport
+  region: GA-1
+LCA:
+  country: CY
+  elevation: 2.4384
+  latitude: 34.875099
+  longitude: 33.624901
+  name: Larnaca International Airport
+  region: CY-04
+LCJ:
+  country: PL
+  elevation: 184.0992
+  latitude: 51.721901
+  longitude: 19.3981
+  name: Łódź Władysław Reymont Airport
+  region: PL-LD
+LED:
+  country: RU
+  elevation: 23.7744
+  latitude: 59.800301
+  longitude: 30.262501
+  name: Pulkovo Airport
+  region: RU-SPE
+LEJ:
+  country: DE
+  elevation: 141.732
+  latitude: 51.420657
+  longitude: 12.232705
+  name: Leipzig/Halle Airport
+  region: DE-SN
+LFW:
+  country: TG
+  elevation: 21.945600000000002
+  latitude: 6.16561
+  longitude: 1.25451
+  name: Lomé–Tokoin International Airport
+  region: TG-M
+LGA:
+  country: US
+  elevation: 6.4008
+  latitude: 40.777199
+  longitude: -73.872597
+  name: LaGuardia Airport
+  region: US-NY
+LGB:
+  country: US
+  elevation: 18.288
+  latitude: 33.816523
+  longitude: -118.149891
+  name: Long Beach International Airport
+  region: US-CA
+LGK:
+  country: MY
+  elevation: 8.8392
+  latitude: 6.32973
+  longitude: 99.728699
+  name: Langkawi International Airport
+  region: MY-02
+LGW:
+  country: GB
+  elevation: 61.5696
+  latitude: 51.148744
+  longitude: -0.185739
+  name: London Gatwick Airport
+  region: GB-ENG
+LHE:
+  country: PK
+  elevation: 217.01760000000002
+  latitude: 31.521601
+  longitude: 74.403603
+  name: Allama Iqbal International Airport
+  region: PK-PB
+LHR:
+  country: GB
+  elevation: 25.2984
+  latitude: 51.470748
+  longitude: -0.459909
+  name: London Heathrow Airport
+  region: GB-ENG
+LHW:
+  country: CN
+  elevation: 1947.0624
+  latitude: 36.515202
+  longitude: 103.620003
+  name: Lanzhou Zhongchuan International Airport
+  region: CN-62
+LIH:
+  country: US
+  elevation: 46.6344
+  latitude: 21.974393
+  longitude: -159.337146
+  name: Lihue Airport
+  region: US-HI
+LIL:
+  country: FR
+  elevation: 47.8536
+  latitude: 50.566564
+  longitude: 3.102429
+  name: Lille Airport
+  region: FR-HDF
+LIM:
+  country: PE
+  elevation: 34.4424
+  latitude: -12.0219
+  longitude: -77.114305
+  name: Jorge Chávez International Airport
+  region: PE-LIM
+LIN:
+  country: IT
+  elevation: 107.59440000000001
+  latitude: 45.445099
+  longitude: 9.27674
+  name: Milano Linate Airport
+  region: IT-25
+LIR:
+  country: CR
+  elevation: 82.296
+  latitude: 10.5933
+  longitude: -85.544403
+  name: Daniel Oduber Quirós International Airport
+  region: CR-G
+LIS:
+  country: PT
+  elevation: 113.99520000000001
+  latitude: 38.7813
+  longitude: -9.13592
+  name: Lisbon Humberto Delgado Airport
+  region: PT-11
+LJG:
+  country: CN
+  elevation: 2243.0232
+  latitude: 26.677483
+  longitude: 100.244944
+  name: Lijiang Sanyi International Airport
+  region: CN-53
+LJU:
+  country: SI
+  elevation: 388.0104
+  latitude: 46.223701
+  longitude: 14.4576
+  name: Ljubljana Jože Pučnik Airport
+  region: SI-012
+LKO:
+  country: IN
+  elevation: 124.968
+  latitude: 26.760599
+  longitude: 80.889297
+  name: Chaudhary Charan Singh International Airport
+  region: IN-UP
+LLA:
+  country: SE
+  elevation: 19.812
+  latitude: 65.5438
+  longitude: 22.122
+  name: Luleå Airport
+  region: SE-BD
+LLW:
+  country: MW
+  elevation: 1229.8680000000002
+  latitude: -13.7894
+  longitude: 33.780998
+  name: Kamuzu International Airport
+  region: MW-LI
+LNZ:
+  country: AT
+  elevation: 298.704
+  latitude: 48.235362
+  longitude: 14.188128
+  name: Linz-Hörsching Airport
+  region: AT-4
+LOP:
+  country: ID
+  elevation: 97.2312
+  latitude: -8.759962
+  longitude: 116.278169
+  name: Lombok International Airport
+  region: ID-NB
+LOS:
+  country: NG
+  elevation: 41.148
+  latitude: 6.57737
+  longitude: 3.32116
+  name: Murtala Muhammed International Airport
+  region: NG-LA
+LPA:
+  country: ES
+  elevation: 23.7744
+  latitude: 27.9319
+  longitude: -15.3866
+  name: Gran Canaria Airport
+  region: ES-CN
+LPB:
+  country: BO
+  elevation: 4070.6040000000003
+  latitude: -16.510272
+  longitude: -68.189416
+  name: El Alto International Airport
+  region: BO-L
+LPI:
+  country: SE
+  elevation: 52.4256
+  latitude: 58.404909
+  longitude: 15.684499
+  name: Linköping City Airport
+  region: SE-E
+LPL:
+  country: GB
+  elevation: 24.384
+  latitude: 53.334863
+  longitude: -2.849637
+  name: Liverpool John Lennon Airport
+  region: GB-ENG
+LPP:
+  country: FI
+  elevation: 106.3752
+  latitude: 61.044601
+  longitude: 28.144743
+  name: Lappeenranta Airport
+  region: FI-02
+LPQ:
+  country: LA
+  elevation: 291.084
+  latitude: 19.904273
+  longitude: 102.167191
+  name: Luang Phabang International Airport
+  region: LA-LP
+LPX:
+  country: LV
+  elevation: 4.8768
+  latitude: 56.517502
+  longitude: 21.096901
+  name: Liepāja International Airport
+  region: LV-112
+LRL:
+  country: TG
+  elevation: 461.77200000000005
+  latitude: 9.766675
+  longitude: 1.090944
+  name: Niamtougou International Airport
+  region: TG-K
+LRM:
+  country: DO
+  elevation: 64.92240000000001
+  latitude: 18.452222
+  longitude: -68.911111
+  name: Casa De Campo International Airport
+  region: DO-12
+LTH:
+  country: VN
+  elevation: 75.8952
+  latitude: 10.772842
+  longitude: 107.040596
+  name: Long Thanh International Airport (Under Construction)
+  region: VN-SE
+LTN:
+  country: GB
+  elevation: 160.3248
+  latitude: 51.874699
+  longitude: -0.368333
+  name: London Luton Airport
+  region: GB-ENG
+LTO:
+  country: MX
+  elevation: 10.3632
+  latitude: 25.989549
+  longitude: -111.348408
+  name: Loreto International Airport
+  region: MX-BCS
+LUN:
+  country: ZM
+  elevation: 1151.8392000000001
+  latitude: -15.330833
+  longitude: 28.452722
+  name: Kenneth Kaunda International Airport
+  region: ZM-09
+LUX:
+  country: LU
+  elevation: 376.1232
+  latitude: 49.626845
+  longitude: 6.212134
+  name: Luxembourg-Findel International Airport
+  region: LU-L
+LUZ:
+  country: PL
+  elevation: 192.9384
+  latitude: 51.240157
+  longitude: 22.713461
+  name: Lublin Airport
+  region: PL-LU
+LVI:
+  country: ZM
+  elevation: 1006.4496
+  latitude: -17.821524
+  longitude: 25.819642
+  name: Harry Mwanga Nkumbula International Airport
+  region: ZM-07
+LWN:
+  country: AM
+  elevation: 1524.0
+  latitude: 40.750401
+  longitude: 43.859299
+  name: Shirak International Airport
+  region: AM-SH
+LWO:
+  country: UA
+  elevation: 326.4408
+  latitude: 49.8125
+  longitude: 23.9561
+  name: Lviv International Airport
+  region: UA-46
+LXA:
+  country: CN
+  elevation: 3570.1224
+  latitude: 29.298001
+  longitude: 90.911951
+  name: Lhasa Gonggar International Airport
+  region: CN-54
+LXR:
+  country: EG
+  elevation: 84.12480000000001
+  latitude: 25.671018
+  longitude: 32.706446
+  name: Luxor International Airport
+  region: EG-LX
+LYA:
+  country: CN
+  elevation: 256.03200000000004
+  latitude: 34.7411
+  longitude: 112.388
+  name: Luoyang Beijiao Airport
+  region: CN-41
+LYP:
+  country: PK
+  elevation: 180.13680000000002
+  latitude: 31.364923
+  longitude: 72.995319
+  name: Faisalabad International Airport
+  region: PK-PB
+LYS:
+  country: FR
+  elevation: 250.2408
+  latitude: 45.725996
+  longitude: 5.090139
+  name: Lyon Saint-Exupéry Airport
+  region: FR-ARA
+MAA:
+  country: IN
+  elevation: 15.8496
+  latitude: 12.990005
+  longitude: 80.169296
+  name: Chennai International Airport
+  region: IN-TN
+MAD:
+  country: ES
+  elevation: 608.9904
+  latitude: 40.493407
+  longitude: -3.572249
+  name: Adolfo Suárez Madrid–Barajas Airport
+  region: ES-MD
+MAH:
+  country: ES
+  elevation: 92.0496
+  latitude: 39.862598
+  longitude: 4.21865
+  name: Menorca Airport
+  region: ES-IB
+MAJ:
+  country: MH
+  elevation: 1.8288000000000002
+  latitude: 7.06511
+  longitude: 171.271656
+  name: Marshall Islands International Airport
+  region: MH-MAJ
+MAN:
+  country: GB
+  elevation: 78.3336
+  latitude: 53.349375
+  longitude: -2.279521
+  name: Manchester Airport
+  region: GB-ENG
+MAO:
+  country: BR
+  elevation: 80.4672
+  latitude: -3.03861
+  longitude: -60.049702
+  name: Eduardo Gomes International Airport
+  region: BR-AM
+MAR:
+  country: VE
+  elevation: 72.8472
+  latitude: 10.557542
+  longitude: -71.729307
+  name: La Chinita International Airport
+  region: VE-V
+MBA:
+  country: KE
+  elevation: 60.96
+  latitude: -4.03483
+  longitude: 39.5942
+  name: Moi International Airport
+  region: KE-01
+MBJ:
+  country: JM
+  elevation: 1.2192
+  latitude: 18.50342
+  longitude: -77.91323
+  name: Sangster International Airport
+  region: JM-08
+MCI:
+  country: US
+  elevation: 312.7248
+  latitude: 39.301699
+  longitude: -94.713893
+  name: Kansas City International Airport
+  region: US-MO
+MCO:
+  country: US
+  elevation: 29.260800000000003
+  latitude: 28.4293994903564
+  longitude: -81.3089981079102
+  name: Orlando International Airport
+  region: US-FL
+MCT:
+  country: OM
+  elevation: 14.630400000000002
+  latitude: 23.600218
+  longitude: 58.285268
+  name: Muscat International Airport
+  region: OM-MA
+MCX:
+  country: RU
+  elevation: 3.6576000000000004
+  latitude: 42.816799
+  longitude: 47.652302
+  name: Makhachkala Uytash International Airport
+  region: RU-DA
+MCY:
+  country: AU
+  elevation: 4.572
+  latitude: -26.593324
+  longitude: 153.08319
+  name: Sunshine Coast Airport
+  region: AU-QLD
+MCZ:
+  country: BR
+  elevation: 117.9576
+  latitude: -9.512559
+  longitude: -35.791839
+  name: Zumbi dos Palmares International Airport
+  region: BR-AL
+MDC:
+  country: ID
+  elevation: 80.4672
+  latitude: 1.548591
+  longitude: 124.92625
+  name: Sam Ratulangi International Airport
+  region: ID-SA
+MDE:
+  country: CO
+  elevation: 2119.884
+  latitude: 6.16454
+  longitude: -75.4231
+  name: Jose Maria Córdova International Airport
+  region: CO-ANT
+MDL:
+  country: MM
+  elevation: 91.44
+  latitude: 21.7021999359131
+  longitude: 95.977897644043
+  name: Mandalay International Airport
+  region: MM-04
+MDW:
+  country: US
+  elevation: 188.976
+  latitude: 41.785999
+  longitude: -87.752403
+  name: Chicago Midway International Airport
+  region: US-IL
+MDZ:
+  country: AR
+  elevation: 704.0880000000001
+  latitude: -32.831699
+  longitude: -68.7929
+  name: Governor Francisco Gabrielli International Airport
+  region: AR-M
+MED:
+  country: SA
+  elevation: 655.6248
+  latitude: 24.5534
+  longitude: 39.705101
+  name: Prince Mohammad Bin Abdulaziz Airport
+  region: SA-03
+MEL:
+  country: AU
+  elevation: 132.2832
+  latitude: -37.670732
+  longitude: 144.837898
+  name: Melbourne Airport
+  region: AU-VIC
+MEM:
+  country: US
+  elevation: 103.9368
+  latitude: 35.043845
+  longitude: -89.97634
+  name: Frederick W. Smith International Airport
+  region: US-TN
+MEX:
+  country: MX
+  elevation: 2229.9168
+  latitude: 19.435822
+  longitude: -99.07033
+  name: Mexico City Benito Juárez International Airport
+  region: MX-DIF
+MFM:
+  country: MO
+  elevation: 6.096
+  latitude: 22.149599
+  longitude: 113.592003
+  name: Macau International Airport
+  region: MO-CAR
+MFU:
+  country: ZM
+  elevation: 564.7944
+  latitude: -13.2589
+  longitude: 31.9366
+  name: Mfuwe International Airport
+  region: ZM-03
+MGA:
+  country: NI
+  elevation: 59.1312
+  latitude: 12.1415
+  longitude: -86.168198
+  name: Augusto C. Sandino (Managua) International Airport
+  region: NI-MN
+MGQ:
+  country: SO
+  elevation: 8.8392
+  latitude: 2.01444
+  longitude: 45.304699
+  name: Aden Adde International Airport
+  region: SO-BN
+MHD:
+  country: IR
+  elevation: 994.5624
+  latitude: 36.234821
+  longitude: 59.642949
+  name: Mashhad International Airport
+  region: IR-09
+MIA:
+  country: US
+  elevation: 2.4384
+  latitude: 25.796011
+  longitude: -80.289751
+  name: Miami International Airport
+  region: US-FL
+MID:
+  country: MX
+  elevation: 11.5824
+  latitude: 20.930485
+  longitude: -89.645462
+  name: Manuel Crescencio Rejón International Airport
+  region: MX-YUC
+MIU:
+  country: NG
+  elevation: 334.97520000000003
+  latitude: 11.854163
+  longitude: 13.080702
+  name: Maiduguri International Airport
+  region: NG-BO
+MJI:
+  country: LY
+  elevation: 10.972800000000001
+  latitude: 32.89177
+  longitude: 13.287878
+  name: Mitiga International Airport
+  region: LY-TB
+MJN:
+  country: MG
+  elevation: 26.5176
+  latitude: -15.666842
+  longitude: 46.351233
+  name: Amborovy Airport
+  region: MG-M
+MKE:
+  country: US
+  elevation: 220.37040000000002
+  latitude: 42.947201
+  longitude: -87.896599
+  name: General Mitchell International Airport
+  region: US-WI
+MLA:
+  country: MT
+  elevation: 91.44
+  latitude: 35.845932
+  longitude: 14.491546
+  name: Malta International Airport
+  region: MT-25
+MLE:
+  country: MV
+  elevation: 1.8288000000000002
+  latitude: 4.19183
+  longitude: 73.529099
+  name: Velana International Airport
+  region: MV-MLE
+MLM:
+  country: MX
+  elevation: 1838.8584
+  latitude: 19.849899
+  longitude: -101.025002
+  name: General Francisco J. Mujica International Airport
+  region: MX-MIC
+MMK:
+  country: RU
+  elevation: 81.0768
+  latitude: 68.7817
+  longitude: 32.750801
+  name: Emperor Nicholas II Murmansk Airport
+  region: RU-MUR
+MMX:
+  country: SE
+  elevation: 71.9328
+  latitude: 55.535564
+  longitude: 13.376327
+  name: Malmö Sturup Airport
+  region: SE-M
+MNI:
+  country: MS
+  elevation: 167.64000000000001
+  latitude: 16.791835
+  longitude: -62.193204
+  name: John A. Osborne Airport
+  region: MS-SP
+MNL:
+  country: PH
+  elevation: 22.86
+  latitude: 14.5086
+  longitude: 121.019997
+  name: Ninoy Aquino International Airport
+  region: PH-00
+MPL:
+  country: FR
+  elevation: 5.1816
+  latitude: 43.576199
+  longitude: 3.96301
+  name: Montpellier-Méditerranée Airport
+  region: FR-OCC
+MPM:
+  country: MZ
+  elevation: 44.196000000000005
+  latitude: -25.920799
+  longitude: 32.572601
+  name: Maputo Airport
+  region: MZ-MPM
+MPN:
+  country: FK
+  elevation: 74.3712
+  latitude: -51.822642
+  longitude: -58.445777
+  name: Mount Pleasant Airport / RAF Mount Pleasant
+  region: FK-U-A
+MQF:
+  country: RU
+  elevation: 435.86400000000003
+  latitude: 53.391991
+  longitude: 58.755235
+  name: Magnitogorsk International Airport
+  region: RU-BA
+MQP:
+  country: ZA
+  elevation: 862.2792000000001
+  latitude: -25.383327
+  longitude: 31.105325
+  name: Kruger Mpumalanga International Airport
+  region: ZA-MP
+MRS:
+  country: FR
+  elevation: 22.555200000000003
+  latitude: 43.438088
+  longitude: 5.2125
+  name: Marseille Provence Airport
+  region: FR-PAC
+MRU:
+  country: MU
+  elevation: 56.692800000000005
+  latitude: -20.430201
+  longitude: 57.683601
+  name: Sir Seewoosagur Ramgoolam International Airport
+  region: MU-GP
+MRV:
+  country: RU
+  elevation: 321.2592
+  latitude: 44.225101
+  longitude: 43.081902
+  name: Mineralnye Vody Airport
+  region: RU-STA
+MSP:
+  country: US
+  elevation: 256.33680000000004
+  latitude: 44.880081
+  longitude: -93.221741
+  name: Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field
+  region: US-MN
+MSQ:
+  country: BY
+  elevation: 204.216
+  latitude: 53.888071
+  longitude: 28.039964
+  name: Minsk National Airport
+  region: BY-MI
+MST:
+  country: NL
+  elevation: 114.30000000000001
+  latitude: 50.911087
+  longitude: 5.769401
+  name: Maastricht Aachen Airport
+  region: NL-LI
+MSU:
+  country: LS
+  elevation: 1630.0704
+  latitude: -29.456277
+  longitude: 27.554456
+  name: Moshoeshoe I International Airport
+  region: LS-A
+MSY:
+  country: US
+  elevation: 1.2192
+  latitude: 29.993401
+  longitude: -90.264673
+  name: Louis Armstrong New Orleans International Airport
+  region: US-LA
+MTY:
+  country: MX
+  elevation: 389.5344
+  latitude: 25.778521
+  longitude: -100.106989
+  name: Monterrey International Airport
+  region: MX-NLE
+MUB:
+  country: BW
+  elevation: 942.7464
+  latitude: -19.970491
+  longitude: 23.431409
+  name: Maun International Airport
+  region: BW-NW
+MUC:
+  country: DE
+  elevation: 453.23760000000004
+  latitude: 48.353802
+  longitude: 11.7861
+  name: Munich Airport
+  region: DE-BY
+MUH:
+  country: EG
+  elevation: 22.86
+  latitude: 31.324313
+  longitude: 27.22227
+  name: Mersa Matruh International Airport
+  region: EG-MT
+MUX:
+  country: PK
+  elevation: 122.8344
+  latitude: 30.203199
+  longitude: 71.419098
+  name: Multan International Airport
+  region: PK-PB
+MVD:
+  country: UY
+  elevation: 32.004000000000005
+  latitude: -34.835647
+  longitude: -56.026497
+  name: Carrasco General Cesáreo L. Berisso International Airport
+  region: UY-CA
+MWX:
+  country: KR
+  elevation: 10.668000000000001
+  latitude: 34.991406
+  longitude: 126.382814
+  name: Muan International Airport
+  region: KR-46
+MWZ:
+  country: TZ
+  elevation: 1146.9624000000001
+  latitude: -2.446563
+  longitude: 32.936049
+  name: Mwanza International Airport
+  region: TZ-18
+MXP:
+  country: IT
+  elevation: 234.08640000000003
+  latitude: 45.6306
+  longitude: 8.72811
+  name: Milan Malpensa International Airport
+  region: IT-25
+MYJ:
+  country: JP
+  elevation: 7.62
+  latitude: 33.826893
+  longitude: 132.700114
+  name: Matsuyama Airport
+  region: JP-38
+MYR:
+  country: US
+  elevation: 7.62
+  latitude: 33.679699
+  longitude: -78.928299
+  name: Myrtle Beach International Airport
+  region: US-SC
+MZG:
+  country: TW
+  elevation: 31.3944
+  latitude: 23.568701
+  longitude: 119.627998
+  name: Penghu Magong Airport
+  region: TW-PEN
+MZR:
+  country: AF
+  elevation: 391.3632
+  latitude: 36.70412
+  longitude: 67.210459
+  name: Mazar-i-Sharif International Airport
+  region: AF-BAL
+MZT:
+  country: MX
+  elevation: 11.5824
+  latitude: 23.162823
+  longitude: -106.264517
+  name: General Rafael Buelna International Airport
+  region: MX-SIN
+NAG:
+  country: IN
+  elevation: 314.8584
+  latitude: 21.092199
+  longitude: 79.047203
+  name: Dr. Babasaheb Ambedkar International Airport
+  region: IN-MM
+NAJ:
+  country: AZ
+  elevation: 872.6424000000001
+  latitude: 39.188801
+  longitude: 45.458401
+  name: Nakhchivan International Airport
+  region: AZ-NX
+NAN:
+  country: FJ
+  elevation: 17.9832
+  latitude: -17.761822
+  longitude: 177.437843
+  name: Nadi International Airport
+  region: FJ-W
+NAP:
+  country: IT
+  elevation: 89.61120000000001
+  latitude: 40.886002
+  longitude: 14.2908
+  name: Naples International Airport
+  region: IT-72
+NAS:
+  country: BS
+  elevation: 4.8768
+  latitude: 25.039
+  longitude: -77.466202
+  name: Lynden Pindling International Airport
+  region: BS-NP
+NAT:
+  country: BR
+  elevation: 83.2104
+  latitude: -5.769822
+  longitude: -35.36661
+  name: Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International
+    Airport
+  region: BR-RN
+NAV:
+  country: TR
+  elevation: 944.88
+  latitude: 38.7719
+  longitude: 34.5345
+  name: Nevşehir Kapadokya Airport
+  region: TR-50
+NBJ:
+  country: AO
+  elevation: 167.64000000000001
+  latitude: -9.050734
+  longitude: 13.499078
+  name: Dr. Antonio Agostinho Neto International Airport
+  region: AO-LUA
+NBO:
+  country: KE
+  elevation: 1624.584
+  latitude: -1.318886
+  longitude: 36.928233
+  name: Jomo Kenyatta International Airport
+  region: KE-47
+NCE:
+  country: FR
+  elevation: 3.6576000000000004
+  latitude: 43.658401
+  longitude: 7.21587
+  name: Nice-Côte d'Azur Airport
+  region: FR-PAC
+NCL:
+  country: GB
+  elevation: 81.0768
+  latitude: 55.037958
+  longitude: -1.689577
+  name: Newcastle International Airport
+  region: GB-ENG
+NCU:
+  country: UZ
+  elevation: 74.9808
+  latitude: 42.4884
+  longitude: 59.623299
+  name: Nukus International Airport
+  region: UZ-QR
+NDB:
+  country: MR
+  elevation: 7.315200000000001
+  latitude: 20.932404
+  longitude: -17.030199
+  name: Nouadhibou International Airport
+  region: MR-08
+NDG:
+  country: CN
+  elevation: 145.3896
+  latitude: 47.229969
+  longitude: 123.914179
+  name: Qiqihar Sanjiazi Airport
+  region: CN-23
+NDJ:
+  country: TD
+  elevation: 295.0464
+  latitude: 12.1337
+  longitude: 15.034
+  name: N'Djamena International Airport
+  region: TD-ND
+NDR:
+  country: MA
+  elevation: 174.95520000000002
+  latitude: 34.9888
+  longitude: -3.02821
+  name: Nador Al Aaroui International Airport
+  region: MA-02
+NGB:
+  country: CN
+  elevation: 3.9624
+  latitude: 29.8267002105713
+  longitude: 121.46199798584
+  name: Ningbo Lishe International Airport
+  region: CN-33
+NGO:
+  country: JP
+  elevation: 4.572
+  latitude: 34.858398
+  longitude: 136.804993
+  name: Chubu Centrair International Airport
+  region: JP-23
+NGS:
+  country: JP
+  elevation: 4.572
+  latitude: 32.916901
+  longitude: 129.914001
+  name: Nagasaki Airport
+  region: JP-42
+NIM:
+  country: NE
+  elevation: 223.11360000000002
+  latitude: 13.4815
+  longitude: 2.18361
+  name: Diori Hamani International Airport
+  region: NE-8
+NJC:
+  country: RU
+  elevation: 53.949600000000004
+  latitude: 60.949299
+  longitude: 76.483597
+  name: Nizhnevartovsk Airport
+  region: RU-KHM
+NJF:
+  country: IQ
+  elevation: 31.3944
+  latitude: 31.991116
+  longitude: 44.405019
+  name: Al Najaf International Airport
+  region: IQ-NA
+NKC:
+  country: MR
+  elevation: 2.7432000000000003
+  latitude: 18.31
+  longitude: -15.969722
+  name: Nouakchott–Oumtounsy International Airport
+  region: MR-NKC
+NKG:
+  country: CN
+  elevation: 14.9352
+  latitude: 31.735032
+  longitude: 118.865949
+  name: Nanjing Lukou International Airport
+  region: CN-32
+NLA:
+  country: ZM
+  elevation: 1313.0784
+  latitude: -12.96513
+  longitude: 28.515624
+  name: Simon Mwansa Kapwepwe International Airport
+  region: ZM-08
+NLU:
+  country: MX
+  elevation: 2246.0712000000003
+  latitude: 19.743824
+  longitude: -99.01507
+  name: Felipe Ángeles International Airport
+  region: MX-MEX
+NMA:
+  country: UZ
+  elevation: 473.964
+  latitude: 40.984622
+  longitude: 71.5578
+  name: Namangan International Airport
+  region: UZ-NG
+NMI:
+  country: IN
+  elevation: 56.083200000000005
+  latitude: 18.984597
+  longitude: 73.065253
+  name: Navi Mumbai International Airport
+  region: IN-MM
+NNG:
+  country: CN
+  elevation: 128.32080000000002
+  latitude: 22.598071
+  longitude: 108.181922
+  name: Nanning Wuxu International Airport
+  region: CN-45
+NOC:
+  country: IE
+  elevation: 202.692
+  latitude: 53.910439
+  longitude: -8.817002
+  name: Ireland West Airport Knock
+  region: IE-MO
+NOS:
+  country: MG
+  elevation: 10.972800000000001
+  latitude: -13.3121
+  longitude: 48.3148
+  name: Nosy Be International Airport
+  region: MG-D
+NOU:
+  country: NC
+  elevation: 15.8496
+  latitude: -22.014601
+  longitude: 166.212997
+  name: La Tontouta International Airport
+  region: NC-03
+NQN:
+  country: AR
+  elevation: 272.796
+  latitude: -38.949001
+  longitude: -68.155701
+  name: Presidente Perón International Airport
+  region: AR-Q
+NQZ:
+  country: KZ
+  elevation: 355.09200000000004
+  latitude: 51.027035
+  longitude: 71.467094
+  name: Nursultan Nazarbayev International Airport
+  region: KZ-AST
+NRN:
+  country: DE
+  elevation: 32.308800000000005
+  latitude: 51.601362
+  longitude: 6.141228
+  name: Weeze (Niederrhein) Airport
+  region: DE-NW
+NRT:
+  country: JP
+  elevation: 42.976800000000004
+  latitude: 35.76858
+  longitude: 140.388714
+  name: Narita International Airport
+  region: JP-12
+NSI:
+  country: CM
+  elevation: 694.3344000000001
+  latitude: 3.72256
+  longitude: 11.5533
+  name: Yaoundé Nsimalen International Airport
+  region: CM-CE
+NSK:
+  country: RU
+  elevation: 174.95520000000002
+  latitude: 69.307951
+  longitude: 87.325906
+  name: Alykel International Airport
+  region: RU-KYA
+NTE:
+  country: FR
+  elevation: 27.432000000000002
+  latitude: 47.153198
+  longitude: -1.61073
+  name: Nantes Atlantique Airport
+  region: FR-PDL
+NTL:
+  country: AU
+  elevation: 9.4488
+  latitude: -32.796114
+  longitude: 151.835025
+  name: Newcastle Airport
+  region: AU-NSW
+NUE:
+  country: DE
+  elevation: 318.8208
+  latitude: 49.498699
+  longitude: 11.078056
+  name: Nuremberg Airport
+  region: DE-BY
+NUM:
+  country: SA
+  elevation: 8.8392
+  latitude: 27.924261
+  longitude: 35.29358
+  name: Neom Bay Airport
+  region: SA-07
+NVT:
+  country: BR
+  elevation: 5.486400000000001
+  latitude: -26.879431
+  longitude: -48.650979
+  name: Ministro Victor Konder International Airport
+  region: BR-SC
+NYO:
+  country: SE
+  elevation: 42.672000000000004
+  latitude: 58.789656
+  longitude: 16.911479
+  name: Stockholm Skavsta Airport
+  region: SE-D
+NYT:
+  country: MM
+  elevation: 92.0496
+  latitude: 19.623501
+  longitude: 96.200996
+  name: Nay Pyi Taw International Airport
+  region: MM-04
+OAK:
+  country: US
+  elevation: 2.7432000000000003
+  latitude: 37.720085
+  longitude: -122.221184
+  name: Oakland San Francisco Bay Airport
+  region: US-CA
+OAX:
+  country: MX
+  elevation: 1520.6472
+  latitude: 16.998773
+  longitude: -96.726092
+  name: Xoxocotlán International Airport
+  region: MX-OAX
+OCS:
+  country: GQ
+  elevation: 16.764
+  latitude: 0.910937
+  longitude: 9.33027
+  name: Corisco International Airport
+  region: GQ-LI
+ODE:
+  country: DK
+  elevation: 17.0688
+  latitude: 55.475307
+  longitude: 10.327206
+  name: Odense Hans Christian Andersen Airport
+  region: DK-83
+ODS:
+  country: UA
+  elevation: 52.4256
+  latitude: 46.427196
+  longitude: 30.672649
+  name: Odesa International Airport
+  region: UA-51
+OGG:
+  country: US
+  elevation: 16.4592
+  latitude: 20.896263
+  longitude: -156.431837
+  name: Kahului International Airport
+  region: US-HI
+OHD:
+  country: MK
+  elevation: 705.0024000000001
+  latitude: 41.18
+  longitude: 20.7423
+  name: Ohrid St. Paul the Apostle Airport
+  region: MK-003
+OHS:
+  country: OM
+  elevation: 6.096
+  latitude: 24.38604
+  longitude: 56.62541
+  name: Suhar International Airport
+  region: OM-BA
+OKA:
+  country: JP
+  elevation: 3.6576000000000004
+  latitude: 26.192437
+  longitude: 127.639804
+  name: Naha International Airport
+  region: JP-47
+OKC:
+  country: US
+  elevation: 394.716
+  latitude: 35.393388
+  longitude: -97.598248
+  name: OKC Will Rogers World Airport
+  region: US-OK
+OKJ:
+  country: JP
+  elevation: 245.6688
+  latitude: 34.756901
+  longitude: 133.854996
+  name: Okayama Momotaro Airport
+  region: JP-33
+OLB:
+  country: IT
+  elevation: 11.277600000000001
+  latitude: 40.898953
+  longitude: 9.518457
+  name: Olbia Costa Smeralda Airport
+  region: IT-88
+OMA:
+  country: US
+  elevation: 299.9232
+  latitude: 41.3032
+  longitude: -95.894096
+  name: Eppley Airfield
+  region: US-NE
+OMO:
+  country: BA
+  elevation: 47.5488
+  latitude: 43.282489
+  longitude: 17.846101
+  name: Mostar International Airport
+  region: BA-BIH
+OMR:
+  country: RO
+  elevation: 141.732
+  latitude: 47.025299
+  longitude: 21.9025
+  name: Oradea International Airport
+  region: RO-BH
+OMS:
+  country: RU
+  elevation: 94.7928
+  latitude: 54.963124
+  longitude: 73.312418
+  name: Omsk Central Airport
+  region: RU-OMS
+ONT:
+  country: US
+  elevation: 287.7312
+  latitude: 34.056
+  longitude: -117.600998
+  name: Ontario International Airport
+  region: US-CA
+OOL:
+  country: AU
+  elevation: 6.4008
+  latitude: -28.165962
+  longitude: 153.506641
+  name: Gold Coast Airport
+  region: AU-QLD
+OPO:
+  country: PT
+  elevation: 69.4944
+  latitude: 41.2481002808
+  longitude: -8.68138980865
+  name: Francisco de Sá Carneiro Airport
+  region: PT-13
+ORD:
+  country: US
+  elevation: 207.264
+  latitude: 41.9786
+  longitude: -87.9048
+  name: Chicago O'Hare International Airport
+  region: US-IL
+ORF:
+  country: US
+  elevation: 7.9248
+  latitude: 36.895341
+  longitude: -76.201
+  name: Norfolk International Airport
+  region: US-VA
+ORK:
+  country: IE
+  elevation: 153.0096
+  latitude: 51.841301
+  longitude: -8.49111
+  name: Cork International Airport
+  region: IE-CO
+ORN:
+  country: DZ
+  elevation: 89.91600000000001
+  latitude: 35.620648
+  longitude: -0.622486
+  name: Oran Es-Sénia (Ahmed Ben Bella) International Airport
+  region: DZ-31
+ORU:
+  country: BO
+  elevation: 3703.9296000000004
+  latitude: -17.956151
+  longitude: -67.075829
+  name: Juan Mendoza International Airport
+  region: BO-O
+ORY:
+  country: FR
+  elevation: 88.69680000000001
+  latitude: 48.729499
+  longitude: 2.358963
+  name: Paris-Orly Airport
+  region: FR-IDF
+OSL:
+  country: 'NO'
+  elevation: 207.5688
+  latitude: 60.193901
+  longitude: 11.1004
+  name: Oslo-Gardermoen International Airport
+  region: NO-32
+OSM:
+  country: IQ
+  elevation: 219.15120000000002
+  latitude: 36.305801
+  longitude: 43.1474
+  name: Mosul International Airport
+  region: IQ-NI
+OSR:
+  country: CZ
+  elevation: 257.25120000000004
+  latitude: 49.696301
+  longitude: 18.111099
+  name: Leoš Janáček Airport Ostrava
+  region: CZ-MO
+OSS:
+  country: KG
+  elevation: 892.1496000000001
+  latitude: 40.609001
+  longitude: 72.793297
+  name: Osh International Airport
+  region: KG-O
+OST:
+  country: BE
+  elevation: 3.9624
+  latitude: 51.1998
+  longitude: 2.874673
+  name: Ostend-Bruges International Airport
+  region: BE-VWV
+OTP:
+  country: RO
+  elevation: 95.7072
+  latitude: 44.571792
+  longitude: 26.103285
+  name: Bucharest Henri Coandă International Airport
+  region: RO-IF
+OUA:
+  country: BF
+  elevation: 316.0776
+  latitude: 12.3532
+  longitude: -1.51242
+  name: Ouagadougou Thomas Sankara International Airport
+  region: BF-KAD
+OUD:
+  country: MA
+  elevation: 467.86800000000005
+  latitude: 34.789558
+  longitude: -1.926041
+  name: Oujda Angads Airport
+  region: MA-02
+OUL:
+  country: FI
+  elevation: 14.325600000000001
+  latitude: 64.930099
+  longitude: 25.354601
+  name: Oulu Airport
+  region: FI-14
+OVB:
+  country: RU
+  elevation: 111.25200000000001
+  latitude: 55.019756
+  longitude: 82.618675
+  name: Novosibirsk Tolmachevo Airport
+  region: RU-NVS
+OVD:
+  country: ES
+  elevation: 126.7968
+  latitude: 43.563599
+  longitude: -6.03462
+  name: Asturias Airport
+  region: ES-AS
+OXB:
+  country: GW
+  elevation: 39.3192
+  latitude: 11.894262
+  longitude: -15.653596
+  name: Osvaldo Vieira International Airport
+  region: GW-BS
+OZG:
+  country: MA
+  elevation: 735.7872
+  latitude: 30.265788
+  longitude: -5.860808
+  name: Zagora Airport
+  region: MA-08
+OZZ:
+  country: MA
+  elevation: 1152.7536
+  latitude: 30.9391
+  longitude: -6.90943
+  name: Ouarzazate International Airport
+  region: MA-08
+PAD:
+  country: DE
+  elevation: 213.0552
+  latitude: 51.612527
+  longitude: 8.617459
+  name: Paderborn Lippstadt Airport
+  region: DE-NW
+PAP:
+  country: HT
+  elevation: 37.1856
+  latitude: 18.580023
+  longitude: -72.292596
+  name: Toussaint Louverture International Airport
+  region: HT-OU
+PBC:
+  country: MX
+  elevation: 2243.6328000000003
+  latitude: 19.158465
+  longitude: -98.371582
+  name: Hermanos Serdán International Airport
+  region: MX-PUE
+PBH:
+  country: BT
+  elevation: 2244.5472
+  latitude: 27.4032
+  longitude: 89.424599
+  name: Paro International Airport
+  region: BT-11
+PBM:
+  country: SR
+  elevation: 17.9832
+  latitude: 5.45283
+  longitude: -55.187801
+  name: Johan Adolf Pengel International Airport
+  region: SR-PR
+PCL:
+  country: PE
+  elevation: 156.3624
+  latitude: -8.378064
+  longitude: -74.574495
+  name: Cap FAP David Abenzur Rengifo International Airport
+  region: PE-UCA
+PDG:
+  country: ID
+  elevation: 5.486400000000001
+  latitude: -0.785964
+  longitude: 100.280384
+  name: Minangkabau International Airport
+  region: ID-SB
+PDL:
+  country: PT
+  elevation: 78.9432
+  latitude: 37.7411994934
+  longitude: -25.6979007721
+  name: João Paulo II Airport
+  region: PT-20
+PDV:
+  country: BG
+  elevation: 181.96560000000002
+  latitude: 42.067799
+  longitude: 24.8508
+  name: Plovdiv International Airport
+  region: BG-16
+PDX:
+  country: US
+  elevation: 9.4488
+  latitude: 45.588699
+  longitude: -122.598
+  name: Portland International Airport
+  region: US-OR
+PED:
+  country: CZ
+  elevation: 225.85680000000002
+  latitude: 50.015049
+  longitude: 15.73981
+  name: Pardubice Airport
+  region: CZ-PA
+PEE:
+  country: RU
+  elevation: 123.1392
+  latitude: 57.914501
+  longitude: 56.021198
+  name: Perm International Airport
+  region: RU-PER
+PEG:
+  country: IT
+  elevation: 212.4456
+  latitude: 43.095901
+  longitude: 12.5132
+  name: Perugia San Francesco d'Assisi – Umbria International Airport
+  region: IT-55
+PEK:
+  country: CN
+  elevation: 35.3568
+  latitude: 40.077349
+  longitude: 116.596702
+  name: Beijing Capital International Airport
+  region: CN-11
+PEN:
+  country: MY
+  elevation: 3.3528000000000002
+  latitude: 5.296303
+  longitude: 100.276185
+  name: Penang International Airport
+  region: MY-07
+PER:
+  country: AU
+  elevation: 20.4216
+  latitude: -31.940299987793
+  longitude: 115.967002868652
+  name: Perth International Airport
+  region: AU-WA
+PEV:
+  country: HU
+  elevation: 198.4248
+  latitude: 45.988891
+  longitude: 18.242044
+  name: Pécs-Pogány International Airport
+  region: HU-BA
+PEW:
+  country: PK
+  elevation: 352.95840000000004
+  latitude: 33.9939
+  longitude: 71.514603
+  name: Bacha Khan International Airport
+  region: PK-KP
+PFO:
+  country: CY
+  elevation: 12.4968
+  latitude: 34.717999
+  longitude: 32.485699
+  name: Paphos International Airport
+  region: CY-06
+PHC:
+  country: NG
+  elevation: 26.5176
+  latitude: 5.01549
+  longitude: 6.94959
+  name: Port Harcourt International Airport
+  region: NG-RI
+PHE:
+  country: AU
+  elevation: 10.0584
+  latitude: -20.382787
+  longitude: 118.629789
+  name: Port Hedland International Airport
+  region: AU-WA
+PHH:
+  country: NP
+  elevation: 790.956
+  latitude: 28.1838
+  longitude: 84.0147
+  name: Pokhara International Airport
+  region: NP-P4
+PHL:
+  country: US
+  elevation: 10.972800000000001
+  latitude: 39.871899
+  longitude: -75.241096
+  name: Philadelphia International Airport
+  region: US-PA
+PHX:
+  country: US
+  elevation: 345.94800000000004
+  latitude: 33.435302
+  longitude: -112.005905
+  name: Phoenix Sky Harbor International Airport
+  region: US-AZ
+PIE:
+  country: US
+  elevation: 3.3528000000000002
+  latitude: 27.9102
+  longitude: -82.687401
+  name: St. Petersburg Clearwater International Airport
+  region: US-FL
+PIK:
+  country: GB
+  elevation: 19.812
+  latitude: 55.501499
+  longitude: -4.577182
+  name: Glasgow Prestwick Airport
+  region: GB-SCT
+PIO:
+  country: PE
+  elevation: 11.8872
+  latitude: -13.7449
+  longitude: -76.220299
+  name: Captain Renán Elías Olivera International Airport
+  region: PE-ICA
+PIT:
+  country: US
+  elevation: 366.6744
+  latitude: 40.491501
+  longitude: -80.232903
+  name: Pittsburgh International Airport
+  region: US-PA
+PKC:
+  country: RU
+  elevation: 39.9288
+  latitude: 53.168716
+  longitude: 158.451068
+  name: Yelizovo Airport
+  region: RU-KAM
+PKX:
+  country: CN
+  elevation: 29.8704
+  latitude: 39.501289
+  longitude: 116.413967
+  name: Beijing Daxing International Airport
+  region: CN-11
+PKZ:
+  country: LA
+  elevation: 106.9848
+  latitude: 15.133973
+  longitude: 105.779871
+  name: Pakse International Airport
+  region: LA-CH
+PLQ:
+  country: LT
+  elevation: 10.0584
+  latitude: 55.973202
+  longitude: 21.093901
+  name: Palanga International Airport
+  region: LT-KL
+PLS:
+  country: TC
+  elevation: 4.572
+  latitude: 21.773697
+  longitude: -72.268321
+  name: Providenciales International Airport
+  region: TC-PR
+PLX:
+  country: KZ
+  elevation: 231.95280000000002
+  latitude: 50.351295
+  longitude: 80.234398
+  name: Semei International Airport
+  region: KZ-ABA
+PLZ:
+  country: ZA
+  elevation: 68.8848
+  latitude: -33.989715
+  longitude: 25.617353
+  name: Chief Dawid Stuurman International Airport
+  region: ZA-EC
+PMC:
+  country: CL
+  elevation: 89.61120000000001
+  latitude: -41.443093
+  longitude: -73.094065
+  name: El Tepual International Airport
+  region: CL-LL
+PMI:
+  country: ES
+  elevation: 8.2296
+  latitude: 39.551701
+  longitude: 2.73881
+  name: Palma de Mallorca Airport
+  region: ES-IB
+PMO:
+  country: IT
+  elevation: 19.812
+  latitude: 38.175999
+  longitude: 13.091
+  name: Falcone–Borsellino Airport
+  region: IT-82
+PMV:
+  country: VE
+  elevation: 22.555200000000003
+  latitude: 10.912603
+  longitude: -63.966599
+  name: Del Caribe Santiago Mariño International Airport
+  region: VE-O
+PNH:
+  country: KH
+  elevation: 12.192
+  latitude: 11.547155
+  longitude: 104.844699
+  name: Phnom Penh International Airport
+  region: KH-12
+PNK:
+  country: ID
+  elevation: 3.048
+  latitude: -0.152258
+  longitude: 109.404493
+  name: Supadio International Airport
+  region: ID-KB
+PNQ:
+  country: IN
+  elevation: 591.9216
+  latitude: 18.5821
+  longitude: 73.919701
+  name: Pune International Airport
+  region: IN-MM
+PNR:
+  country: CG
+  elevation: 16.764
+  latitude: -4.81603
+  longitude: 11.8866
+  name: Antonio Agostinho-Neto International Airport
+  region: CG-5
+PNS:
+  country: US
+  elevation: 36.8808
+  latitude: 30.472718
+  longitude: -87.186639
+  name: Pensacola International Airport
+  region: US-FL
+POA:
+  country: BR
+  elevation: 3.3528000000000002
+  latitude: -29.993984
+  longitude: -51.167482
+  name: Porto Alegre-Salgado Filho International Airport
+  region: BR-RS
+POG:
+  country: GA
+  elevation: 3.9624
+  latitude: -0.711739
+  longitude: 8.75438
+  name: Port Gentil International Airport
+  region: GA-8
+POM:
+  country: PG
+  elevation: 44.500800000000005
+  latitude: -9.44338035583496
+  longitude: 147.220001220703
+  name: Port Moresby Jacksons International Airport
+  region: PG-NCD
+POS:
+  country: TT
+  elevation: 17.6784
+  latitude: 10.59535
+  longitude: -61.337568
+  name: Piarco International Airport
+  region: TT-TUP
+POZ:
+  country: PL
+  elevation: 93.8784
+  latitude: 52.421598
+  longitude: 16.823359
+  name: Poznań-Ławica Airport
+  region: PL-WP
+PPG:
+  country: AS
+  elevation: 9.7536
+  latitude: -14.331
+  longitude: -170.710007
+  name: Pago Pago International Airport
+  region: AS-WT
+PPK:
+  country: KZ
+  elevation: 138.0744
+  latitude: 54.775622
+  longitude: 69.187415
+  name: Petropavl International Airport
+  region: KZ-SEV
+PPS:
+  country: PH
+  elevation: 21.640800000000002
+  latitude: 9.742044
+  longitude: 118.75911
+  name: Puerto Princesa International Airport / PAF Antonio Bautista Air Base
+  region: PH-PLW
+PPT:
+  country: PF
+  elevation: 1.524
+  latitude: -17.553472
+  longitude: -149.606936
+  name: Fa'a'ā International Airport
+  region: PF-U-A
+PQC:
+  country: VN
+  elevation: 11.277600000000001
+  latitude: 10.169783
+  longitude: 103.99353
+  name: Phú Quốc International Airport
+  region: VN-SW
+PRG:
+  country: CZ
+  elevation: 380.0856
+  latitude: 50.100874
+  longitude: 14.259911
+  name: Václav Havel Airport Prague
+  region: CZ-PR
+PRN:
+  country: XK
+  elevation: 545.2872
+  latitude: 42.5728
+  longitude: 21.035801
+  name: Priština Adem Jashari International Airport
+  region: XK-01
+PSA:
+  country: IT
+  elevation: 1.8288000000000002
+  latitude: 43.683899
+  longitude: 10.3927
+  name: Pisa International Airport
+  region: IT-52
+PSD:
+  country: EG
+  elevation: 3.048
+  latitude: 31.279285
+  longitude: 32.240582
+  name: Port Said International Airport
+  region: EG-PTS
+PSP:
+  country: US
+  elevation: 145.3896
+  latitude: 33.8297
+  longitude: -116.507004
+  name: Palm Springs International Airport
+  region: US-CA
+PSR:
+  country: IT
+  elevation: 14.630400000000002
+  latitude: 42.431079
+  longitude: 14.182981
+  name: Abruzzo Airport
+  region: IT-65
+PTG:
+  country: ZA
+  elevation: 1242.3648
+  latitude: -23.845269
+  longitude: 29.458615
+  name: Polokwane International Airport
+  region: ZA-NP
+PTP:
+  country: GP
+  elevation: 10.972800000000001
+  latitude: 16.265443
+  longitude: -61.532754
+  name: Maryse Condé International Airport
+  region: GP-U-A
+PTY:
+  country: PA
+  elevation: 41.148
+  latitude: 9.07136
+  longitude: -79.383499
+  name: Tocumen International Airport
+  region: PA-8
+PUJ:
+  country: DO
+  elevation: 14.325600000000001
+  latitude: 18.567093
+  longitude: -68.364558
+  name: Punta Cana International Airport
+  region: DO-11
+PUQ:
+  country: CL
+  elevation: 42.367200000000004
+  latitude: -53.002602
+  longitude: -70.854599
+  name: President Carlos Ibáñez International Airport
+  region: CL-MA
+PUS:
+  country: KR
+  elevation: 1.8288000000000002
+  latitude: 35.179501
+  longitude: 128.938004
+  name: Gimhae International Airport
+  region: KR-26
+PUY:
+  country: HR
+  elevation: 83.51520000000001
+  latitude: 44.893501
+  longitude: 13.9222
+  name: Pula Airport
+  region: HR-18
+PVD:
+  country: US
+  elevation: 16.764
+  latitude: 41.725038
+  longitude: -71.425668
+  name: Rhode Island T. F. Green International Airport
+  region: US-RI
+PVG:
+  country: CN
+  elevation: 3.9624
+  latitude: 31.1434
+  longitude: 121.805
+  name: Shanghai Pudong International Airport
+  region: CN-31
+PVH:
+  country: BR
+  elevation: 89.91600000000001
+  latitude: -8.708491
+  longitude: -63.902338
+  name: Governador Jorge Teixeira de Oliveira International Airport
+  region: BR-RO
+PVR:
+  country: MX
+  elevation: 7.010400000000001
+  latitude: 20.679913
+  longitude: -105.254391
+  name: Puerto Vallarta International Airport
+  region: MX-JAL
+PWM:
+  country: US
+  elevation: 23.1648
+  latitude: 43.646198
+  longitude: -70.309303
+  name: Portland International Jetport
+  region: US-ME
+PWQ:
+  country: KZ
+  elevation: 124.968
+  latitude: 52.194982
+  longitude: 77.073088
+  name: Pavlodar International Airport
+  region: KZ-PAV
+PYK:
+  country: IR
+  elevation: 1271.016
+  latitude: 35.7761
+  longitude: 50.826698
+  name: Payam International Airport
+  region: IR-30
+PZO:
+  country: VE
+  elevation: 143.8656
+  latitude: 8.28853
+  longitude: -62.760399
+  name: General Manuel Carlos Piar International Airport
+  region: VE-F
+PZU:
+  country: SD
+  elevation: 41.148
+  latitude: 19.434558
+  longitude: 37.234125
+  name: Port Sudan New International Airport
+  region: SD-26
+QRO:
+  country: MX
+  elevation: 1919.0208
+  latitude: 20.618779
+  longitude: -100.186449
+  name: Querétaro Intercontinental Airport
+  region: MX-QUE
+RAI:
+  country: CV
+  elevation: 70.104
+  latitude: 14.941126
+  longitude: -23.484728
+  name: Nelson Mandela International Airport
+  region: CV-S
+RAK:
+  country: MA
+  elevation: 470.916
+  latitude: 31.604807
+  longitude: -8.035788
+  name: Marrakesh Menara Airport
+  region: MA-07
+RAR:
+  country: CK
+  elevation: 5.7912
+  latitude: -21.2027
+  longitude: -159.806
+  name: Rarotonga International Airport
+  region: CK-U-A
+RBA:
+  country: MA
+  elevation: 84.12480000000001
+  latitude: 34.051498
+  longitude: -6.75152
+  name: Rabat-Salé Airport
+  region: MA-04
+RBR:
+  country: BR
+  elevation: 192.9384
+  latitude: -9.869031
+  longitude: -67.893984
+  name: Rio Branco-Plácido de Castro International Airport
+  region: BR-AC
+RDU:
+  country: US
+  elevation: 132.588
+  latitude: 35.878659
+  longitude: -78.7873
+  name: Raleigh-Durham International Airport
+  region: US-NC
+REC:
+  country: BR
+  elevation: 10.0584
+  latitude: -8.12747
+  longitude: -34.922961
+  name: Recife/Guararapes - Gilberto Freyre International Airport
+  region: BR-PE
+RES:
+  country: AR
+  elevation: 52.7304
+  latitude: -27.44991
+  longitude: -59.056125
+  name: Resistencia International Airport
+  region: AR-H
+REU:
+  country: ES
+  elevation: 71.0184
+  latitude: 41.147509
+  longitude: 1.168354
+  name: Reus Airport
+  region: ES-CT
+RGL:
+  country: AR
+  elevation: 18.5928
+  latitude: -51.608791
+  longitude: -69.308948
+  name: Piloto Civil Norberto Fernández International Airport
+  region: AR-Z
+RGN:
+  country: MM
+  elevation: 33.2232
+  latitude: 16.9073009491
+  longitude: 96.1332015991
+  name: Yangon International Airport
+  region: MM-06
+RHO:
+  country: GR
+  elevation: 5.1816
+  latitude: 36.405399
+  longitude: 28.086201
+  name: Rhodes International Airport "Diagoras"
+  region: GR-L
+RIC:
+  country: US
+  elevation: 50.9016
+  latitude: 37.505199
+  longitude: -77.319702
+  name: Richmond International Airport
+  region: US-VA
+RIX:
+  country: LV
+  elevation: 10.972800000000001
+  latitude: 56.920752
+  longitude: 23.970711
+  name: Riga International Airport
+  region: LV-062
+RIY:
+  country: YE
+  elevation: 16.4592
+  latitude: 14.662241
+  longitude: 49.375289
+  name: Riyan International Airport
+  region: YE-HD
+RJK:
+  country: HR
+  elevation: 84.73440000000001
+  latitude: 45.216376
+  longitude: 14.57085
+  name: Rijeka Airport
+  region: HR-08
+RKT:
+  country: AE
+  elevation: 31.0896
+  latitude: 25.613501
+  longitude: 55.938801
+  name: Ras Al Khaimah International Airport
+  region: AE-RK
+RKZ:
+  country: CN
+  elevation: 1152.7536
+  latitude: 29.350876
+  longitude: 89.299157
+  name: Xigaze Peace Airport / Shigatse Air Base
+  region: CN-54
+RMF:
+  country: EG
+  elevation: 64.92240000000001
+  latitude: 25.555548
+  longitude: 34.59245
+  name: Marsa Alam International Airport
+  region: EG-BA
+RMI:
+  country: IT
+  elevation: 12.192
+  latitude: 44.020024
+  longitude: 12.612198
+  name: Federico Fellini International Airport
+  region: IT-45
+RML:
+  country: LK
+  elevation: 6.7056000000000004
+  latitude: 6.821638
+  longitude: 79.885859
+  name: Colombo Ratmalana International Airport
+  region: LK-1
+RMO:
+  country: MD
+  elevation: 121.6152
+  latitude: 46.92774
+  longitude: 28.931704
+  name: Chişinău International Airport
+  region: MD-CU
+RMQ:
+  country: TW
+  elevation: 202.0824
+  latitude: 24.2647
+  longitude: 120.621002
+  name: Taichung International Airport / Ching Chuang Kang Air Base
+  region: TW-TXG
+RMU:
+  country: ES
+  elevation: 196.2912
+  latitude: 37.802852
+  longitude: -1.124884
+  name: Region of Murcia International Airport
+  region: ES-MC
+RNO:
+  country: US
+  elevation: 1345.692
+  latitude: 39.4991
+  longitude: -119.767998
+  name: Reno Tahoe International Airport
+  region: US-NV
+ROB:
+  country: LR
+  elevation: 9.4488
+  latitude: 6.23379
+  longitude: -10.3623
+  name: Roberts International Airport
+  region: LR-MG
+ROC:
+  country: US
+  elevation: 170.38320000000002
+  latitude: 43.1189
+  longitude: -77.672401
+  name: Frederick Douglass Greater Rochester International Airport
+  region: US-NY
+ROP:
+  country: MP
+  elevation: 185.0136
+  latitude: 14.173267
+  longitude: 145.241103
+  name: Rota International Airport
+  region: MP-U-A
+ROR:
+  country: PW
+  elevation: 53.644800000000004
+  latitude: 7.366965
+  longitude: 134.544085
+  name: Roman Tmetuchl International Airport
+  region: PW-004
+ROS:
+  country: AR
+  elevation: 25.908
+  latitude: -32.9036
+  longitude: -60.785
+  name: Rosario Islas Malvinas International Airport
+  region: AR-S
+ROV:
+  country: RU
+  elevation: 64.92240000000001
+  latitude: 47.493888
+  longitude: 39.924722
+  name: Platov International Airport
+  region: RU-ROS
+RSI:
+  country: SA
+  elevation: 42.672000000000004
+  latitude: 25.627975
+  longitude: 37.088914
+  name: Red Sea International Airport
+  region: SA-07
+RSW:
+  country: US
+  elevation: 9.144
+  latitude: 26.534685
+  longitude: -81.752816
+  name: Southwest Florida International Airport
+  region: US-FL
+RTB:
+  country: HN
+  elevation: 11.8872
+  latitude: 16.316799
+  longitude: -86.523003
+  name: Juan Manuel Gálvez International Airport
+  region: HN-IB
+RTM:
+  country: NL
+  elevation: -4.572
+  latitude: 51.956902
+  longitude: 4.43722
+  name: Rotterdam The Hague Airport
+  region: NL-ZH
+RUH:
+  country: SA
+  elevation: 624.5352
+  latitude: 24.9576
+  longitude: 46.698799
+  name: King Khalid International Airport
+  region: SA-01
+RUN:
+  country: RE
+  elevation: 20.1168
+  latitude: -20.890087
+  longitude: 55.518894
+  name: Roland Garros Airport
+  region: RE-SD
+RVN:
+  country: FI
+  elevation: 195.6816
+  latitude: 66.563327
+  longitude: 25.829751
+  name: Rovaniemi Airport
+  region: FI-10
+RZE:
+  country: PL
+  elevation: 211.2264
+  latitude: 50.109791
+  longitude: 22.024155
+  name: Rzeszów-Jasionka Airport
+  region: PL-PK
+RZV:
+  country: TR
+  elevation: 4.8768
+  latitude: 41.179766
+  longitude: 40.848802
+  name: Rize–Artvin Airport
+  region: TR-53
+SAG:
+  country: IN
+  elevation: 587.0448
+  latitude: 19.689211
+  longitude: 74.373655
+  name: Shirdi International Airport
+  region: IN-MM
+SAH:
+  country: YE
+  elevation: 2199.4368
+  latitude: 15.4763
+  longitude: 44.2197
+  name: Sanaa International Airport
+  region: YE-SA
+SAI:
+  country: KH
+  elevation: 58.216800000000006
+  latitude: 13.36974
+  longitude: 104.223831
+  name: Siem Reap-Angkor International Airport
+  region: KH-17
+SAL:
+  country: SV
+  elevation: 30.7848
+  latitude: 13.44447
+  longitude: -89.055784
+  name: El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez
+  region: SV-PA
+SAN:
+  country: US
+  elevation: 5.1816
+  latitude: 32.733601
+  longitude: -117.190002
+  name: San Diego International Airport
+  region: US-CA
+SAP:
+  country: HN
+  elevation: 27.736800000000002
+  latitude: 15.4526
+  longitude: -87.923599
+  name: Ramón Villeda Morales International Airport
+  region: HN-CR
+SAT:
+  country: US
+  elevation: 246.5832
+  latitude: 29.533701
+  longitude: -98.469803
+  name: San Antonio International Airport
+  region: US-TX
+SAV:
+  country: US
+  elevation: 15.24
+  latitude: 32.126591
+  longitude: -81.19998
+  name: Savannah Hilton Head International Airport
+  region: US-GA
+SAW:
+  country: TR
+  elevation: 95.0976
+  latitude: 40.898602
+  longitude: 29.3092
+  name: Istanbul Sabiha Gökçen International Airport
+  region: TR-34
+SBD:
+  country: US
+  elevation: 353.26320000000004
+  latitude: 34.096717
+  longitude: -117.236596
+  name: San Bernardino International Airport
+  region: US-CA
+SBZ:
+  country: RO
+  elevation: 455.98080000000004
+  latitude: 45.785841
+  longitude: 24.086666
+  name: Sibiu International Airport
+  region: RO-SB
+SCL:
+  country: CL
+  elevation: 473.964
+  latitude: -33.3930015563965
+  longitude: -70.7857971191406
+  name: Comodoro Arturo Merino Benítez International Airport
+  region: CL-RM
+SCO:
+  country: KZ
+  elevation: 22.250400000000003
+  latitude: 43.860093
+  longitude: 51.09086
+  name: Aktau International Airport
+  region: KZ-MAN
+SCQ:
+  country: ES
+  elevation: 369.7224
+  latitude: 42.896301
+  longitude: -8.41514
+  name: Santiago-Rosalía de Castro Airport
+  region: ES-GA
+SCR:
+  country: SE
+  elevation: 490.1184
+  latitude: 61.16508
+  longitude: 12.83352
+  name: Scandinavian Mountains Airport
+  region: SE-W
+SCU:
+  country: CU
+  elevation: 75.8952
+  latitude: 19.97474
+  longitude: -75.835504
+  name: Antonio Maceo International Airport
+  region: CU-13
+SCV:
+  country: RO
+  elevation: 419.1
+  latitude: 47.6875
+  longitude: 26.354099
+  name: Suceava Ștefan cel Mare International Airport
+  region: RO-SV
+SDF:
+  country: US
+  elevation: 152.7048
+  latitude: 38.1706
+  longitude: -85.735076
+  name: Louisville Muhammad Ali International Airport
+  region: US-KY
+SDJ:
+  country: JP
+  elevation: 4.572
+  latitude: 38.139702
+  longitude: 140.917007
+  name: Sendai Airport
+  region: JP-04
+SDQ:
+  country: DO
+  elevation: 17.9832
+  latitude: 18.42970085144
+  longitude: -69.668899536133
+  name: Las Américas International Airport
+  region: DO-01
+SDU:
+  country: BR
+  elevation: 3.3528000000000002
+  latitude: -22.910397
+  longitude: -43.16282
+  name: Santos Dumont Airport
+  region: BR-RJ
+SEA:
+  country: US
+  elevation: 131.9784
+  latitude: 47.447943
+  longitude: -122.310276
+  name: Seattle–Tacoma International Airport
+  region: US-WA
+SEZ:
+  country: SC
+  elevation: 3.048
+  latitude: -4.67434
+  longitude: 55.521801
+  name: Seychelles International Airport
+  region: SC-20
+SFB:
+  country: US
+  elevation: 16.764
+  latitude: 28.774277
+  longitude: -81.234626
+  name: Orlando Sanford International Airport
+  region: US-FL
+SFO:
+  country: US
+  elevation: 3.9624
+  latitude: 37.619806
+  longitude: -122.374821
+  name: San Francisco International Airport
+  region: US-CA
+SFS:
+  country: PH
+  elevation: 19.5072
+  latitude: 14.794833
+  longitude: 120.271883
+  name: Subic Bay International Airport / Naval Air Station Cubi Point
+  region: PH-ZMB
+SGC:
+  country: RU
+  elevation: 60.96
+  latitude: 61.340501
+  longitude: 73.405782
+  name: Surgut International Airport
+  region: RU-KHM
+SGN:
+  country: VN
+  elevation: 10.0584
+  latitude: 10.8188
+  longitude: 106.652
+  name: Tan Son Nhat International Airport
+  region: VN-SE
+SHA:
+  country: CN
+  elevation: 3.048
+  latitude: 31.198104
+  longitude: 121.33426
+  name: Shanghai Hongqiao International Airport
+  region: CN-31
+SHE:
+  country: CN
+  elevation: 60.3504
+  latitude: 41.6398
+  longitude: 123.483668
+  name: Shenyang Taoxian International Airport
+  region: CN-21
+SHJ:
+  country: AE
+  elevation: 33.8328
+  latitude: 25.3286
+  longitude: 55.5172
+  name: Sharjah International Airport
+  region: AE-SH
+SHO:
+  country: SZ
+  elevation: 332.8416
+  latitude: -26.358611
+  longitude: 31.716944
+  name: King Mswati III International Airport
+  region: SZ-LU
+SID:
+  country: CV
+  elevation: 53.949600000000004
+  latitude: 16.7414
+  longitude: -22.9494
+  name: Amílcar Cabral International Airport
+  region: CV-B
+SIN:
+  country: SG
+  elevation: 6.7056000000000004
+  latitude: 1.35019
+  longitude: 103.994003
+  name: Singapore Changi Airport
+  region: SG-04
+SIP:
+  country: UA
+  elevation: 194.7672
+  latitude: 45.0522
+  longitude: 33.975101
+  name: Simferopol International Airport
+  region: UA-43
+SJC:
+  country: US
+  elevation: 18.8976
+  latitude: 37.362452
+  longitude: -121.929188
+  name: Mineta San Jose International Airport
+  region: US-CA
+SJD:
+  country: MX
+  elevation: 113.99520000000001
+  latitude: 23.151919
+  longitude: -109.720731
+  name: Los Cabos International Airport
+  region: MX-BCS
+SJJ:
+  country: BA
+  elevation: 520.5984
+  latitude: 43.8246
+  longitude: 18.331499
+  name: Sarajevo International Airport
+  region: BA-BIH
+SJO:
+  country: CR
+  elevation: 920.8008000000001
+  latitude: 9.99386
+  longitude: -84.208801
+  name: Juan Santamaría International Airport
+  region: CR-A
+SJU:
+  country: PR
+  elevation: 2.7432000000000003
+  latitude: 18.4394
+  longitude: -66.001801
+  name: Luis Munoz Marin International Airport
+  region: PR-U-A
+SJW:
+  country: CN
+  elevation: 71.0184
+  latitude: 38.280701
+  longitude: 114.696999
+  name: Shijiazhuang Zhengding International Airport
+  region: CN-13
+SKB:
+  country: KN
+  elevation: 51.816
+  latitude: 17.310845
+  longitude: -62.719117
+  name: Robert L. Bradshaw International Airport
+  region: KN-U-A
+SKD:
+  country: UZ
+  elevation: 677.8752000000001
+  latitude: 39.701842
+  longitude: 66.981467
+  name: Samarkand International Airport
+  region: UZ-SA
+SKG:
+  country: GR
+  elevation: 6.7056000000000004
+  latitude: 40.51928
+  longitude: 22.970009
+  name: Thessaloniki Macedonia International Airport
+  region: GR-B
+SKO:
+  country: NG
+  elevation: 307.848
+  latitude: 12.915729
+  longitude: 5.207547
+  name: Sadiq Abubakar III International Airport
+  region: NG-SO
+SKP:
+  country: MK
+  elevation: 238.0488
+  latitude: 41.958087
+  longitude: 21.622581
+  name: Skopje International Airport
+  region: MK-008
+SKT:
+  country: PK
+  elevation: 255.1176
+  latitude: 32.535941
+  longitude: 74.364623
+  name: Sialkot International Airport
+  region: PK-PB
+SKX:
+  country: RU
+  elevation: 206.0448
+  latitude: 54.12513
+  longitude: 45.212257
+  name: Saransk International Airport
+  region: RU-MO
+SLA:
+  country: AR
+  elevation: 1246.0224
+  latitude: -24.856001
+  longitude: -65.486198
+  name: Martín Miguel de Güemes International Airport
+  region: AR-A
+SLC:
+  country: US
+  elevation: 1288.3896
+  latitude: 40.78886
+  longitude: -111.979866
+  name: Salt Lake City International Airport
+  region: US-UT
+SLL:
+  country: OM
+  elevation: 22.250400000000003
+  latitude: 17.0387
+  longitude: 54.091301
+  name: Salalah International Airport
+  region: OM-ZU
+SLZ:
+  country: BR
+  elevation: 54.254400000000004
+  latitude: -2.586386
+  longitude: -44.235008
+  name: Marechal Cunha Machado International Airport
+  region: BR-MA
+SMF:
+  country: US
+  elevation: 8.2296
+  latitude: 38.6954
+  longitude: -121.591003
+  name: Sacramento International Airport
+  region: US-CA
+SNA:
+  country: US
+  elevation: 17.0688
+  latitude: 33.675063
+  longitude: -117.869281
+  name: John Wayne Orange County International Airport
+  region: US-CA
+SNC:
+  country: EC
+  elevation: 5.486400000000001
+  latitude: -2.210057
+  longitude: -80.985067
+  name: General Ulpiano Paez International Airport
+  region: EC-25
+SNN:
+  country: IE
+  elevation: 14.020800000000001
+  latitude: 52.702
+  longitude: -8.92482
+  name: Shannon Airport
+  region: IE-CE
+SNU:
+  country: CU
+  elevation: 103.0224
+  latitude: 22.492215
+  longitude: -79.943119
+  name: Abel Santamaria International Airport
+  region: CU-05
+SOC:
+  country: ID
+  elevation: 128.32080000000002
+  latitude: -7.516044
+  longitude: 110.757492
+  name: Adisoemarmo International Airport
+  region: ID-JT
+SOF:
+  country: BG
+  elevation: 530.9616
+  latitude: 42.696357
+  longitude: 23.417671
+  name: Sofia Airport
+  region: BG-22
+SPU:
+  country: HR
+  elevation: 24.0792
+  latitude: 43.538898
+  longitude: 16.298
+  name: Split Saint Jerome Airport
+  region: HR-17
+SPX:
+  country: EG
+  elevation: 155.448
+  latitude: 30.108179
+  longitude: 30.895728
+  name: Sphinx International Airport
+  region: EG-GZ
+SRE:
+  country: BO
+  elevation: 3104.0832
+  latitude: -19.246835
+  longitude: -65.149611
+  name: Alcantarí International Airport
+  region: BO-H
+SRG:
+  country: ID
+  elevation: 3.048
+  latitude: -6.970732
+  longitude: 110.373244
+  name: Jenderal Ahmad Yani Airport
+  region: ID-JT
+SRQ:
+  country: US
+  elevation: 9.144
+  latitude: 27.394631
+  longitude: -82.554359
+  name: Sarasota Bradenton International Airport
+  region: US-FL
+SRX:
+  country: LY
+  elevation: 81.3816
+  latitude: 31.058578
+  longitude: 16.597095
+  name: Sirt International Airport / Ghardabiya Airbase
+  region: LY-SR
+SSA:
+  country: BR
+  elevation: 19.5072
+  latitude: -12.908611
+  longitude: -38.322498
+  name: Deputado Luiz Eduardo Magalhães International Airport
+  region: BR-BA
+SSG:
+  country: GQ
+  elevation: 23.1648
+  latitude: 3.75527
+  longitude: 8.70872
+  name: Malabo International Airport
+  region: GQ-BN
+SSH:
+  country: EG
+  elevation: 58.216800000000006
+  latitude: 27.977272
+  longitude: 34.394717
+  name: Sharm El Sheikh International Airport
+  region: EG-JS
+STI:
+  country: DO
+  elevation: 172.21200000000002
+  latitude: 19.40406
+  longitude: -70.604431
+  name: Cibao International Airport
+  region: DO-25
+STL:
+  country: US
+  elevation: 188.3664
+  latitude: 38.748697
+  longitude: -90.370003
+  name: St. Louis Lambert International Airport
+  region: US-MO
+STN:
+  country: GB
+  elevation: 106.0704
+  latitude: 51.884998
+  longitude: 0.235
+  name: London Stansted Airport
+  region: GB-ENG
+STR:
+  country: DE
+  elevation: 388.9248
+  latitude: 48.689899
+  longitude: 9.22196
+  name: Stuttgart Airport
+  region: DE-BW
+STT:
+  country: VI
+  elevation: 7.010400000000001
+  latitude: 18.337091
+  longitude: -64.977251
+  name: Cyril E. King Airport
+  region: VI-ST
+STV:
+  country: IN
+  elevation: 4.8768
+  latitude: 21.115531
+  longitude: 72.743251
+  name: Surat International Airport
+  region: IN-GJ
+SUB:
+  country: ID
+  elevation: 2.7432000000000003
+  latitude: -7.37983
+  longitude: 112.787003
+  name: Juanda International Airport
+  region: ID-JI
+SUF:
+  country: IT
+  elevation: 11.8872
+  latitude: 38.906214
+  longitude: 16.246007
+  name: Lamezia Terme Sant'Eufemia International Airport
+  region: IT-78
+SUV:
+  country: FJ
+  elevation: 5.1816
+  latitude: -18.044226
+  longitude: 178.561486
+  name: Nausori International Airport
+  region: FJ-C
+SVD:
+  country: VC
+  elevation: 41.4528
+  latitude: 13.159725
+  longitude: -61.148801
+  name: Argyle International Airport
+  region: VC-04
+SVG:
+  country: 'NO'
+  elevation: 8.8392
+  latitude: 58.876701
+  longitude: 5.63778
+  name: Stavanger Airport, Sola
+  region: NO-11
+SVO:
+  country: RU
+  elevation: 189.5856
+  latitude: 55.976858
+  longitude: 37.41121
+  name: Sheremetyevo International Airport
+  region: RU-MOS
+SVQ:
+  country: ES
+  elevation: 34.1376
+  latitude: 37.417999
+  longitude: -5.89311
+  name: Seville Airport
+  region: ES-AN
+SVX:
+  country: RU
+  elevation: 232.86720000000003
+  latitude: 56.743099212646
+  longitude: 60.802700042725
+  name: Koltsovo Airport
+  region: RU-SVE
+SXB:
+  country: FR
+  elevation: 153.924
+  latitude: 48.5383
+  longitude: 7.62823
+  name: Strasbourg Airport
+  region: FR-GES
+SXM:
+  country: SX
+  elevation: 3.9624
+  latitude: 18.041
+  longitude: -63.108898
+  name: Princess Juliana International Airport
+  region: SX-U-A
+SXR:
+  country: IN
+  elevation: 1654.7592000000002
+  latitude: 33.987099
+  longitude: 74.7742
+  name: Srinagar International Airport
+  region: IN-JK
+SYD:
+  country: AU
+  elevation: 6.4008
+  latitude: -33.946098
+  longitude: 151.177002
+  name: Sydney Kingsford Smith International Airport
+  region: AU-NSW
+SYR:
+  country: US
+  elevation: 128.32080000000002
+  latitude: 43.111198425293
+  longitude: -76.1063003540039
+  name: Syracuse Hancock International Airport
+  region: US-NY
+SYX:
+  country: CN
+  elevation: 28.041600000000003
+  latitude: 18.3029
+  longitude: 109.412003
+  name: Sanya Phoenix International Airport
+  region: CN-46
+SYZ:
+  country: IR
+  elevation: 1501.7496
+  latitude: 29.5392
+  longitude: 52.589802
+  name: Shiraz Shahid Dastghaib International Airport
+  region: IR-07
+SZB:
+  country: MY
+  elevation: 27.432000000000002
+  latitude: 3.13058
+  longitude: 101.549004
+  name: Sultan Abdul Aziz Shah International Airport
+  region: MY-10
+SZG:
+  country: AT
+  elevation: 430.07280000000003
+  latitude: 47.793301
+  longitude: 13.0043
+  name: Salzburg Airport
+  region: AT-5
+SZX:
+  country: CN
+  elevation: 3.9624
+  latitude: 22.639474
+  longitude: 113.803262
+  name: Shenzhen Bao'an International Airport
+  region: CN-44
+SZZ:
+  country: PL
+  elevation: 46.9392
+  latitude: 53.584702
+  longitude: 14.9022
+  name: Solidarity Szczecin–Goleniów Airport
+  region: PL-ZP
+TAB:
+  country: TT
+  elevation: 11.5824
+  latitude: 11.149571
+  longitude: -60.831298
+  name: A.N.R. Robinson International Airport
+  region: TT-TOB
+TAE:
+  country: KR
+  elevation: 35.3568
+  latitude: 35.894394
+  longitude: 128.656989
+  name: Daegu International Airport
+  region: KR-27
+TAG:
+  country: PH
+  elevation: 12.8016
+  latitude: 9.573045
+  longitude: 123.770143
+  name: Bohol-Panglao International Airport
+  region: PH-BOH
+TAK:
+  country: JP
+  elevation: 185.0136
+  latitude: 34.214963
+  longitude: 134.015454
+  name: Takamatsu Airport
+  region: JP-37
+TAO:
+  country: CN
+  elevation: 9.144
+  latitude: 36.361953
+  longitude: 120.088171
+  name: Qingdao Jiaodong International Airport
+  region: CN-37
+TAS:
+  country: UZ
+  elevation: 431.90160000000003
+  latitude: 41.2579
+  longitude: 69.281197
+  name: Tashkent International Airport
+  region: UZ-TO
+TAZ:
+  country: TM
+  elevation: 82.9056
+  latitude: 41.759853
+  longitude: 59.836149
+  name: Dashoguz International Airport
+  region: TM-D
+TBS:
+  country: GE
+  elevation: 494.9952
+  latitude: 41.669201
+  longitude: 44.9547
+  name: Tbilisi International Airport
+  region: GE-TB
+TBU:
+  country: TO
+  elevation: 38.4048
+  latitude: -21.241438
+  longitude: -175.149164
+  name: Fua'amotu International Airport
+  region: TO-04
+TBZ:
+  country: IR
+  elevation: 1359.1032
+  latitude: 38.1339
+  longitude: 46.235001
+  name: Tabriz International Airport
+  region: IR-03
+TET:
+  country: MZ
+  elevation: 160.02
+  latitude: -16.104799
+  longitude: 33.640202
+  name: Tete Airport
+  region: MZ-T
+TFN:
+  country: ES
+  elevation: 632.7648
+  latitude: 28.482752
+  longitude: -16.341707
+  name: Tenerife Norte-Ciudad de La Laguna Airport
+  region: ES-CN
+TFS:
+  country: ES
+  elevation: 63.7032
+  latitude: 28.0445
+  longitude: -16.5725
+  name: Tenerife Sur Airport
+  region: ES-CN
+TFU:
+  country: CN
+  elevation: 438.91200000000003
+  latitude: 30.31252
+  longitude: 104.441284
+  name: Chengdu Tianfu International Airport
+  region: CN-51
+TGD:
+  country: ME
+  elevation: 42.976800000000004
+  latitude: 42.359402
+  longitude: 19.2519
+  name: Podgorica Airport / Podgorica Golubovci Airbase
+  region: ME-16
+THR:
+  country: IR
+  elevation: 1207.6176
+  latitude: 35.689175
+  longitude: 51.314392
+  name: Mehrabad International Airport
+  region: IR-23
+TIA:
+  country: AL
+  elevation: 38.4048
+  latitude: 41.4147
+  longitude: 19.7206
+  name: Tirana International Airport Mother Teresa
+  region: AL-02
+TIF:
+  country: SA
+  elevation: 1477.6704
+  latitude: 21.484739
+  longitude: 40.544074
+  name: Taif International Airport
+  region: SA-02
+TIJ:
+  country: MX
+  elevation: 149.0472
+  latitude: 32.541043
+  longitude: -116.969976
+  name: General Abelardo L. Rodriguez International Airport
+  region: MX-BCN
+TIR:
+  country: IN
+  elevation: 106.68
+  latitude: 13.631988
+  longitude: 79.539869
+  name: Tirupati International Airport
+  region: IN-AP
+TJM:
+  country: RU
+  elevation: 115.21440000000001
+  latitude: 57.178984
+  longitude: 65.327696
+  name: Roshchino International Airport
+  region: RU-TYU
+TJU:
+  country: TJ
+  elevation: 698.9064000000001
+  latitude: 37.988098
+  longitude: 69.805
+  name: Kulob International Airport
+  region: TJ-KT
+TKK:
+  country: FM
+  elevation: 3.3528000000000002
+  latitude: 7.46187
+  longitude: 151.843002
+  name: Chuuk International Airport
+  region: FM-TRK
+TKS:
+  country: JP
+  elevation: 7.9248
+  latitude: 34.132559
+  longitude: 134.607816
+  name: Tokushima Awaodori Airport / JMSDF Tokushima Air Base
+  region: JP-36
+TKU:
+  country: FI
+  elevation: 49.0728
+  latitude: 60.514099
+  longitude: 22.2628
+  name: Turku Airport
+  region: FI-19
+TLC:
+  country: MX
+  elevation: 2580.4368
+  latitude: 19.3369
+  longitude: -99.56583
+  name: Adolfo López Mateos International Airport
+  region: MX-MEX
+TLL:
+  country: EE
+  elevation: 39.9288
+  latitude: 59.413246
+  longitude: 24.83264
+  name: Lennart Meri Tallinn Airport
+  region: EE-37
+TLM:
+  country: DZ
+  elevation: 248.1072
+  latitude: 35.012732
+  longitude: -1.457117
+  name: Zenata – Messali El Hadj Airport
+  region: DZ-13
+TLS:
+  country: FR
+  elevation: 152.0952
+  latitude: 43.629101
+  longitude: 1.36382
+  name: Toulouse-Blagnac Airport
+  region: FR-OCC
+TLV:
+  country: IL
+  elevation: 41.148
+  latitude: 32.011398
+  longitude: 34.8867
+  name: Ben Gurion International Airport
+  region: IL-M
+TML:
+  country: GH
+  elevation: 168.55440000000002
+  latitude: 9.553909
+  longitude: -0.86606
+  name: Yakubu Tali International Airport
+  region: GH-NP
+TMM:
+  country: MG
+  elevation: 6.7056000000000004
+  latitude: -18.113537
+  longitude: 49.392262
+  name: Toamasina Ambalamanasy Airport
+  region: MG-A
+TMP:
+  country: FI
+  elevation: 118.872
+  latitude: 61.414101
+  longitude: 23.604401
+  name: Tampere-Pirkkala Airport
+  region: FI-11
+TMR:
+  country: DZ
+  elevation: 1377.0864000000001
+  latitude: 22.810992
+  longitude: 5.450832
+  name: Aguenar – Hadj Bey Akhamok Airport
+  region: DZ-11
+TMS:
+  country: ST
+  elevation: 10.0584
+  latitude: 0.378175
+  longitude: 6.71215
+  name: São Tomé International Airport
+  region: ST-01
+TNA:
+  country: CN
+  elevation: 23.1648
+  latitude: 36.857201
+  longitude: 117.216003
+  name: Jinan Yaoqiang International Airport
+  region: CN-37
+TNG:
+  country: MA
+  elevation: 18.8976
+  latitude: 35.731741
+  longitude: -5.921459
+  name: Tangier Ibn Battuta Airport
+  region: MA-01
+TNN:
+  country: TW
+  elevation: 19.2024
+  latitude: 22.950399
+  longitude: 120.206001
+  name: Tainan International Airport / Tainan Air Base
+  region: TW-TNN
+TNR:
+  country: MG
+  elevation: 1279.5504
+  latitude: -18.7969
+  longitude: 47.478802
+  name: Ivato International Airport
+  region: MG-T
+TOF:
+  country: RU
+  elevation: 181.96560000000002
+  latitude: 56.380299
+  longitude: 85.208298
+  name: Tomsk Kamov Airport
+  region: RU-TOM
+TOM:
+  country: ML
+  elevation: 263.0424
+  latitude: 16.730499
+  longitude: -3.00758
+  name: Tombouktou Airport
+  region: ML-7
+TOS:
+  country: 'NO'
+  elevation: 9.4488
+  latitude: 69.683296
+  longitude: 18.9189
+  name: Tromsø Airport
+  region: NO-55
+TPA:
+  country: US
+  elevation: 7.9248
+  latitude: 27.9755
+  longitude: -82.533203
+  name: Tampa International Airport
+  region: US-FL
+TPE:
+  country: TW
+  elevation: 32.308800000000005
+  latitude: 25.0777
+  longitude: 121.233002
+  name: Taiwan Taoyuan International Airport
+  region: TW-TAO
+TQO:
+  country: MX
+  elevation: 20.1168
+  latitude: 20.172098
+  longitude: -87.660272
+  name: Felipe Carrillo Puerto International Airport Tulum
+  region: MX-ROO
+TRD:
+  country: 'NO'
+  elevation: 17.0688
+  latitude: 63.457802
+  longitude: 10.924
+  name: Trondheim Airport, Værnes
+  region: NO-50
+TRF:
+  country: 'NO'
+  elevation: 87.17280000000001
+  latitude: 59.186699
+  longitude: 10.2586
+  name: Sandefjord Airport, Torp
+  region: NO-39
+TRN:
+  country: IT
+  elevation: 301.4472
+  latitude: 45.200802
+  longitude: 7.64963
+  name: Turin Airport
+  region: IT-21
+TRS:
+  country: IT
+  elevation: 11.8872
+  latitude: 45.827862
+  longitude: 13.466672
+  name: Trieste Airport
+  region: IT-36
+TRU:
+  country: PE
+  elevation: 32.308800000000005
+  latitude: -8.082382
+  longitude: -79.108821
+  name: Capitán FAP Carlos Martínez de Pinillos International Airport
+  region: PE-LAL
+TRV:
+  country: IN
+  elevation: 4.572
+  latitude: 8.481889
+  longitude: 76.920029
+  name: Thiruvananthapuram International Airport
+  region: IN-KL
+TRW:
+  country: KI
+  elevation: 2.7432000000000003
+  latitude: 1.38164
+  longitude: 173.147003
+  name: Bonriki International Airport
+  region: KI-G
+TRZ:
+  country: IN
+  elevation: 87.78240000000001
+  latitude: 10.762915
+  longitude: 78.717741
+  name: Tiruchirappalli International Airport
+  region: IN-TN
+TSA:
+  country: TW
+  elevation: 5.486400000000001
+  latitude: 25.067244
+  longitude: 121.552822
+  name: Taipei Songshan International Airport
+  region: TW-TPE
+TSF:
+  country: IT
+  elevation: 17.9832
+  latitude: 45.648399
+  longitude: 12.1944
+  name: Treviso Airport
+  region: IT-34
+TSN:
+  country: CN
+  elevation: 3.048
+  latitude: 39.1244010925
+  longitude: 117.346000671
+  name: Tianjin Binhai International Airport
+  region: CN-12
+TSR:
+  country: RO
+  elevation: 106.0704
+  latitude: 45.809898
+  longitude: 21.3379
+  name: Timișoara Traian Vuia International Airport
+  region: RO-TM
+TTU:
+  country: MA
+  elevation: 3.048
+  latitude: 35.594299
+  longitude: -5.32002
+  name: Sania Ramel Airport
+  region: MA-01
+TUC:
+  country: AR
+  elevation: 455.06640000000004
+  latitude: -26.837397
+  longitude: -65.104195
+  name: Teniente Benjamín Matienzo International Airport
+  region: AR-T
+TUK:
+  country: PK
+  elevation: 151.7904
+  latitude: 25.984767
+  longitude: 63.028856
+  name: Turbat International Airport
+  region: PK-BA
+TUL:
+  country: US
+  elevation: 206.3496
+  latitude: 36.197084
+  longitude: -95.886225
+  name: Tulsa International Airport
+  region: US-OK
+TUN:
+  country: TN
+  elevation: 6.7056000000000004
+  latitude: 36.851002
+  longitude: 10.2272
+  name: Tunis Carthage International Airport
+  region: TN-11
+TUS:
+  country: US
+  elevation: 805.5864
+  latitude: 32.115004
+  longitude: -110.938053
+  name: Tucson International Airport
+  region: US-AZ
+TUU:
+  country: SA
+  elevation: 777.5448
+  latitude: 28.3711
+  longitude: 36.624865
+  name: Prince Sultan bin Abdulaziz International Airport
+  region: SA-07
+TYN:
+  country: CN
+  elevation: 784.86
+  latitude: 37.746899
+  longitude: 112.627998
+  name: Taiyuan Wusu International Airport
+  region: CN-14
+TYS:
+  country: US
+  elevation: 299.0088
+  latitude: 35.811001
+  longitude: -83.994003
+  name: McGhee Tyson Airport
+  region: US-TN
+TZL:
+  country: BA
+  elevation: 238.9632
+  latitude: 44.459858
+  longitude: 18.723627
+  name: Tuzla International Airport
+  region: BA-BIH
+UBN:
+  country: MN
+  elevation: 1366.1136000000001
+  latitude: 47.646916
+  longitude: 106.819833
+  name: Ulaanbaatar Chinggis Khaan International Airport
+  region: MN-047
+UET:
+  country: PK
+  elevation: 1605.3816000000002
+  latitude: 30.2514
+  longitude: 66.937798
+  name: Quetta International Airport
+  region: PK-BA
+UFA:
+  country: RU
+  elevation: 136.8552
+  latitude: 54.557499
+  longitude: 55.874401
+  name: Ufa International Airport
+  region: RU-BA
+UGC:
+  country: UZ
+  elevation: 97.536
+  latitude: 41.58274
+  longitude: 60.64338
+  name: Urgench International Airport
+  region: UZ-XO
+UIO:
+  country: EC
+  elevation: 2389.9368
+  latitude: -0.125399
+  longitude: -78.354306
+  name: Mariscal Sucre International Airport
+  region: EC-P
+UKB:
+  country: JP
+  elevation: 6.7056000000000004
+  latitude: 34.632801
+  longitude: 135.223999
+  name: Kobe Airport
+  region: JP-28
+UKK:
+  country: KZ
+  elevation: 286.2072
+  latitude: 50.035033
+  longitude: 82.496057
+  name: Oskemen International Airport
+  region: KZ-VOS
+ULH:
+  country: SA
+  elevation: 624.84
+  latitude: 26.483634
+  longitude: 38.117048
+  name: Al-Ula International Airport
+  region: SA-03
+ULN:
+  country: MN
+  elevation: 1330.1472
+  latitude: 47.843102
+  longitude: 106.766998
+  name: Buyant-Ukhaa International Airport
+  region: MN-1
+UME:
+  country: SE
+  elevation: 7.315200000000001
+  latitude: 63.791801
+  longitude: 20.282801
+  name: Umeå Airport
+  region: SE-AC
+UPG:
+  country: ID
+  elevation: 14.325600000000001
+  latitude: -5.075539
+  longitude: 119.553702
+  name: Sultan Hasanuddin International Airport
+  region: ID-SN
+URA:
+  country: KZ
+  elevation: 38.1
+  latitude: 51.151976
+  longitude: 51.543652
+  name: Manshuk Mametova International Airport
+  region: KZ-ZAP
+URC:
+  country: CN
+  elevation: 647.7
+  latitude: 43.913584
+  longitude: 87.479372
+  name: Ürümqi Tianshan International Airport
+  region: CN-65
+USM:
+  country: TH
+  elevation: 19.5072
+  latitude: 9.54779
+  longitude: 100.061996
+  name: Samui International Airport
+  region: TH-84
+UTH:
+  country: TH
+  elevation: 176.47920000000002
+  latitude: 17.386186
+  longitude: 102.788577
+  name: Udon Thani International Airport
+  region: TH-41
+UTP:
+  country: TH
+  elevation: 12.8016
+  latitude: 12.6799
+  longitude: 101.004997
+  name: U-Tapao–Rayong–Pattaya International Airport
+  region: TH-21
+UUD:
+  country: RU
+  elevation: 515.1120000000001
+  latitude: 51.808614
+  longitude: 107.439652
+  name: Baikal International Airport
+  region: RU-BU
+UUS:
+  country: RU
+  elevation: 17.9832
+  latitude: 46.885461
+  longitude: 142.717466
+  name: Yuzhno-Sakhalinsk International Airport
+  region: RU-SAK
+UVF:
+  country: LC
+  elevation: 4.2672
+  latitude: 13.7332
+  longitude: -60.952599
+  name: Hewanorra International Airport
+  region: LC-11
+UYU:
+  country: BO
+  elevation: 3394.2528
+  latitude: -20.441304
+  longitude: -66.857553
+  name: Joya Andina International Airport
+  region: BO-P
+VAA:
+  country: FI
+  elevation: 5.7912
+  latitude: 63.05023
+  longitude: 21.762543
+  name: Vaasa Airport
+  region: FI-12
+VAR:
+  country: BG
+  elevation: 70.104
+  latitude: 43.232101
+  longitude: 27.8251
+  name: Varna Airport
+  region: BG-03
+VAV:
+  country: TO
+  elevation: 71.9328
+  latitude: -18.5853
+  longitude: -173.962006
+  name: Vava'u International Airport
+  region: TO-05
+VBY:
+  country: SE
+  elevation: 49.9872
+  latitude: 57.6628
+  longitude: 18.346201
+  name: Visby Airport
+  region: SE-I
+VCA:
+  country: VN
+  elevation: 2.7432000000000003
+  latitude: 10.083397
+  longitude: 105.709371
+  name: Can Tho International Airport
+  region: VN-SW
+VCE:
+  country: IT
+  elevation: 2.1336
+  latitude: 45.505299
+  longitude: 12.3519
+  name: Venice Marco Polo Airport
+  region: IT-34
+VCP:
+  country: BR
+  elevation: 661.416
+  latitude: -23.007404
+  longitude: -47.134502
+  name: Viracopos International Airport
+  region: BR-SP
+VER:
+  country: MX
+  elevation: 27.432000000000002
+  latitude: 19.139589
+  longitude: -96.188602
+  name: General Heriberto Jara International Airport
+  region: MX-VER
+VFA:
+  country: ZW
+  elevation: 1063.752
+  latitude: -18.097437
+  longitude: 25.836867
+  name: Victoria Falls International Airport
+  region: ZW-MN
+VGA:
+  country: IN
+  elevation: 24.9936
+  latitude: 16.530011
+  longitude: 80.804888
+  name: Vijayawada International Airport
+  region: IN-AP
+VIE:
+  country: AT
+  elevation: 182.88
+  latitude: 48.110298
+  longitude: 16.5697
+  name: Vienna International Airport
+  region: AT-9
+VIL:
+  country: EH
+  elevation: 10.972800000000001
+  latitude: 23.7183
+  longitude: -15.932
+  name: Dakhla Airport
+  region: EH-U-A
+VIX:
+  country: BR
+  elevation: 10.3632
+  latitude: -20.258
+  longitude: -40.285
+  name: Eurico de Aguiar Salles International Airport
+  region: BR-ES
+VKO:
+  country: RU
+  elevation: 208.788
+  latitude: 55.591499
+  longitude: 37.261501
+  name: Vnukovo International Airport
+  region: RU-MOW
+VLC:
+  country: ES
+  elevation: 73.152
+  latitude: 39.489162
+  longitude: -0.480961
+  name: Valencia Airport
+  region: ES-VC
+VLI:
+  country: VU
+  elevation: 21.336000000000002
+  latitude: -17.699301
+  longitude: 168.320007
+  name: Bauerfield International Airport
+  region: VU-SEE
+VLN:
+  country: VE
+  elevation: 430.07280000000003
+  latitude: 10.149733
+  longitude: -67.928398
+  name: Arturo Michelena International Airport
+  region: VE-G
+VNO:
+  country: LT
+  elevation: 197.5104
+  latitude: 54.634102
+  longitude: 25.285801
+  name: Vilnius International Airport
+  region: LT-VL
+VNS:
+  country: IN
+  elevation: 81.0768
+  latitude: 25.452171
+  longitude: 82.862549
+  name: Lal Bahadur Shastri International Airport
+  region: IN-UP
+VOG:
+  country: RU
+  elevation: 146.9136
+  latitude: 48.78134
+  longitude: 44.339194
+  name: Volgograd International Airport
+  region: RU-VGG
+VRA:
+  country: CU
+  elevation: 64.00800000000001
+  latitude: 23.034401
+  longitude: -81.435303
+  name: Juan Gualberto Gomez International Airport
+  region: CU-04
+VRN:
+  country: IT
+  elevation: 72.8472
+  latitude: 45.394955
+  longitude: 10.887303
+  name: Verona Villafranca Valerio Catullo Airport
+  region: IT-34
+VSA:
+  country: MX
+  elevation: 14.020800000000001
+  latitude: 17.994283
+  longitude: -92.818199
+  name: Carlos Rovirosa Pérez International Airport
+  region: MX-TAB
+VST:
+  country: SE
+  elevation: 6.4008
+  latitude: 59.589401
+  longitude: 16.6336
+  name: Stockholm Västerås Airport
+  region: SE-U
+VTE:
+  country: LA
+  elevation: 171.90720000000002
+  latitude: 17.985052
+  longitude: 102.566692
+  name: Wattay International Airport
+  region: LA-VT
+VTZ:
+  country: IN
+  elevation: 57.302400000000006
+  latitude: 17.971512
+  longitude: 83.503617
+  name: Alluri Sitarama Raju International Airport (Vizag)
+  region: IN-AP
+VVI:
+  country: BO
+  elevation: 373.0752
+  latitude: -17.6448
+  longitude: -63.135399
+  name: Viru Viru International Airport
+  region: BO-S
+VVO:
+  country: RU
+  elevation: 17.9832
+  latitude: 43.396256
+  longitude: 132.148155
+  name: Vladivostok International Airport
+  region: RU-PRI
+VXE:
+  country: CV
+  elevation: 20.1168
+  latitude: 16.833363
+  longitude: -25.055308
+  name: Cesaria Evora International Airport
+  region: CV-B
+WAW:
+  country: PL
+  elevation: 110.33760000000001
+  latitude: 52.165699
+  longitude: 20.9671
+  name: Warsaw Chopin Airport
+  region: PL-MZ
+WDH:
+  country: NA
+  elevation: 1719.0720000000001
+  latitude: -22.4799
+  longitude: 17.4709
+  name: Hosea Kutako International Airport
+  region: NA-KH
+WLG:
+  country: NZ
+  elevation: 12.4968
+  latitude: -41.326839
+  longitude: 174.806862
+  name: Wellington International Airport
+  region: NZ-WGN
+WLS:
+  country: WF
+  elevation: 24.0792
+  latitude: -13.239445
+  longitude: -176.19865
+  name: Hihifo Airport
+  region: WF-U-A
+WMI:
+  country: PL
+  elevation: 103.9368
+  latitude: 52.451099
+  longitude: 20.6518
+  name: Warsaw Modlin Airport
+  region: PL-MZ
+WNZ:
+  country: CN
+  elevation: 3.9624
+  latitude: 27.910572
+  longitude: 120.853465
+  name: Wenzhou Longwan International Airport
+  region: CN-33
+WPOC:
+  country: TL-OE
+  elevation: null
+  latitude: -9.198419
+  longitude: 124.337873
+  name: Oecusse Route of the Sandalwood International Airport
+  region: Oecussi-Ambeno
+WRO:
+  country: PL
+  elevation: 123.1392
+  latitude: 51.103719
+  longitude: 16.882096
+  name: Copernicus Wrocław Airport
+  region: PL-DS
+WSI:
+  country: AU
+  elevation: 79.8576
+  latitude: -33.883461
+  longitude: 150.712981
+  name: Western Sydney International (Nancy-Bird Walton) Airport
+  region: AU-NSW
+WTB:
+  country: AU
+  elevation: 459.94320000000005
+  latitude: -27.558332
+  longitude: 151.793335
+  name: Toowoomba Wellcamp Airport
+  region: AU-QLD
+WUH:
+  country: CN
+  elevation: 34.4424
+  latitude: 30.774798
+  longitude: 114.213723
+  name: Wuhan Tianhe International Airport
+  region: CN-42
+WUX:
+  country: CN
+  elevation: 7.315200000000001
+  latitude: 31.496952
+  longitude: 120.43038
+  name: Sunan Shuofang International Airport
+  region: CN-32
+WVB:
+  country: NA
+  elevation: 91.1352
+  latitude: -22.979332
+  longitude: 14.647102
+  name: Walvis Bay International Airport
+  region: NA-ER
+XBJ:
+  country: IR
+  elevation: 1509.3696
+  latitude: 32.896525
+  longitude: 59.281258
+  name: Birjand International Airport
+  region: IR-29
+XIY:
+  country: CN
+  elevation: 479.1456
+  latitude: 34.442207
+  longitude: 108.762385
+  name: Xi'an Xianyang International Airport
+  region: CN-61
+XMN:
+  country: CN
+  elevation: 17.9832
+  latitude: 24.543889
+  longitude: 118.127454
+  name: Xiamen Gaoqi International Airport
+  region: CN-35
+XNN:
+  country: CN
+  elevation: 2169.8712
+  latitude: 36.52775
+  longitude: 102.040215
+  name: Xining Caojiabao International Airport
+  region: CN-63
+XPL:
+  country: HN
+  elevation: 628.1928
+  latitude: 14.3824
+  longitude: -87.621201
+  name: Palmerola International Airport
+  region: HN-CM
+YAP:
+  country: FM
+  elevation: 27.736800000000002
+  latitude: 9.49891
+  longitude: 138.082993
+  name: Yap International Airport
+  region: FM-YAP
+YCU:
+  country: CN
+  elevation: 378.5616
+  latitude: 35.117823
+  longitude: 111.034023
+  name: Yuncheng Yanhu International Airport
+  region: CN-61
+YEG:
+  country: CA
+  elevation: 723.2904000000001
+  latitude: 53.3097
+  longitude: -113.580002
+  name: Edmonton International Airport
+  region: CA-AB
+YHZ:
+  country: CA
+  elevation: 145.3896
+  latitude: 44.8807983398
+  longitude: -63.5085983276
+  name: Halifax / Stanfield International Airport
+  region: CA-NS
+YIA:
+  country: ID
+  elevation: 7.315200000000001
+  latitude: -7.905338
+  longitude: 110.057264
+  name: Yogyakarta International Airport
+  region: ID-YO
+YIW:
+  country: CN
+  elevation: 79.8576
+  latitude: 29.342095
+  longitude: 120.03116
+  name: Yiwu Airport
+  region: CN-33
+YKS:
+  country: RU
+  elevation: 99.06
+  latitude: 62.0933
+  longitude: 129.770996
+  name: Platon Oyunsky Yakutsk International Airport
+  region: RU-SA
+YLW:
+  country: CA
+  elevation: 433.12080000000003
+  latitude: 49.9561
+  longitude: -119.377998
+  name: Kelowna International Airport
+  region: CA-BC
+YNB:
+  country: SA
+  elevation: 7.9248
+  latitude: 24.144199
+  longitude: 38.0634
+  name: Prince Abdulmohsen Bin Abdulaziz International Airport
+  region: SA-03
+YNT:
+  country: CN
+  elevation: 46.9392
+  latitude: 37.659724
+  longitude: 120.978124
+  name: Yantai Penglai International Airport
+  region: CN-37
+YNY:
+  country: KR
+  elevation: 73.4568
+  latitude: 38.060481
+  longitude: 128.669822
+  name: Yangyang International Airport
+  region: KR-42
+YNZ:
+  country: CN
+  elevation: 3.048
+  latitude: 33.428317
+  longitude: 120.20545
+  name: Yancheng Nanyang International Airport
+  region: CN-32
+YOW:
+  country: CA
+  elevation: 113.99520000000001
+  latitude: 45.322498
+  longitude: -75.669197
+  name: Ottawa Macdonald-Cartier International Airport
+  region: CA-ON
+YQB:
+  country: CA
+  elevation: 74.3712
+  latitude: 46.7911
+  longitude: -71.393303
+  name: Quebec Jean Lesage International Airport
+  region: CA-QC
+YUL:
+  country: CA
+  elevation: 35.9664
+  latitude: 45.467837
+  longitude: -73.742294
+  name: Montreal / Pierre Elliott Trudeau International Airport
+  region: CA-QC
+YVR:
+  country: CA
+  elevation: 4.2672
+  latitude: 49.193901
+  longitude: -123.183998
+  name: Vancouver International Airport
+  region: CA-BC
+YWG:
+  country: CA
+  elevation: 238.6584
+  latitude: 49.9099998474
+  longitude: -97.2398986816
+  name: Winnipeg / James Armstrong Richardson International Airport
+  region: CA-MB
+YXE:
+  country: CA
+  elevation: 503.8344
+  latitude: 52.170723
+  longitude: -106.700793
+  name: Saskatoon John G. Diefenbaker International Airport
+  region: CA-SK
+YYC:
+  country: CA
+  elevation: 1084.1736
+  latitude: 51.118822
+  longitude: -114.009933
+  name: Calgary International Airport
+  region: CA-AB
+YYJ:
+  country: CA
+  elevation: 19.2024
+  latitude: 48.647201
+  longitude: -123.427792
+  name: Victoria International Airport
+  region: CA-BC
+YYT:
+  country: CA
+  elevation: 140.5128
+  latitude: 47.618599
+  longitude: -52.7519
+  name: St. John's International Airport
+  region: CA-NL
+YYZ:
+  country: CA
+  elevation: 173.43120000000002
+  latitude: 43.675935
+  longitude: -79.629421
+  name: Toronto Pearson International Airport
+  region: CA-ON
+ZAD:
+  country: HR
+  elevation: 88.08720000000001
+  latitude: 44.096986
+  longitude: 15.353565
+  name: Zadar Airport
+  region: HR-13
+ZAG:
+  country: HR
+  elevation: 107.59440000000001
+  latitude: 45.742901
+  longitude: 16.0688
+  name: Zagreb Franjo Tuđman International Airport
+  region: HR-01
+ZAH:
+  country: IR
+  elevation: 1391.1072000000001
+  latitude: 29.4757
+  longitude: 60.9062
+  name: Zahedan International Airport
+  region: IR-11
+ZAM:
+  country: PH
+  elevation: 10.0584
+  latitude: 6.92242
+  longitude: 122.059998
+  name: Zamboanga International Airport
+  region: PH-ZMC
+ZAZ:
+  country: ES
+  elevation: 263.0424
+  latitude: 41.666199
+  longitude: -1.04155
+  name: Zaragoza Airport
+  region: ES-AR
+ZCO:
+  country: CL
+  elevation: 101.4984
+  latitude: -38.9259
+  longitude: -72.6515
+  name: La Araucanía International Airport
+  region: CL-AR
+ZGOW:
+  country: CN-44
+  elevation: null
+  latitude: 23.552
+  longitude: 116.5033
+  name: Jieyang Chaoshan International Airport
+  region: Jieyang (Rongcheng)
+ZGZJ:
+  country: CN-44
+  elevation: null
+  latitude: 21.481667
+  longitude: 110.590278
+  name: Zhanjiang Wuchuan International Airport
+  region: Zhanjiang
+ZIA:
+  country: RU
+  elevation: 114.90960000000001
+  latitude: 55.553299
+  longitude: 38.150002
+  name: Zhukovsky International Airport
+  region: RU-MOS
+ZIH:
+  country: MX
+  elevation: 7.9248
+  latitude: 17.601771
+  longitude: -101.460629
+  name: Ixtapa-Zihuatanejo International Airport
+  region: MX-GRO
+ZLDH:
+  country: CN-62
+  elevation: null
+  latitude: 40.161953
+  longitude: 94.812827
+  name: Dunhuang Mogao International Airport
+  region: Dunhuang
+ZNZ:
+  country: TZ
+  elevation: 16.4592
+  latitude: -6.22202
+  longitude: 39.224899
+  name: Abeid Amani Karume International Airport
+  region: TZ-07
+ZQN:
+  country: NZ
+  elevation: 356.92080000000004
+  latitude: -45.019205
+  longitude: 168.746379
+  name: Queenstown Airport
+  region: NZ-OTA
+ZRH:
+  country: CH
+  elevation: 431.90160000000003
+  latitude: 47.458056
+  longitude: 8.548056
+  name: Zürich Airport
+  region: CH-ZH
+ZSA:
+  country: BS
+  elevation: 7.315200000000001
+  latitude: 24.063041
+  longitude: -74.523233
+  name: San Salvador International Airport
+  region: BS-SS
+ZSE:
+  country: RE
+  elevation: 17.9832
+  latitude: -21.319362
+  longitude: 55.422506
+  name: Saint-Pierre Pierrefonds Airport
+  region: RE-SR
+ZSLG:
+  country: CN-32
+  elevation: null
+  latitude: 34.41406
+  longitude: 119.17899
+  name: Lianyungang Huaguoshan International Airport
+  region: Lianyungang
+ZSTX:
+  country: CN-34
+  elevation: null
+  latitude: 29.733299
+  longitude: 118.255997
+  name: Huangshan Tunxi International Airport
+  region: Huangshan
+ZUH:
+  country: CN
+  elevation: 7.010400000000001
+  latitude: 22.006399
+  longitude: 113.375999
+  name: Zhuhai Jinwan Airport
+  region: CN-44
+ZYL:
+  country: BD
+  elevation: 15.24
+  latitude: 24.963993
+  longitude: 91.864749
+  name: Osmany International Airport
+  region: BD-G

@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Scan</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: system-ui, sans-serif; margin: 2rem; color: #222; background: #fafafa; }
+        h1 { margin: 0 0 1.5rem; font-size: 1.6rem; }
+
+        /* ── shared filter bar ──────────────────────────────────────────── */
+        .filters {
+            display: flex; gap: 1.5rem; flex-wrap: wrap;
+            background: #fff; border: 1px solid #ddd;
+            border-radius: 8px 8px 0 0; border-bottom: none;
+            padding: 1.25rem 1.25rem 1rem;
+        }
+        .filter-group label {
+            display: block; font-size: 0.8rem; font-weight: 600;
+            text-transform: uppercase; letter-spacing: 0.04em;
+            color: #666; margin-bottom: 0.35rem;
+        }
+        .filter-group select {
+            display: block; padding: 0.45rem 0.7rem; min-width: 175px;
+            border: 1px solid #bbb; border-radius: 5px; font-size: 0.95rem;
+            background: white; cursor: pointer;
+        }
+        .filter-group select:disabled { background: #f2f2f2; color: #aaa; cursor: default; }
+        .filter-group select:focus { outline: 2px solid #4a90d9; border-color: transparent; }
+
+        /* ── tabs ───────────────────────────────────────────────────────── */
+        .tabs {
+            display: flex;
+            background: #fff; border: 1px solid #ddd; border-bottom: none;
+            padding: 0 1rem;
+        }
+        .tab {
+            padding: 0.55rem 1.4rem; border: none; background: transparent;
+            cursor: pointer; font-size: 0.9rem; font-weight: 600; color: #888;
+            border-bottom: 3px solid transparent;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .tab:hover { color: #444; }
+        .tab.active { color: #2563eb; border-bottom-color: #2563eb; }
+
+        /* ── page panels ────────────────────────────────────────────────── */
+        .page {
+            background: #fff; border: 1px solid #ddd;
+            border-radius: 0 0 8px 8px; padding: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+        .page-row { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+        .page-actions { margin-bottom: 0.8rem; }
+        .reload-btn {
+            border: 1px solid #2563eb; background: #2563eb; color: #fff;
+            border-radius: 6px; padding: 0.45rem 0.85rem; font-size: 0.9rem;
+            font-weight: 600; cursor: pointer;
+        }
+        .reload-btn:hover { background: #1d4ed8; border-color: #1d4ed8; }
+
+        .status { min-height: 1.4em; font-size: 0.85rem; color: #777; margin: 0.4rem 0 0.6rem; }
+
+        /* ── line chart toggles ─────────────────────────────────────────── */
+        .toggles { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem; min-height: 2.2rem; }
+        .toggle-btn {
+            cursor: pointer; padding: 0.3rem 1rem;
+            border-radius: 20px; border: 2px solid transparent;
+            font-size: 0.85rem; font-weight: 600;
+            transition: background 0.15s, color 0.15s;
+        }
+
+        /* ── bar chart class radio buttons ──────────────────────────────── */
+        .class-radios { display: flex; flex-wrap: wrap; gap: 1.2rem; margin-bottom: 1rem; align-items: center; }
+        .class-radios label { font-size: 0.95rem; cursor: pointer; display: flex; align-items: center; gap: 0.35rem; }
+        .class-radios input[type=radio] { cursor: pointer; accent-color: #2563eb; width: 1rem; height: 1rem; }
+
+        .chart-wrapper { position: relative; }
+        .chart-wrapper canvas { max-height: 420px; }
+    </style>
+</head>
+<body>
+    <h1>Price Scan</h1>
+
+    <!-- Shared filters: company, departure, arrival, date (used by both pages) -->
+    <div class="filters">
+        <div class="filter-group">
+            <label for="sel-company">Company</label>
+            <select id="sel-company"><option value="">— select —</option></select>
+        </div>
+        <div class="filter-group">
+            <label for="sel-depart">Departure</label>
+            <select id="sel-depart" disabled><option value="">— select —</option></select>
+        </div>
+        <div class="filter-group">
+            <label for="sel-arrive">Arrival</label>
+            <select id="sel-arrive" disabled><option value="">— select —</option></select>
+        </div>
+        <div class="filter-group">
+            <label for="sel-date">Date</label>
+            <select id="sel-date" disabled><option value="">— select —</option></select>
+        </div>
+    </div>
+
+    <!-- Tab navigation -->
+    <div class="tabs">
+        <button id="tab-line" class="tab active">📈 Price history</button>
+        <button id="tab-bar"  class="tab">📊 Price by hour</button>
+    </div>
+
+    <!-- ── Page 1: line chart ─────────────────────────────────────────────── -->
+    <div id="page-line" class="page">
+        <div class="page-row">
+            <div class="filter-group">
+                <label for="sel-time">Departure time</label>
+                <select id="sel-time" disabled><option value="">— select —</option></select>
+            </div>
+        </div>
+        <div class="page-actions">
+            <button id="reload-line" type="button" class="reload-btn">Reload data</button>
+        </div>
+        <p id="status-line" class="status"></p>
+        <div id="line-toggles" class="toggles"></div>
+        <div class="chart-wrapper"><canvas id="line-chart"></canvas></div>
+    </div>
+
+    <!-- ── Page 2: bar chart ──────────────────────────────────────────────── -->
+    <div id="page-bar" class="page" hidden>
+        <div class="page-actions">
+            <button id="reload-bar" type="button" class="reload-btn">Reload data</button>
+        </div>
+        <p id="status-bar" class="status">Select company, departure, arrival and date to view the chart.</p>
+        <div id="class-radios" class="class-radios"></div>
+        <div class="chart-wrapper"><canvas id="bar-chart"></canvas></div>
+    </div>
+
+    <script>
+    'use strict';
+
+    // ── palette & trend colours ───────────────────────────────────────────────
+    const LINE_COLORS = ['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#a65628','#f781bf','#66c2a5'];
+    const T_UP   = '#c0392b';   // red   – price rose
+    const T_DOWN = '#27ae60';   // green – price fell
+    const T_FLAT = '#2980b9';   // blue  – stable
+
+    // ── shared state ──────────────────────────────────────────────────────────
+    const state = { company: null, depart_from: null, arrive_at: null, date: null, time_depart: null };
+
+    const sel = {
+        company:     document.getElementById('sel-company'),
+        depart_from: document.getElementById('sel-depart'),
+        arrive_at:   document.getElementById('sel-arrive'),
+        date:        document.getElementById('sel-date'),
+        time_depart: document.getElementById('sel-time'),
+    };
+
+    // ── per-page chart instances ──────────────────────────────────────────────
+    let lineChart = null;
+    let barChart  = null;
+    let activePage = 'line';
+
+    // bar-page local state (services & classes loaded once per route+date)
+    const bar = { services: [], classes: [], selectedClass: null };
+
+    // ── helpers ───────────────────────────────────────────────────────────────
+    const setLineStatus = msg => { document.getElementById('status-line').textContent = msg; };
+    const setBarStatus  = msg => { document.getElementById('status-bar').textContent  = msg; };
+
+    async function apiPost(path, payload) {
+        const res = await fetch(path, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(payload),
+        });
+        if (!res.ok) throw new Error(`${path} → ${res.status}`);
+        return res.json();
+    }
+
+    function populate(id, values, enable) {
+        const s = sel[id];
+        s.innerHTML = '<option value="">— select —</option>';
+        (values || []).forEach(v => {
+            const o = document.createElement('option');
+            o.value = v; o.textContent = v;
+            s.appendChild(o);
+        });
+        s.disabled = !enable;
+    }
+
+    // Reset shared fields from startField onward + all line-page fields.
+    const SHARED_CASCADE = ['depart_from', 'arrive_at', 'date'];
+    function resetSharedFrom(field) {
+        const idx = SHARED_CASCADE.indexOf(field);
+        SHARED_CASCADE.slice(idx).forEach(f => { state[f] = null; populate(f, [], false); });
+        state.time_depart = null;
+        populate('time_depart', [], false);
+        destroyLineChart();
+        destroyBarChart();
+    }
+
+    function destroyLineChart() {
+        if (lineChart) { lineChart.destroy(); lineChart = null; }
+        document.getElementById('line-toggles').innerHTML = '';
+        setLineStatus('');
+    }
+
+    function destroyBarChart() {
+        if (barChart) { barChart.destroy(); barChart = null; }
+    }
+
+    // ── bootstrap: load companies ─────────────────────────────────────────────
+    (async () => {
+        try {
+            const companies = await fetch('/api/companies').then(r => r.json());
+            populate('company', companies, true);
+        } catch (e) { setLineStatus('Could not load companies: ' + e.message); }
+    })();
+
+    // ── shared cascading selects ──────────────────────────────────────────────
+    sel.company.addEventListener('change', async e => {
+        resetSharedFrom('depart_from');
+        state.company = e.target.value || null;
+        if (!state.company) return;
+        try {
+            setLineStatus('Loading departure stations…');
+            populate('depart_from', await apiPost('/api/list/departures', { company: state.company }), true);
+            setLineStatus('');
+        } catch (e) { setLineStatus('Error: ' + e.message); }
+    });
+
+    sel.depart_from.addEventListener('change', async e => {
+        resetSharedFrom('arrive_at');
+        state.depart_from = e.target.value || null;
+        if (!state.depart_from) return;
+        try {
+            setLineStatus('Loading arrival stations…');
+            populate('arrive_at', await apiPost('/api/list/arrivals', { company: state.company, depart_from: state.depart_from }), true);
+            setLineStatus('');
+        } catch (e) { setLineStatus('Error: ' + e.message); }
+    });
+
+    sel.arrive_at.addEventListener('change', async e => {
+        resetSharedFrom('date');
+        state.arrive_at = e.target.value || null;
+        if (!state.arrive_at) return;
+        try {
+            setLineStatus('Loading travel dates…');
+            populate('date', await apiPost('/api/list/dates', { company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at }), true);
+            setLineStatus('');
+        } catch (e) { setLineStatus('Error: ' + e.message); }
+    });
+
+    sel.date.addEventListener('change', async e => {
+        state.date = e.target.value || null;
+        state.time_depart = null;
+        populate('time_depart', [], false);
+        destroyLineChart();
+        destroyBarChart();
+        if (!state.date) return;
+        try {
+            setLineStatus('Loading departure times…');
+            populate('time_depart', await apiPost('/api/list/services', {
+                company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date,
+            }), true);
+            setLineStatus('');
+        } catch (e) { setLineStatus('Error: ' + e.message); }
+        if (activePage === 'bar') await loadBarPage();
+    });
+
+    // ── line-page: departure-time select ─────────────────────────────────────
+    sel.time_depart.addEventListener('change', async e => {
+        destroyLineChart();
+        state.time_depart = e.target.value || null;
+        if (state.time_depart) await buildLineChart();
+    });
+
+    // ── tab switching ─────────────────────────────────────────────────────────
+    document.getElementById('tab-line').addEventListener('click', () => {
+        activePage = 'line';
+        document.getElementById('page-line').hidden = false;
+        document.getElementById('page-bar').hidden  = true;
+        document.getElementById('tab-line').classList.add('active');
+        document.getElementById('tab-bar').classList.remove('active');
+    });
+
+    document.getElementById('tab-bar').addEventListener('click', async () => {
+        activePage = 'bar';
+        document.getElementById('page-line').hidden = true;
+        document.getElementById('page-bar').hidden  = false;
+        document.getElementById('tab-line').classList.remove('active');
+        document.getElementById('tab-bar').classList.add('active');
+        await loadBarPage();
+    });
+
+    document.getElementById('reload-line').addEventListener('click', async () => {
+        if (!state.company || !state.depart_from || !state.arrive_at || !state.date || !state.time_depart) {
+            setLineStatus('Select company, departure, arrival, date and departure time first.');
+            return;
+        }
+        destroyLineChart();
+        await buildLineChart();
+    });
+
+    document.getElementById('reload-bar').addEventListener('click', async () => {
+        await loadBarPage();
+    });
+
+    // ═════════════════════════════════════════════════════════════════════════
+    //  PAGE 1 – line chart
+    // ═════════════════════════════════════════════════════════════════════════
+    async function buildLineChart() {
+        const payload = { ...state };
+        try {
+            const { code: serviceCode } = await apiPost('/api/service-code', payload);
+            setLineStatus('Loading price classes…');
+            const classes = await apiPost('/api/list/classes', payload);
+            if (!classes.length) { setLineStatus('No price data available.'); return; }
+
+            setLineStatus('Loading prices…');
+            const priceData = await Promise.all(
+                classes.map(cls =>
+                    apiPost('/api/list', { ...payload, class_code: cls }).then(response => {
+                        const prices = Array.isArray(response) ? response : response.prices || [];
+                        return { cls, prices };
+                    })
+                )
+            );
+
+            const datasets = priceData.map(({ cls, prices }, i) => ({
+                label: cls,
+                data: prices.map(([dt, price]) => ({ x: new Date(dt.replace(' ', 'T')), y: price })),
+                borderColor: LINE_COLORS[i % LINE_COLORS.length],
+                backgroundColor: LINE_COLORS[i % LINE_COLORS.length] + '22',
+                pointRadius: 3, pointHoverRadius: 5, tension: 0.2,
+            }));
+            const allSampleTimes = datasets.flatMap(ds => ds.data.map(point => point.x.getTime()));
+            const firstSampleAt = allSampleTimes.length ? new Date(Math.min(...allSampleTimes)) : undefined;
+            const lastSampleAt = allSampleTimes.length ? new Date(Math.max(...allSampleTimes)) : undefined;
+            const timePadding = 3600000; // 1 hour in milliseconds
+
+            lineChart = new Chart(document.getElementById('line-chart'), {
+                type: 'line',
+                data: { datasets },
+                options: {
+                    parsing: false,
+                    interaction: { mode: 'index', intersect: false },
+                    scales: {
+                        x: {
+                            type: 'time',
+                            min: firstSampleAt ? new Date(firstSampleAt.getTime() - timePadding) : undefined,
+                            max: lastSampleAt ? new Date(lastSampleAt.getTime() + timePadding) : undefined,
+                            time: {
+                                unit: 'hour',
+                                round: 'hour',
+                                tooltipFormat: 'dd-MM HH:mm',
+                                displayFormats: {
+                                    hour: 'dd-MM HH:mm',
+                                },
+                            },
+                            ticks: {
+                                autoSkip: true,
+                                maxTicksLimit: 20,
+                            },
+                            title: { display: true, text: 'Sample date' },
+                        },
+                        y: { title: { display: true, text: 'Price (€)' }, ticks: { callback: v => '€\u202f' + v.toFixed(2) } },
+                    },
+                    plugins: {
+                        title: { display: true, text: serviceCode ? `Price history — ${serviceCode}` : 'Price history' },
+                        legend: { display: false },
+                        tooltip: { callbacks: { label: item => ` ${item.dataset.label}: €\u202f${item.raw.y.toFixed(2)}` } },
+                    },
+                },
+            });
+
+            renderLineToggles(classes);
+            setLineStatus('');
+        } catch (e) { setLineStatus('Error: ' + e.message); }
+    }
+
+    function renderLineToggles(classes) {
+        const container = document.getElementById('line-toggles');
+        container.innerHTML = '';
+        classes.forEach((cls, i) => {
+            const color = LINE_COLORS[i % LINE_COLORS.length];
+            const btn = document.createElement('button');
+            btn.className = 'toggle-btn';
+            btn.textContent = cls;
+            btn.style.borderColor = color;
+            toggleStyle(btn, color, true);
+            btn.addEventListener('click', () => {
+                const meta = lineChart.getDatasetMeta(i);
+                meta.hidden = !meta.hidden;
+                toggleStyle(btn, color, !meta.hidden);
+                lineChart.update();
+            });
+            container.appendChild(btn);
+        });
+    }
+
+    function toggleStyle(btn, color, active) {
+        btn.style.backgroundColor = active ? color : 'white';
+        btn.style.color           = active ? 'white' : color;
+    }
+
+    // ═════════════════════════════════════════════════════════════════════════
+    //  PAGE 2 – bar chart (price by departure hour)
+    // ═════════════════════════════════════════════════════════════════════════
+
+    // Custom plugin: draw trend arrow + delta label above each bar.
+    Chart.register({
+        id: 'trendIndicators',
+        afterDatasetsDraw(chart) {
+            const trends = chart.data.trends;
+            if (!trends) return;
+            const ctx  = chart.ctx;
+            const meta = chart.getDatasetMeta(0);
+            trends.forEach((t, i) => {
+                const bar = meta.data[i];
+                if (!bar || t.dir === null || isNaN(bar.y)) return;
+                const color = t.dir === '↑' ? T_UP : t.dir === '↓' ? T_DOWN : T_FLAT;
+                ctx.save();
+                ctx.textAlign = 'center';
+                // trend arrow
+                ctx.font = 'bold 14px system-ui';
+                ctx.fillStyle = color;
+                ctx.textBaseline = 'bottom';
+                ctx.fillText(t.dir, bar.x, bar.y - 14);
+                // delta label
+                ctx.font = '10px system-ui';
+                ctx.fillStyle = '#555';
+                ctx.fillText(t.delta, bar.x, bar.y - 2);
+                ctx.restore();
+            });
+        },
+    });
+
+    async function loadBarPage() {
+        destroyBarChart();
+        document.getElementById('class-radios').innerHTML = '';
+        if (!state.company || !state.depart_from || !state.arrive_at || !state.date) {
+            setBarStatus('Select company, departure, arrival and date to view the chart.');
+            return;
+        }
+
+        const base = { company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date };
+        try {
+            setBarStatus('Loading services…');
+            bar.services = await apiPost('/api/list/services', base);
+            if (!bar.services.length) { setBarStatus('No services found for this route and date.'); return; }
+
+            setBarStatus('Loading price classes…');
+            bar.classes = await apiPost('/api/list/classes', { ...base, time_depart: bar.services[0] });
+            if (!bar.classes.length) { setBarStatus('No price classes found.'); return; }
+
+            // Keep previous selection if still valid, otherwise default to first class.
+            if (!bar.selectedClass || !bar.classes.includes(bar.selectedClass))
+                bar.selectedClass = bar.classes[0];
+
+            renderClassRadios(bar.classes);
+            await buildBarChart(base);
+        } catch (e) { setBarStatus('Error: ' + e.message); }
+    }
+
+    function renderClassRadios(classes) {
+        const container = document.getElementById('class-radios');
+        container.innerHTML = '';
+        classes.forEach(cls => {
+            const lbl   = document.createElement('label');
+            const radio = document.createElement('input');
+            radio.type = 'radio'; radio.name = 'price-class'; radio.value = cls;
+            radio.checked = cls === bar.selectedClass;
+            radio.addEventListener('change', async () => {
+                bar.selectedClass = cls;
+                destroyBarChart();
+                const base = { company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date };
+                await buildBarChart(base);
+            });
+            lbl.appendChild(radio);
+            lbl.appendChild(document.createTextNode('\u00a0' + cls));
+            container.appendChild(lbl);
+        });
+    }
+
+    async function buildBarChart(base) {
+        if (!bar.selectedClass || !bar.services.length) return;
+        try {
+            setBarStatus('Loading prices…');
+
+            // Fetch price history and service metadata for every departure in parallel.
+            const results = await Promise.all(
+                bar.services.map(t =>
+                    Promise.all([
+                        apiPost('/api/service-code', { ...base, time_depart: t })
+                            .then(response => ({
+                                code: response.code || null,
+                                soldOut: !Array.isArray(response.available_classes) || !response.available_classes.includes(bar.selectedClass),
+                            }))
+                            .catch(() => ({ code: null, soldOut: false })),
+                        apiPost('/api/list', { ...base, time_depart: t, class_code: bar.selectedClass })
+                            .then(response => {
+                                const prices = Array.isArray(response) ? response : response.prices || [];
+                                const duration = response.duration || null;
+                                return { prices, duration };
+                            })
+                            .catch(() => ({ prices: [], duration: null })),
+                    ]).then(([serviceMeta, priceData]) => ({ t, ...serviceMeta, ...priceData }))
+                )
+            );
+
+            const labels = [], prices = [], bgColors = [], borderColors = [], trends = [], durations = [], codes = [], soldOutFlags = [];
+
+            for (const { t, code, soldOut, prices: d, duration } of results) {
+                labels.push(t);
+                durations.push(duration);
+                codes.push(code);
+                soldOutFlags.push(soldOut);
+                if (!d.length) {
+                    prices.push(null);
+                    bgColors.push(soldOut ? '#ff8c00bb' : '#ccc8');
+                    borderColors.push(soldOut ? '#ff8c00' : '#ccc');
+                    trends.push({ dir: null, delta: '' });
+                    continue;
+                }
+
+                const latest   = d[d.length - 1][1];
+                const earliest = d[0][1];
+                const delta    = latest - earliest;
+                const thresh   = 0.005 * earliest;   // 0.5 % of base price
+
+                let dir, tColor;
+                if      (delta >  thresh) { dir = '↑'; tColor = T_UP;   }
+                else if (delta < -thresh) { dir = '↓'; tColor = T_DOWN; }
+                else                      { dir = '→'; tColor = T_FLAT; }
+
+                const absDelta = Math.abs(delta).toFixed(2);
+                const sign     = delta > thresh ? '+' : delta < -thresh ? '-' : '±';
+
+                prices.push(latest);
+                bgColors.push(soldOut ? '#ff8c00bb' : tColor + 'bb');
+                borderColors.push(soldOut ? '#ff8c00' : tColor);
+                trends.push({ dir, delta: `${sign}€${absDelta}` });
+            }
+
+            barChart = new Chart(document.getElementById('bar-chart'), {
+                type: 'bar',
+                data: { labels, datasets: [{ label: bar.selectedClass, data: prices, backgroundColor: bgColors, borderColor: borderColors, borderWidth: 1 }], trends, durations, codes, soldOutFlags },
+                options: {
+                    layout: { padding: { top: 42 } },   // headroom for trend indicators
+                    scales: {
+                        x: { title: { display: true, text: 'Departure time' } },
+                        y: { title: { display: true, text: 'Price (€)' }, ticks: { callback: v => '€\u202f' + v.toFixed(2) } },
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            callbacks: {
+                                title: items => {
+                                    const idx = items[0].dataIndex;
+                                    const duration = barChart.data.durations[idx];
+                                    const code = barChart.data.codes[idx];
+                                    const isSoldOut = Boolean(barChart.data.soldOutFlags[idx]);
+                                    const soldOutSuffix = isSoldOut ? ' — Sold Out' : '';
+                                    const durationStr = duration ? ` (${Math.floor(duration / 60)}h ${duration % 60}m)` : '';
+                                    return code
+                                        ? `Departs ${items[0].label}${durationStr}  —  ${code}${soldOutSuffix}`
+                                        : `Departs ${items[0].label}${durationStr}${soldOutSuffix}`;
+                                },
+                                label: item  => ` Latest price: €\u202f${item.raw.toFixed(2)}`,
+                                afterLabel: item => {
+                                    if (barChart.data.soldOutFlags[item.dataIndex]) return ' Sold Out';
+                                    const t = barChart.data.trends[item.dataIndex];
+                                    return t?.dir ? ` Trend: ${t.dir}  ${t.delta}` : '';
+                                },
+                            },
+                        },
+                    },
+                },
+            });
+
+            setBarStatus('');
+        } catch (e) { setBarStatus('Error: ' + e.message); }
+    }
+    </script>
+</body>
+</html>
