@@ -29,7 +29,7 @@ def search_name(s: str) -> str:
 
 
 airports_file = Path(__file__).parent.parent / "resources" / "airports.yaml"
-with open(airports_file) as fp:
+with open(airports_file, encoding='utf-8') as fp:
     airports = yaml.safe_load(fp)
 for v in airports.values():
     v['search'] = [s for s in search_name(v['name']).split() if len(s) > 2]

@@ -23,7 +23,7 @@ RUN uv sync --frozen --no-dev
 
 # Install the Playwright browsers used by the scrapers (frecce.py -> chromium,
 # italo.py -> firefox) plus their system dependencies.
-RUN uv run playwright install --with-deps chromium firefox
+RUN uv run playwright install --with-deps firefox
 RUN apt clean
 
 # Copy the rest of the application.
