@@ -44,13 +44,21 @@ docker cp 51d9479036e8:/data/data.db ./data.db
 ```
 
 ## Stack
+Python 3.14+, Playwright, aiohttp, aiosqlite, FastAPI, Jinja2
 
-- Python 3.14+
-- Playwright
-- aiohttp
-- aiosqlite
-- FastAPI
-- Jinja2
+## Installing local
+
+```bash
+# In this directory
+uv sync
+
+# for frecce.py and italo.py
+playwright install firefox
+
+# for flights.py -> add the Ignav access token
+export IGNAV_API_KEY=your_key
+# or add it the the environtment variables of the system.
+```
 
 ## Running
 
@@ -60,4 +68,24 @@ Run the web app with your preferred FastAPI / Uvicorn command, or use Docker Com
 docker compose up --build
 ```
 
-The container exposes the web interface on port `7080`.
+The container exposes the web interface on port `80` Change this number if it conflicts with
+other services.
+
+To run the server locally:
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8080 --app-dir ./app
+```
+
+If the sqlite database is not found, a new one will be created automatically.
+
+To populate the database use one of the scanning programs:
+```bash
+cd app
+
+# scan tren-italia
+uv run frecce.py "Roma Termini" "Milano Centrale" 2026-10-10 [--headless]
+# scan italo
+uv run italo.py  "Roma Termini" "Milano Centrale" 2026-10-10 [--headless]
+# scan a flight, use IATA airport codes
+uv run flights.py FCO BRU 2026-10-10 
+```
