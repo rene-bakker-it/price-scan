@@ -29,13 +29,14 @@ RUN apt clean
 # Copy the rest of the application.
 COPY ./app /app
 COPY ./resources/scan.sh /usr/bin/scan.sh
+COPY ./resources/backup.sh /usr/bin/backup.sh
 COPY ./resources/startup.sh /app/startup.sh
 
 # Normalize line endings in shell scripts to avoid CRLF issues when built from
 # Windows-hosted worktrees, then ensure executable permissions.
-RUN dos2unix /usr/bin/scan.sh /app/startup.sh \
+RUN dos2unix /usr/bin/scan.sh /usr/bin/backup.sh /app/startup.sh \
     && find /app/resources -type f ! -name "*.db" -exec dos2unix {} + \
-    && chmod +x /usr/bin/scan.sh /app/startup.sh \
+    && chmod +x /usr/bin/scan.sh /usr/bin/backup.sh /app/startup.sh \
     && find /app/resources -type f -name "*.sh" -exec chmod +x {} +
 
 
