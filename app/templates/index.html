@@ -23,13 +23,13 @@
             text-transform: uppercase; letter-spacing: 0.04em;
             color: #666; margin-bottom: 0.35rem;
         }
-        .filter-group select {
+        .filter-group select, .filter-group input {
             display: block; padding: 0.45rem 0.7rem; min-width: 175px;
             border: 1px solid #bbb; border-radius: 5px; font-size: 0.95rem;
             background: white; cursor: pointer;
         }
         .filter-group select:disabled { background: #f2f2f2; color: #aaa; cursor: default; }
-        .filter-group select:focus { outline: 2px solid #4a90d9; border-color: transparent; }
+        .filter-group select:focus, .filter-group input:focus { outline: 2px solid #4a90d9; border-color: transparent; }
 
         /* ── tabs ───────────────────────────────────────────────────────── */
         .tabs {
@@ -84,7 +84,7 @@
 <body>
     <h1>Price Scan</h1>
 
-    <!-- Shared filters: company, departure, arrival, date (used by both pages) -->
+    <!-- Shared filters (used by both pages) -->
     <div class="filters">
         <div class="filter-group">
             <label for="sel-company">Company</label>
@@ -101,6 +101,10 @@
         <div class="filter-group">
             <label for="sel-date">Date</label>
             <select id="sel-date" disabled><option value="">— select —</option></select>
+        </div>
+        <div class="filter-group">
+            <label for="max-duration">Maximum duration (minutes)</label>
+            <input id="max-duration" type="number" min="1" step="1" placeholder="All durations">
         </div>
     </div>
 
@@ -146,7 +150,8 @@
     const T_FLAT = '#2980b9';   // blue  – stable
 
     // ── shared state ──────────────────────────────────────────────────────────
-    const state = { company: null, depart_from: null, arrive_at: null, date: null, time_depart: null };
+    const state = { company: null, depart_from: null, arrive_at: null, date: null, time_depart: null, max_duration: null };
+    const maxDurationInput = document.getElementById('max-duration');
 
     const sel = {
         company:     document.getElementById('sel-company'),
@@ -160,6 +165,9 @@
     let lineChart = null;
     let barChart  = null;
     let activePage = 'line';
+    let departureRequest = 0;
+    let lineRequest = 0;
+    let barRequest = 0;
 
     // bar-page local state (services & classes loaded once per route+date)
     const bar = { services: [], classes: [], selectedClass: null };
@@ -201,12 +209,15 @@
     }
 
     function destroyLineChart() {
+        departureRequest++;
+        lineRequest++;
         if (lineChart) { lineChart.destroy(); lineChart = null; }
         document.getElementById('line-toggles').innerHTML = '';
         setLineStatus('');
     }
 
     function destroyBarChart() {
+        barRequest++;
         if (barChart) { barChart.destroy(); barChart = null; }
     }
 
@@ -259,14 +270,47 @@
         destroyLineChart();
         destroyBarChart();
         if (!state.date) return;
+        await loadDepartureTimes();
+        if (activePage === 'bar') await loadBarPage();
+    });
+
+    function routePayload() {
+        return {
+            company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at,
+            date: state.date, max_duration: state.max_duration,
+        };
+    }
+
+    async function loadDepartureTimes(previousTime = null) {
+        const request = ++departureRequest;
         try {
             setLineStatus('Loading departure times…');
-            populate('time_depart', await apiPost('/api/list/services', {
-                company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date,
-            }), true);
-            setLineStatus('');
-        } catch (e) { setLineStatus('Error: ' + e.message); }
-        if (activePage === 'bar') await loadBarPage();
+            const times = await apiPost('/api/list/services', routePayload());
+            if (request !== departureRequest) return;
+            populate('time_depart', times, times.length > 0);
+            setLineStatus(times.length ? '' : 'No services match the selected filters.');
+            if (previousTime && times.includes(previousTime)) {
+                state.time_depart = previousTime;
+                sel.time_depart.value = previousTime;
+                await buildLineChart();
+            }
+        } catch (e) {
+            if (request === departureRequest) setLineStatus('Error: ' + e.message);
+        }
+    }
+
+    maxDurationInput.addEventListener('change', async () => {
+        if (!maxDurationInput.reportValidity()) return;
+        state.max_duration = maxDurationInput.value === '' ? null : maxDurationInput.valueAsNumber;
+        const previousTime = state.time_depart;
+        state.time_depart = null;
+        populate('time_depart', [], false);
+        destroyLineChart();
+        destroyBarChart();
+        document.getElementById('class-radios').innerHTML = '';
+        if (!state.date) return;
+        await loadDepartureTimes(previousTime);
+        await loadBarPage();
     });
 
     // ── line-page: departure-time select ─────────────────────────────────────
@@ -311,11 +355,14 @@
     //  PAGE 1 – line chart
     // ═════════════════════════════════════════════════════════════════════════
     async function buildLineChart() {
+        const request = ++lineRequest;
         const payload = { ...state };
         try {
             const { code: serviceCode } = await apiPost('/api/service-code', payload);
+            if (request !== lineRequest) return;
             setLineStatus('Loading price classes…');
             const classes = await apiPost('/api/list/classes', payload);
+            if (request !== lineRequest) return;
             if (!classes.length) { setLineStatus('No price data available.'); return; }
 
             setLineStatus('Loading prices…');
@@ -327,6 +374,7 @@
                     })
                 )
             );
+            if (request !== lineRequest) return;
 
             const datasets = priceData.map(({ cls, prices }, i) => ({
                 label: cls,
@@ -377,7 +425,9 @@
 
             renderLineToggles(classes);
             setLineStatus('');
-        } catch (e) { setLineStatus('Error: ' + e.message); }
+        } catch (e) {
+            if (request === lineRequest) setLineStatus('Error: ' + e.message);
+        }
     }
 
     function renderLineToggles(classes) {
@@ -439,20 +489,25 @@
 
     async function loadBarPage() {
         destroyBarChart();
+        const request = barRequest;
         document.getElementById('class-radios').innerHTML = '';
         if (!state.company || !state.depart_from || !state.arrive_at || !state.date) {
             setBarStatus('Select company, departure, arrival and date to view the chart.');
             return;
         }
 
-        const base = { company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date };
+        const base = routePayload();
         try {
             setBarStatus('Loading services…');
-            bar.services = await apiPost('/api/list/services', base);
-            if (!bar.services.length) { setBarStatus('No services found for this route and date.'); return; }
+            const services = await apiPost('/api/list/services', base);
+            if (request !== barRequest) return;
+            bar.services = services;
+            if (!bar.services.length) { setBarStatus('No services match the selected filters.'); return; }
 
             setBarStatus('Loading price classes…');
-            bar.classes = await apiPost('/api/list/classes', { ...base, time_depart: bar.services[0] });
+            const classes = await apiPost('/api/list/classes', { ...base, time_depart: bar.services[0] });
+            if (request !== barRequest) return;
+            bar.classes = classes;
             if (!bar.classes.length) { setBarStatus('No price classes found.'); return; }
 
             // Keep previous selection if still valid, otherwise default to first class.
@@ -461,7 +516,9 @@
 
             renderClassRadios(bar.classes);
             await buildBarChart(base);
-        } catch (e) { setBarStatus('Error: ' + e.message); }
+        } catch (e) {
+            if (request === barRequest) setBarStatus('Error: ' + e.message);
+        }
     }
 
     function renderClassRadios(classes) {
@@ -475,7 +532,7 @@
             radio.addEventListener('change', async () => {
                 bar.selectedClass = cls;
                 destroyBarChart();
-                const base = { company: state.company, depart_from: state.depart_from, arrive_at: state.arrive_at, date: state.date };
+                const base = routePayload();
                 await buildBarChart(base);
             });
             lbl.appendChild(radio);
@@ -486,6 +543,7 @@
 
     async function buildBarChart(base) {
         if (!bar.selectedClass || !bar.services.length) return;
+        const request = ++barRequest;
         try {
             setBarStatus('Loading prices…');
 
@@ -509,6 +567,7 @@
                     ]).then(([serviceMeta, priceData]) => ({ t, ...serviceMeta, ...priceData }))
                 )
             );
+            if (request !== barRequest) return;
 
             const labels = [], prices = [], bgColors = [], borderColors = [], trends = [], durations = [], codes = [], soldOutFlags = [];
 
@@ -581,7 +640,9 @@
             });
 
             setBarStatus('');
-        } catch (e) { setBarStatus('Error: ' + e.message); }
+        } catch (e) {
+            if (request === barRequest) setBarStatus('Error: ' + e.message);
+        }
     }
     </script>
 </body>

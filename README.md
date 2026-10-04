@@ -78,6 +78,11 @@ uvicorn main:app --host 0.0.0.0 --port 8080 --app-dir ./app
 
 If the sqlite database is not found, a new one will be created automatically.
 
+Both **Price history** and **Price by hour** share a **Maximum duration (minutes)**
+filter. Leave it blank (the default) to show all available trips. Enter a positive
+whole number to show only trips with a known duration at or below that limit;
+the price-history departure-time choices are filtered as well.
+
 To populate the database use one of the scanning programs:
 ```bash
 cd app

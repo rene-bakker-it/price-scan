@@ -9,7 +9,7 @@ from fastapi.templating import Jinja2Templates
 from pc.calls import list_names
 from pc.database import get_db
 from pc.models import DeleteCounter, IgnavQueries, Itinerary, PriceClass, Service, Sqlite
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 logger = logging.getLogger('gui')
 
@@ -30,6 +30,7 @@ class QueryParameters(BaseModel):
     date: str | None = None
     time_depart: str | None = None
     class_code: str | None = None
+    max_duration: int | None = Field(default=None, gt=0)
 
     async def _get_itinerary(self, db: Connection) -> Itinerary:
         if self.depart_from is None or self.arrive_at is None:
@@ -42,8 +43,11 @@ class QueryParameters(BaseModel):
         itinerary = await self._get_itinerary(db)
         if self.date is None:
             raise HTTPException(status_code=400, detail='Date is required')
-        return [service for service in await Service(
-                itinerary=itinerary.id, travel_date=self.date, time_depart=self.time_depart).find_by_example(db)]
+        services = await Service(
+            itinerary=itinerary.id, travel_date=self.date, time_depart=self.time_depart).find_by_example(db)
+        if self.max_duration is None:
+            return services
+        return [service for service in services if service.duration is not None and service.duration <= self.max_duration]
 
     async def _get_service(self, db: Connection) -> Service:
         if (n := len(services := await self._get_services(db))) == 0:
@@ -71,8 +75,7 @@ class QueryParameters(BaseModel):
                 itinerary = await self._get_itinerary(db)
                 return [d.strftime('%Y-%m-%d') for d in await Service(itinerary.id).find_distinct_by_attribute(db, 'date')]
             case 'services':
-                service = await self._get_service_template(db)
-                return await service.find_distinct_by_attribute(db, 'time_depart')
+                return sorted({service.time_depart for service in await self._get_services(db)})
             case 'classes':
                 codes: set[str] = set()
                 self.time_depart = None
@@ -132,14 +135,15 @@ class QueryParameters(BaseModel):
     async def list_prices_of_day(self, db: Connection) -> dict[str, list[tuple[str, float]]]:
         if self.company is None:
             raise HTTPException(status_code=400, detail="Company is required")
-        itinerary = await self._get_itinerary(db)
+        await self._get_itinerary(db)
         if self.date is None:
             raise HTTPException(status_code=400, detail='Date is required')
         if self.class_code is None:
             raise HTTPException(status_code=400, detail='Class is not specified')
         prices_of_day: dict[str, list[tuple[str, float]]] = {}
         for depart_at in await self.list_values(db, 'services'):
-            for service in await Service(itinerary.id, travel_date=self.date, time_depart=depart_at).find_by_example(db):
+            query = self.model_copy(update={'time_depart': depart_at})
+            for service in await query._get_services(db):
                 prices: list[PriceClass] = await PriceClass(service.id, class_code=self.class_code).find_by_example(db)
                 prices_of_day[depart_at] = sorted(set([DatePrice(p.timestamp, p.euro) for p in prices]))
         return prices_of_day
